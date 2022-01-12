@@ -1,0 +1,82 @@
+/* Cover override styles
+
+Created 14 May 2021 SLamb
+
+Probably needs refactoring, sorry*/
+
+.hero {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container.is-fluid {
+    max-width: none;
+    padding-left: 32px;
+    padding-right: 32px;
+    width: 100%;
+}
+
+.hero-body .container.is-fluid {
+    display: inline-block;
+    max-width: none;
+    background: none;
+    padding: 20px;
+    position: absolute;
+    bottom: 40%;
+    margin-left: 0;
+    left: 0;
+}
+
+.quire-cover__hero-body {
+    flex-grow: 0;
+}
+
+.hero-body {
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 3rem 1.5rem;
+}
+
+.has-text-centered {
+    text-align: center !important;
+}
+
+.quire-cover__hero .title {
+    font-family: "Orgreave", sans-serif;
+    font-size: 5.5rem;
+    font-weight: 400;
+    line-height: 0.8;
+    margin-bottom: 0;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transform: scaleY(1.1);
+}
+
+.quire-cover__hero .subtitle {
+  font-size: 1.4rem;
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: 0.125rem;
+  margin: 0;
+}
+
+.quire-cover .reading-line {
+  font-family: "Orgreave", sans-serif;
+  margin-top: 4rem;
+}
+
+/* Editorial heading banner */
+
+.quire-splash .quire-page__header.hero-image {
+  max-height: 200px;
+}
+
+
+@media print {
+  .quire-page__abstract .container::after {
+      margin-top: 16px;
+      margin-bottom: 16px;
+  }
+}

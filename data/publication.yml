@@ -1,0 +1,185 @@
+--- # ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: Materia
+subtitle: Journal of Technical Art History
+reading_line: "Vol. 1, Issue 1"
+short_title:
+
+description:
+  one_line:
+  full: >-
+    Materia: The Journal of Art Technical Studies’ aims to be the first digital, open source peer-review journal for the technical study of art objects. We hope to cater to a broad readership, ranging from conservation specialists, academic and museum professionals, or anyone interested in the materiality of artworks.
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2021-06-21 # YYYY-MM-DD
+language: en # update if multilanguage essays are included
+pub_type: journal-periodical # book | journal-periodical | other
+
+identifier:
+  isbn:
+  issn:
+  url:
+
+publisher:
+  - name: Materia
+    location:
+    url: https://www.materiajournal.com
+    logo: Materia_Journal_Logo.jpg
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+# contributor_as_it_appears:
+
+contributor:
+
+  - id: bgarcia
+    type: project-team
+    first_name: Bianca
+    last_name: Garcia
+    affiliation: Balboa Art Conservation Center (San Diego, CA)
+
+  - id: cbooks
+    type: project-team
+    first_name: Courtney
+    last_name: Books
+    affiliation: St. Louis Art Museum (St. Louis, MO)
+
+  - id: cprieur
+    type: project-team
+    first_name: Cynthia
+    last_name: Prieur
+    affiliation: Queen's University (Kingston, ON)
+
+  - id: ejansson
+    type: project-team # AND PRIMARY AUTHOR
+    first_name: Emma
+    last_name: Jansson
+    affiliation: Stockholm University (Stockholm, Sweden)
+
+  - id: jribits
+    type: project-team
+    first_name: Julie
+    last_name: Ribits
+    affiliation: Eskenazi Museum of Art at Indiana University (Bloomington, IN)
+
+  - id: lbay
+    type: project-team
+    first_name: Lucia
+    last_name: Bay
+    affiliation: Philadelphia Museum of Art (Philadelphia, PA)
+
+  - id: mwylder
+    type: project-team
+    first_name: Morgan
+    last_name: Wylder
+    affiliation: Balboa Art Conservation Center (San Diego, CA)
+
+  - id: rsperber
+    type: project-team
+    first_name: Roxane
+    last_name: Sperber
+    affiliation: Indianapolis Museum of Art at Newfields (Indianapolis, IN)
+
+  - id: slamb
+    type: project-team
+    first_name: Sophie
+    last_name: Lamb
+    affiliation: Hamilton Kerr Institute (Cambridge, UK)
+
+      # - id: jkeller
+      #   type: primary
+      #   first_name: Judith
+      #   last_name: Keller
+      #   title: Senior Curator of Photographs
+      #   affiliation: J. Paul Getty Museum
+      #   bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
+      #   url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
+      #   pic: contributors/judith-keller.jpg
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2021 Materia Journal
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  # - type: other-format
+  #   name: PDF
+  #   media_type: application/pdf
+  #   link_relation: alternate
+  #   url: /downloads/output.pdf
+  # - type: other-format
+  #   name: EPUB
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/output.epub
+  # - type: other-format
+  #   name: Kindle/MOBI
+  #   media_type: vnd.amazon.mobi8-ebook
+  #   link_relation: alternate
+  #   url: /downloads/output.mobi
+  - type: footer-link
+    name: About
+    url: https://www.materiajournal.com/
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: ART / History / General
+    identifer: ART015000
+  - type: bisac
+    name: ART / Conservation & Preservation
+    identifier: ART056000
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: cover.png
