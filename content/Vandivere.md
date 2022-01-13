@@ -6,20 +6,14 @@ weight: 34
 type: essay
 class:
 peer_review: "true"
-contributor_as_it_appears: Kathryn Kremnitzer
+contributor_as_it_appears: Abbie Vandivere, Carol Pottasch, and Indra Kneepkens
 contributor:
 
-abstract: Throughout the 1860s, Édouard Manet reprised his own oil paintings in watercolor to realize them in etching, a practice he repeated for several of his most accomplished and controversial canvases in the early decades of his career. The following case study, centered on the motif of *Lola de Valence*, breaks from historically medium-specific divisions within museum collections and catalogue raisonnés to offer new visual and technical evidence on the important role watercolor played in Manet’s working methods across media.
+abstract: Students in the Technical Art History master’s programme at the University of Amsterdam made reconstructions of *The Lamentation of Christ* (ca. 1460–64), a painting attributed to Rogier van der Weyden that was recently treated at the Mauritshuis, The Hague. Technical examination revealed that some passages and pigments in this artwork have changed over the centuries. By focusing their reconstructions on specific research questions, the students’ reconstructions provided new insights into some of these changes. Their research focused on preparatory phases (underdrawing and intermediate layer), changes that have occurred in coloured fabrics, and small reflective details like gems and blood.
 
 ---
 
-Abbie Vandivere, Carol Pottasch, and Indra Kneepkens
-
-**Abstract**
-
-Students in the Technical Art History master’s programme at the University of Amsterdam made reconstructions of *The Lamentation of Christ* (ca. 1460–64), a painting attributed to Rogier van der Weyden that was recently treated at the Mauritshuis, The Hague. Technical examination revealed that some passages and pigments in this artwork have changed over the centuries. By focusing their reconstructions on specific research questions, the students’ reconstructions provided new insights into some of these changes. Their research focused on preparatory phases (underdrawing and intermediate layer), changes that have occurred in coloured fabrics, and small reflective details like gems and blood.
-
-**Introduction**
+## Introduction
 
 Educational programmes that train paintings conservators or technical art historians often involve students in making reconstructions of artworks.[^1] At the University of Amsterdam, students from the Technical Art History master’s programme learn about the process of making and the stratigraphy of historical paintings, as well as the interpretation of technical data, by attempting to make a faithful copy of a painting using historically appropriate materials and techniques. In 2020, students based their reconstructions on the *Lamentation of Christ* (ca. 1460–64) attributed to Rogier van der Weyden, which is the oldest painting in the collection of the Mauritshuis, The Hague, in the Netherlands (**Fig. 1**).[^2] In 2018–19, this artwork underwent a thorough technical examination using advanced scientific technologies, as well as conservation and restoration treatment, in front of the public.[^3] The results from this research were an excellent basis for the student reconstructions and led to discoveries about the materials and techniques that were used to make the painting.
 
@@ -31,7 +25,7 @@ By making reconstructions of specific areas of the *Lamentation*, the students c
 
 That said, there are some obvious limitations to this approach. While a fifteenth-century Netherlandish artist would have been trained over several years as an apprentice in a master’s workshop, these modern-day students had little prior experience with making reconstructions as part of a course in interpreting art historical sources. This meant that they quickly gained a lot of tacit knowledge, including the affordances and properties of various materials and the way they can be used to create certain effects *while working.* Such a learning-by-doing approach means that the students inevitably made some – often quite insightful – mistakes, and may have experienced difficulties that professional artists would not have. Moreover, in some cases concessions had to be made regarding the historical appropriateness of materials and tools due to safety regulations and practical limitations. Despite our efforts, it is never possible to truly replicate a historical process in all its peculiarities, and it has not always been possible to prove that an effect observed in one of the reconstructions necessarily accounts for a similar effect in Van der Weyden’s *Lamentation*. However, performing technical analysis on the reconstructions and comparing the results with those from the original artwork provides both students and readers with an opportunity to gain deeper insight – not only into the quality of the reconstructions – but also into the interpretation of the historical painting. Therefore, we would like to propose that technical research into reconstructions become a more common part of reconstruction-based research, as well as education.
 
-**Reconstructions**
+## Reconstructions
 
 As part of the course “Historical Reconstructions,” selected areas of the *Lamentation* were reconstructed by second-year students of the Technical Art History master’s programme in the Conservation and Restoration Department of the University of Amsterdam.[^10] Two paintings conservators who had participated in the treatment of Van der Weyden’s *Lamentation* at the Mauritshuis (authors Pottasch and Vandivere) made reconstructions alongside the students. The course was supervised and coordinated by the third author (Kneepkens).
 
@@ -39,7 +33,7 @@ Before the reconstruction process began, the conservators gave a presentation ab
 
 Each student joined two oak planks, sized the panel, and applied and sanded a chalk-glue ground.[^11] The next phase was the application of the underdrawing, using the infrared reflectogram as a guide (see Question 1 below). On top of this underdrawing, they applied a thin pinkish-grey intermediate layer (see Question 2). The students continued painting their selected area based on the technical information provided. “Historically appropriate” pigments and materials were selected when possible, but for reasons of safety and time limitations some substitutions had to be made (see **Table 1**).[^12] Naturally, the materials and stratigraphies of the reconstructions varied somewhat based on the research questions and the choices made by each student. Within their 12 Í 12–cm squares, some parts were “finished,” and others were left intentionally incomplete or incorporated materials or techniques that differed slightly from those used in the original painting. Each student kept a logbook documenting their steps and observations and photographed their reconstructions at different stages. Through the process of exploration and reconstruction, new questions and observations arose that generated discussions amongst the group. Five questions were selected for this article, based on different parts of the painting’s layer structure.
 
-**Research Questions**
+## Research Questions
 
 **1. What does the appearance of the underdrawing in the reconstructions tell us about the preparatory phases of Van der Weyden’s *Lamentation*?**
 
@@ -111,7 +105,7 @@ A simpler technique was used to paint the drops of blood dripping from Christ’
 
 These reconstructions suggested that the successful imitation of gems and blood droplets depends less on the meticulous rendering of tiny details, and more on adhering to a consistent formula. In his logbook, a student remarked that Van der Weyden would have needed to plan ahead and follow a series of specific steps, with ample time for drying between each.
 
-**Conclusion**
+## Conclusion
 
 Reflecting on the experience of reconstructing various sections of Rogier van der Weyden’s *Lamentation*, all students reported major and minor discoveries that they would never have made if it were not for their physical involvement in every step of the production process. Most of these results have a primarily didactic value. As is often the case in reconstruction-based art-technological research, there is a certain degree of subjectivity that must be taken into account. It is also important to consider that the reported observations are those of novice painters. Nonetheless, the exercise provided some insights into the use of certain materials and techniques, and its effects on the discolouration of the *Lamentation*.
 
@@ -123,13 +117,16 @@ A crucial element of this study was examining the reconstructions with some of t
 
 Making these historically informed reconstructions was a humbling experience. Regardless of the body of data we now have on the *Lamentation*, there was always some crucial information missing. Although some of the reconstructions came close to mimicking Van der Weyden’s finest details, all the students were happy to acknowledge that they would need more practice to become a master.
 
-**Acknowledgments**
+***
+
+## Acknowledgments
 
 Edwin Buijsen (Mauritshuis), Kirsten Derks (University of Antwerp), Harlie Des Roches, Lieve d’Hont (University of Amsterdam), Anne-Sofie Hamers (Technical Art History student), Ralph Haswell (Shell Technology Centre Amsterdam), Erma Hermens (University of Amsterdam/Rijksmuseum), Arjan de Koomen (University of Amsterdam), Ingrid Kramer (Technical Art History student), Paul van Laar (Technical Art History student), Annelies van Loon (Mauritshuis/Rijksmuseum), Herman den Otter (University of Amsterdam), Sabrina Meloni (Mauritshuis), Ariane van Suchtelen (Mauritshuis), Margareta Svensson, Mané van Veldhuizen (Technical Art History student).
 
-**Table 1. Materials Used in Reconstructions**
+***
 
-+--------------------------+----------------------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+## Table 1. Materials Used in Reconstructions
+
 | **Reconstruction stage** | **Materials**                    | **Manufacturer**                                                                                              | **Additional information**                                                                                                                                                                                                                                  |
 +--------------------------+----------------------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Panel                    | Quarter-sawn European oak planks |                                                                                                               | Provided by Herman den Otter                                                                                                                                                                                                                                |
@@ -178,6 +175,9 @@ Edwin Buijsen (Mauritshuis), Kirsten Derks (University of Antwerp), Harlie Des R
 ^a^ Indra Kneepkens, “Masterful Mixtures: Practical Aspects of Fifteenth- and Early Sixteenth-Century Oil Paint Formulation” (PhD diss., University of Amsterdam, 2021).
 
 ^b^ Made according to “ML-Std” and “ML-pot-Al” recipes in Kirby, van Bommel, and Verheken, *Natural Colorants for Dyeing and Lake Pigments*, 91–92.
+
+***
+## Notes
 
 [^1]: Mary Kempski, “Making Reconstructions at the Hamilton Kerr Institute,” in *In Artists’ Footsteps: The Reconstruction of Pigments and Paintings*, ed. Lucy Wrapson et al. (London: Archetype, 2012), 1–16.
 
