@@ -7,27 +7,30 @@ type: splash
 image: lazarte.jpg
 ---
 
-Welcome to the first issue of *Materia: Journal of Technical Art History*. This project began in March 2020 during an online chat among a group of friends and colleagues who were frustrated by the unprecedented lack of access to research materials during the Covid-19 pandemic. Over the course of the last fifteen months, we have worked to refine our original idea and bring it to life. *Materia* has been a collaborative effort to establish a uniquely accessible space that will help bridge the divide between what are often treated as separate disciplines, such as art history, conservation, conservation science, and other contributing fields. We founded this journal to encourage dialogue and partnerships among scholars from different backgrounds and circumvent traditional academic and institutional hierarchies.
+A Letter from the Editors
 
-From the beginning, our team identified the need for a publication dedicated to technical art history, an expanding field of research. As the project evolved, we recognized the potential for an open-access platform to reach a more inclusive and diverse audience. For the pilot issue, we solicited a handful of articles from  colleagues who kindly agreed to participate. Technical studies form the inherent backbone of this discipline and are represented by three articles in this issue of *Materia*. Among them is an article by Jessica David, Richard Hark, and Edward Town, from the Yale Center for British Art, exploring what macro X-ray fluorescence scanning (MA-XRF) can reveal about a group of portraits by prominent seventeenth- and eighteenth-century English painters.
+Welcome to the second issue of *Materia: Journal of Technical Art History*, filled with a wide range of articles documenting technical research from around the globe. We are proud to note that the majority of the articles included here are authored by students and early-career scholars, who contribute some of the most thorough research in our field but whose work often remains unpublished. As part of our founding vision for *Materia*, we sought to create a space where students and early-career professionals would feel empowered to submit their research and be supported throughout the editing process.
 
-Gianluca Poldi, Maria Letizia Amadori, and Valeria Mengacci present a technical study of Giovanni Santi (ca. 1439–1494), the esteemed but less-extensively studied father of Raphael. Building upon previous research into Santi’s materials and techniques, this article explores the details of two paintings on canvas in the collection of Galleria Nazionale delle Marche.
+Annabelle Camp is the first student to publish in *Materia* and presents an unusual case study of a utilitarian object—a child’s overcoat from the Dolgan (*tiajono*) peoples of Siberia. Also in this issue are two articles about artists who have been historically marginalized. Annie Walke was a female artist working in Cornwall in the early twentieth century whose work has been all but lost to history. Acknowledging Walke’s legacy, Anna Vesaluoma and Maria Vittoria Pellini spotlight her paintings and poetry in their comprehensive study. Meredith Watson offers a fascinating exploration of Betty Blayton, an African American female artist and educator working in Harlem in the second half of the twentieth century. While Blayton has received increased attention in recent years, including an exhibition at the Mnuchin Gallery in New York City, few technical studies of her works have been carried out to date.
 
-The third technical study, by José Lazarte, Silvia Centeno, and Federico Carò, considers the eighteenth-century painter Juan Francisco de Aguilera, active in New Spain. Building on the technical examination of a painting on copper support by Aguilera, their research presents one of the first studies dedicated to understanding the artist’s materials and painting techniques.
+This issue also features some fresh approaches to the works of more fully studied artists. Ruby Awburn, Sophie Lynford, and Georgina Rayner contribute an illuminating study of the sociohistorical context and working practices of Albert Moore, a late nineteenth-century leader of the British Aesthetic movement. Their seamless, interdisciplinary collaboration exemplifies the possibilities that this research methodology can offer. Presenting the results of a collaborative effort with students from the Technical Art History programme at the University of Amsterdam, Abbie Vandivere, Carol Pottasch, and Indra Kneepkens explore how historical reconstructions can be used to clarify the historic practices of painters, in this case Rogier van der Weyden’s masterly painting effects, as well as how the appearance of his works has changed over time.
 
-This issue also includes a set of articles of a more theoretical nature stemming from the question “What does it mean to situate meaning in an artwork’s materiality?”. Conceived in relationship to one another, “Technical Art History and the Art Historical Thing” by Michael Yonan and “Toward a ‘Theory’ for Technical Art History” by Emma Jansson address many of the benefits, but also some of the remaining challenges, involved with integrating material perspectives into a broader art historical inquiry.
+Kathryn Kremnitzer offers a new take on Édouard Manet’s watercolor practice, which to date has been a relatively understudied yet important part of Manet’s working process. Lastly, Rowan Frame presents research with a slightly different focus, in an article structured around the historical perception of a notorious nineteenth-century material: bitumen. Frame’s article provides a historiographic overview of conflicting narratives surrounding bitumen and how it has become linked to certain degradation phenomena in paintings, some of which may in turn have inspired twentieth-century artists to exploit these effects.
 
-We are delighted that these articles launch *Materia* into cyber-being. Although this first issue concentrates on the technical examination of easel paintings, largely due to our own professional backgrounds and networks, we are actively seeking submissions on a diversity of art media and cultural heritage for future issues. Scholars are also encouraged to submit a copy of their work in a second language when relevant, so that we may expand access to non-English speakers.
+In addition to our excellent contributing authors, we wish to extend our thanks to several new *Materia* team members, editors LaStarsha McGarity and Anouk Jonker, and copy editor Katrina Posner. We would also once again like to thank our dedicated copy editor Mary Cason, who has been with us from the very beginning.
 
-We are grateful to the various organizations and people that have offered us encouragement, advice, and valuable insights along the way. It has been our honor to have such an excellent roster of international authors entrust us with their research. We would also like to thank Getty Publications for the opportunity to use their new publishing software Quire as the platform for our digital publication. We could not have created our first issue without the troubleshooting support from Erin Cecele, Greg Albers, and Daniel Keller. A big thanks to Anton Balitskyi for creating our website. We are also grateful to the editorial team at *J18: A Journal of Eighteenth-Century Art and Culture*, in particular Hannah Williams and Meredith Martin, for sharing their experience launching a new open-access digital publication. The content of this first issue was greatly enriched by the efforts and feedback of our peer reviewers, whom we thank for offering their contributions. We are deeply indebted to the work of our manuscript editor Mary Cason, who has been a valuable member of our team throughout this adventure.
+Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of “Across Media.*.* For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
 
-*Materia* is designed to be an inclusive platform, thus we welcome submissions on all forms of cultural heritage. Submissions for the next issue of *Materia* are now open, with an initial deadline for abstracts of July 15, 2021. We encourage anyone interested to consult our [Submission Guidelines](https://materiajournal.com/submissions), which can be found on the *Materia* website along with the current issue. Without further ado, we wish you happy reading!
+Happy reading
 
 
 
 <br>
 
 **The *Materia* team**
+<br>
+<br>
+Anouk Jonker
 <br>
 ​Bianca García
 <br>
@@ -38,6 +41,8 @@ Cynthia Prieur
 Emma Jansson
 <br>
 Julie Ribits
+<br>
+LaStarsha McGarity
 <br>
 Lucia Bay
 <br>
