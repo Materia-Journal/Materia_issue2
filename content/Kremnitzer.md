@@ -1,7 +1,7 @@
 ---
 label:
-title: "Manet Across Media"
-subtitle: "Looking at *Lola de Valence*"
+title: "Manet Across Media : Looking at *Lola de Valence*"
+subtitle:
 weight: 33
 type: essay
 class:

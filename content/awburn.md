@@ -1,7 +1,7 @@
 ---
 label:
-title: "Process to Product"
-subtitle: "A Technical Investigation into the Working Practices of Albert Moore"
+title: "Process to Product : A Technical Investigation into the Working Practices of Albert Moore"
+subtitle:
 weight: 31
 type: essay
 class:

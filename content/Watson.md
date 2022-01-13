@@ -1,7 +1,7 @@
 ---
 label:
-title: " “Spiritual Abstraction” "
-subtitle: "The Art and Work of Betty Blayton"
+title: " “Spiritual Abstraction” : The Art and Work of Betty Blayton"
+subtitle:
 weight: 36
 type: essay
 class:

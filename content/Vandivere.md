@@ -1,7 +1,7 @@
 ---
 label:
-title: "Reconstructing Rogier"
-subtitle: "Practical Insights into the Original Appearance of the *Lamentation* Attributed to Rogier van der Weyden, Based on Student Reconstructions"
+title: "Reconstructing Rogier : Practical Insights into the Original Appearance of the *Lamentation* Attributed to Rogier van der Weyden, Based on Student Reconstructions"
+subtitle:
 weight: 34
 type: essay
 class:
