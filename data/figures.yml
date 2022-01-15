@@ -1,106 +1,111 @@
 figure_list:
-- id: “1.1”
-  src: figures/camp/fig-1-camp.jpg
+- id: "1.1"
+  src: figures/Camp/fig-1-camp.jpg
   label: "**Fig. 1a**"
   caption: "**Fig. 1a** The child's overcoat (#A1524) front (left) and back (right) before treatment."
   alt:
-- id: "1.1b"
-  src: figures/camp/fig-1.2-camp.jpg
+- id: "1.122"
+  src: figures/Camp/fig-1.2-camp.jpg
   label: "**Fig. 1b**"
   caption: "**Fig. 1b** Construction diagrams of the child’s overcoat, front (left) and back (right), with seams shown in yellow."
   alt:
-- id: “1.2”
-  src: figures/camp/fig-2-camp.jpg
-  label: "**Fig. 2**"
+- id: "1.2"
+  src: figures/Camp/fig-2-camp.jpg
+  label: "**Fig. 2a**"
   caption: "**Fig. 2** The hood edging has different fur than the body of the coat, as shown in this detail."
   alt:
-- id: “1.2b”
-  src: figures/camp/fig-2.2-camp.jpg
+- id: "1.22"
+  src: figures/Camp/fig-2.2-camp.jpg
   label: "**Fig. 2b**"
   caption: "**Fig. 2b** Follicle patterns of the main skin (left) and skin edging around the hood (right)."
   alt:
-- id: “1.3”
-  src: figures/camp/fig-3-camp.jpg
+- id: "1.3"
+  src: figures/Camp/fig-3-camp.jpg
   label: "**Fig. 3**"
   caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
   alt:
-- id: “1.4”
-  src: figures/camp/fig-4-camp.jpg
+- id: "1.4"
+  src: figures/Camp/fig-4-camp.jpg
   label: "**Fig. 4**"
   caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
   alt:
-- id: “1.5”
-  src: figures/camp/fig-5-camp.jpg
+- id: "1.5"
+  src: figures/Camp/fig-5-camp.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** The back of the hood, before treatment."
   alt:
-- id: “1.6”
-  src: figures/camp/fig-6-camp.jpg
+- id: "1.6"
+  src: figures/Camp/fig-6-camp.jpg
   label: "**Fig. 6**"
   caption: "**Fig. 6** The Ushkov Company stamp found on the bottom textile strip."
   alt:
-- id: “1.7”
-  src: figures/camp/fig-7-camp.jpg
+- id: "1.7"
+  src: figures/Camp/fig-7-camp.jpg
   label: "**Fig. 7**"
   caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
   alt:
-- id: “1.8”
-  src: figures/camp/fig-8-camp.jpg
+- id: "1.8"
+  src: figures/Camp/fig-8-camp.jpg
   label: "**Fig. 8**"
   caption: "**Fig. 8** Detail of beading on the bottom textile strip."
   alt:
-- id: “1.9”
-  src: figures/camp/fig-9-camp.jpg
+- id: "1.9"
+  src: figures/Camp/fig-9-camp.jpg
   label: "**Fig. 9**"
   caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
   alt:
-- id: “1.10”
-  src: figures/camp/fig-10-camp.jpg
+- id: "1.10"
+  src: figures/Camp/fig-10-camp.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this  deterioration."
+  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
   alt:
-- id: “1.11”
-  src: figures/camp/fig-11-camp.jpg
+- id: "1.11"
+  src: figures/Camp/fig-11-camp.jpg
   label: "**Fig. 11**"
   caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
   alt:
-- id: “1.12”
-  src: figures/camp/fig-12-camp.jpg
+- id: "1.12"
+  src: figures/Camp/fig-12-camp.jpg
   label: "**Fig. 12**"
   caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
   alt:
-- id: “1.13”
-  src: figures/camp/fig-13-camp.jpg
+- id: "1.13"
+  src: figures/Camp/fig-13-camp.jpg
   label: "**Fig. 13**"
   caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
   alt:
-- id: “1.14”
-  src: figures/camp/fig-14-camp.jpg
+- id: "1.14"
+  src: figures/Camp/fig-14-camp.jpg
   label: "**Fig. 14**"
   caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
   alt:
-- id: “1.15”
-  src: figures/camp/fig-15-camp.jpg
+- id: "1.15"
+  src: figures/Camp/fig-15-camp.jpg
   label: "**Fig. 15**"
   caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
   alt:
-- id: “1.17a”
-  src: figures/camp/fig-17-camp.jpg
+- id: "1.16"
+  src: figures/Camp/fig-16-camp.jpg
+  label: "**Fig. 16**"
+  caption: "**Fig. 16**"
+  alt:
+- id: "1.17"
+  src: figures/Camp/fig-17-camp.jpg
   label: "**Fig. 17a**"
   caption: "**Fig. 17a** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
-- id: “1.17b”
-  src: figures/camp/fig-17.2-camp.jpg
+- id: "1.172"
+  src: figures/Camp/fig-17.2-camp.jpg
   label: "**Fig. 17b**"
   caption: "**Fig. 17b**"
   alt:
-- id: “1.18a”
-  src: figures/camp/fig-18-camp.jpg
+- id: "1.18"
+  src: figures/Camp/fig-18-camp.jpg
   label: "**Fig. 18a**"
   caption: "**Fig. 18a** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
-- id: “1.18b”
-  src: figures/camp/fig-18.2-camp.jpg
+- id: "1.182"
+  src: figures/Camp/fig-18.2-camp.jpg
   label: "**Fig. 18b**"
   caption: "**Fig. 18b** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
