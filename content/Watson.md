@@ -2,7 +2,7 @@
 label:
 title: " “Spiritual Abstraction” : The Art and Work of Betty Blayton"
 subtitle:
-weight: 36
+weight: 32
 type: essay
 class:
 peer_review: "true"

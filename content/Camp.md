@@ -1,7 +1,7 @@
 ---
 label:
 title: "Technical Analysis and Treatment of a Siberian Reindeer-Fur Overcoat"
-weight: 37
+weight: 30
 type: essay
 class:
 peer_review: "true"
