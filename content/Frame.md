@@ -1,7 +1,7 @@
 ---
 label:
 title: "The Problem with Bitumen"
-weight: 32
+weight: 36
 type: essay
 class:
 peer_review: "true"

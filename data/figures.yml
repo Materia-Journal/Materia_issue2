@@ -1,246 +1,444 @@
 figure_list:
-  - id: "1.1"
-    src: figures/David/fig-1-david_et_al.jpg
-    label: "**Fig. 1**"
-    caption: "**Fig. 1** MA-XRF element maps for iron (in orange) and copper (in blue) of nine eyes from the following portraits: (a) Cornelius Johnson, *Martha Temple, Lady Penyston*, 1619, oil on panel; (b) Cornelius Johnson, *Sir Alexander Temple*, 1620, oil on panel; (c) Sir Anthony van Dyck, *Queen Henrietta Maria*, ca. 1636, oil on canvas; (d) Sir Anthony van Dyck, *Mountjoy Blount, Earl of Newport*, 1637–38, oil on canvas; (e) Cornelius Johnson, *Portrait of a Man*, early 1650s, oil on canvas; (f) Sir Peter Lely, *Diana Kirke, later Countess of Oxford*, ca. 1665, oil on canvas; (g) Mary Beale, *Bartholomew Beale*, ca. 1660, oil on paper laid to canvas; (h) Sir Godfrey Kneller, *Lady Mary Wortley Montagu*, ca. 1715–20, oil on canvas; (i) Sir Godfrey Kneller, *Self-portrait*, oil on canvas. There is a small amount of copper in each scan, but only in the (a) and (b) images does the copper relate to the hue of the upper paint layer, a blue identified as azurite that was used on the sitters’ irises. The application of iron-based (earth) pigments also varies among portraits from softly blended gradations that define form to looser, linear paint strokes that describe contour."
-    credit:
-  - id: "1.2"
-    src: figures/David/fig-2-david_et_al.jpg
-    label: "**Fig. 2**"
-    caption: "**Fig. 2** Overall images of Lely, *Lady Frances Savile, later Lady Brudenell*, ca. 1668, oil on canvas, 30 1/4 × 25 1/8 inches (76.8 × 63.8 cm); and Kneller, *Lady Mary Wortley Montagu*, ca. 1715–20, oil on canvas, 35 1/8 × 27 1/4 inches (89.2 × 69.2 cm); both Yale Center for British Art, Paul Mellon Collection; with MA-XRF maps of calcium (yellow = a), iron (orange = b), and lead (white = c) for each portrait. It is evident from just these scans that the two painters approached flesh painting differently. Kneller’s brushwork is more energetic, his paint thinner and less blended than Lely’s, whose flesh and textile paint are more worked up, the paint blended to form soft tonal transitions and volumes."
-    credit:
-  - id: "1.3"
-    src: figures/David/fig-3-david_et_al.jpg
-    label: "**Fig. 3**"
-    caption: "**Fig. 3** Cornelius Johnson, *Martha Temple, Lady Penyston*, 1619, oil on panel, 29 × 26 inches (73.7 × 66 cm); and *Sir Alexander Temple*, 1620, oil on panel, 26 × 20 inches (66 × 50.8 cm); Yale Center for British Art, Paul Mellon Collection."
-    credit:
-  - id: "1.4"
-    src: figures/David/fig-4-david_et_al.jpg
-    label: "**Fig. 4**"
-    caption: "**Fig. 4** MA-XRF element maps of iron (relating to earth pigments, represented with orange = a and mercury (relating to vermilion) in red = b from the faces of the portraits illustrated in Fig. 3."
-    credit:
-  - id: "1.5"
-    src: figures/David/fig-5-david_et_al.jpg
-    label: "**Fig. 5**"
-    caption: "**Fig. 5** Cornelius Johnson, *Martha Temple, Lady Penyston*, 1619, oil on panel, 26¾ × 20 inches (68 × 51 cm). Private collection."
-    credit:
-  - id: "1.6"
-    src: figures/David/fig-6-david_et_al.jpg
-    label: "**Fig. 6**"
-    caption: "**Fig. 6** Cornelius Johnson, *Portrait of a Man*, early 1650s, oil on canvas, 41 × 33 inches (104.1 × 83.8 cm), Yale Center for British Art, Paul Mellon Collection: detail of the face; MA-XRF map of mercury (red) from the same face."
-    credit:
-  - id: "1.7"
-    src: figures/David/fig-7-david_et_al.jpg
-    label: "**Fig. 7**"
-    caption: "**Fig. 7** Detail of nose and mouth of *Martha Temple, Lady Penyston*; beside it, MA-XRF maps for calcium (yellow = a) and potassium (turquoise = b) relating to organic red lake pigment."
-    credit:
-  - id: "1.8"
-    src: figures/David/fig-8-david_et_al.jpg
-    label: "**Fig. 8**"
-    caption: "**Fig. 8** Sir Anthony van Dyck, *Queen Henrietta Maria*, ca. 1636, oil on canvas, 41 5/8 × 33 inches (105.7 × 84.5 cm). Private collection."
-    credit:
-  - id: "1.9"
-    src: figures/David/fig-9-david_et_al.jpg
-    label: "**Fig. 9**"
-    caption: "**Fig. 9** Sir Anthony van Dyck, *Mountjoy Blount, Earl of Newport*, 1637-38, oil on canvas, 85 × 51 inches (215.9 × 129.5 cm). Yale Center for British Art, Paul Mellon Collection."
-    credit:
-  - id: "1.10"
-    src: figures/David/fig-10-david_et_al.jpg
-    label: "**Fig. 10**"
-    caption: "**Fig. 10** Details of the sitters’ faces in Figs. 8 and 9 and MA-XRF elemental maps of iron (orange = a), mercury (red = b), and manganese, which relates to a brown umber pigment (purple = c)."
-    credit:
-  - id: "1.11"
-    src: figures/David/fig-11-david_et_al.jpg
-    label: "**Fig. 11**"
-    caption: "**Fig. 11** Details of the face of *Henrietta Maria* showing (left) cool brown paint in the shadows of her face, demarcating her brow and the left side of her nose, over which a greenish-blue hue was scumbled, followed by (right) a final scattering of azurite that bridges the shadows and highlights on the flesh."
-    credit:
-  - id: "1.12"
-    src: figures/David/fig-12-david_et_al.jpg
-    label: "**Fig. 12**"
-    caption: "**Fig. 12** MA-XRF maps of copper (blue) from the faces of *Henrietta Maria* and *Mountjoy Blount*, illustrating the disparate use and placement of copper-containing materials. On *Henrietta Maria* azurite was used for its hue and sparkling luminosity; on *Mountjoy* the copper seems to be an additive to aid drying and not an intentional colorant. "
-    credit:
-  - id: "1.13"
-    src: figures/David/fig-13-david_et_al.jpg
-    label: "**Fig. 13**"
-    caption: "**Fig. 13** MA-XRF map of copper (blue) from *Henrietta Maria*, supporting the conclusion that quantities of the copper-based pigment, azurite, were used on her face and bust but apparently none on her arms and hands."
-    credit:
-  - id: "1.14"
-    src: figures/David/fig-14-david_et_al.jpg
-    label: "**Fig. 14**"
-    caption: "**Fig. 14** Sir Peter Lely, *Diana Kirke, later Countess of Oxford*, ca. 1665, oil on canvas, 52 × 41 inches (132.1 × 104.1 cm), Yale Center for British Art, Paul Mellon Collection: detail of her face; MA-XRF scans of iron (orange = a), mercury (red = b), and manganese (purple = c) from the face. "
-    credit:
-  - id: "1.15"
-    src: figures/David/fig-15-david_et_al.jpg
-    label: "**Fig. 15**"
-    caption: "**Fig. 15** Sir Peter Lely, *Sir Ralph Bankes*, ca. 1660, oil on canvas, 46 7/8 × 38 3/4 inches (119.1 × 98.4 cm), Yale Center for British Art. Overall and detail of the face, which showcases Lely’s discreet placement of color “patches” and minimal blending."
-    credit:
-  - id: "1.16"
-    src: figures/David/fig-16-david_et_al.jpg
-    label: "**Fig. 16**"
-    caption: "**Fig. 16** Mary Beale, *Bartholomew Beale*, ca. 1660, oil on paper laid to canvas, 14 × 11 inches (35.6 × 27.9 cm), Yale Center for British Art, Paul Mellon Collection: macro photograph showing loose, wet-in-wet brushwork on Bart’s face."
-    credit:
-  - id: "1.17"
-    src: figures/David/fig-17-david_et_al.jpg
-    label: "**Fig. 17**"
-    caption: "**Fig. 17** Detail of the cheek of *Bartholomew Beale* compared with overlaid MA-XRF scans of lead (white), iron (orange), mercury (red), and manganese (purple) from the same region of the portrait plus individual maps of each element where Pb = a, Fe = b, Hg = c, Mn = d."
-    credit:
-  - id: "1.18"
-    src: figures/David/fig-18-david_et_al.jpg
-    label: "**Fig. 18**"
-    caption: "**Fig. 18** Sir Godfrey Kneller, *Sir Theodore Colladon*, ca. 1705, oil on canvas, 30 × 25 inches (76.2 × 63.5 cm), Yale Center for British Art, Paul Mellon Collection: detail of the sitter’s face."
-    credit:
-  - id: "1.19"
-    src: figures/David/fig-19-david_et_al.jpg
-    label: "**Fig. 19**"
-    caption: "**Fig. 19** Detail of *Lady Mary Wortley Montagu* with MA-XRF maps of calcium (yellow). Sinuous lines of a chalk-containing material delineate the contours of her facial features."
-    credit:
-  - id: "1.20"
-    src: figures/David/fig-20-david_et_al.jpg
-    label: "**Fig. 20**"
-    caption: "**Fig. 20** Sir Godfrey Kneller, *Self-portrait*, oil on canvas, 25 5/8 × 21 inches (65.1 × 53.3 cm), Yale Center for British Art, Paul Mellon Collection: MA-XRF maps for calcium showing a detail of the sitter’s head."
-    credit:
-  - id: "2.1"
-    src: figures/Poldi/fig-1-poldi_et_al.jpg
-    label: "**Fig. 1**"
-    caption: "**Fig. 1** Giovanni Santi, *Tobias and the Archangel Raphael (Tobiolo e l’arcangelo Raffaele)*, 1490–94, egg tempera and oil on canvas, 96 7/16 x 62 3/16 in. (245 x 158 cm). Galleria Nazionale delle Marche, Urbino, long–term loan to Museo di Casa Raffaello. (Photo: courtesy Galleria Nazionale delle Marche, Palazzo Ducale, Urbino)."
-  - id: "2.2"
-    src: figures/Poldi/fig-2-poldi_et_al.jpg
-    label: "**Fig. 2**"
-    caption: "**Fig. 2** Giovanni Santi, *Saint Roch (San Rocco)*, 1490–94, egg tempera and oil on canvas, 95 11/16 x 57 7/8 in. (243 x 147 cm). Galleria Nazionale delle Marche, Urbino, long-term loan to Museo di Casa Raffaello. (Photo: courtesy Galleria Nazionale delle Marche, Palazzo Ducale, Urbino)."
-  - id: "2.3"
-    src: figures/Poldi/fig-3-poldi_et_al.jpg
-    label: "**Fig. 3**"
-    caption: "**Fig. 3** Giovanni Santi, *Saint Jerome (San Girolamo)*, 1475–78, canvas,  82 11/16 x 66 15/16  (210 x 170 cm). Vatican Museums, Vatican City. (Photo: public domain)."
-    credit:
-  - id: "2.4"
-    src: figures/Poldi/fig-4-poldi_et_al.jpg
-    label: "**Fig. 4**"
-    caption: "**Fig. 4** Giovanni Santi, *Saint Jerome*. Detail. (Photo: G. Poldi)."
-    credit:
-  - id: "2.5"
-    src: figures/Poldi/fig-5-poldi_et_al.jpg
-    label: "**Fig. 5**"
-    caption: "**Fig. 5a-b** Giovanni Santi, *Saint Roch*. Visible and IR detail. (Image: G. Poldi)."
-    credit:
-  - id: "2.6"
-    src: figures/Poldi/fig-6-poldi_et_al.jpg
-    label: "**Fig. 6**"
-    caption: "**Fig. 6a-b** Giovanni Santi, *Tobias and the Archangel Raphael*. Visible and IR detail of the archangel’s violet surcoat. (Image: G. Poldi)."
-    credit:
-  - id: "2.7"
-    src: figures/Poldi/fig-7-poldi_et_al.jpg
-    label: "**Fig. 7**"
-    caption: "**Fig. 7a-b** Giovanni Santi, *Tobias and the Archangel Raphael*. Visible and IR detail with the change of position in Tobias’s leg. (Image: G. Poldi)."
-    credit:
-  - id: "2.8"
-    src: figures/Poldi/fig-8-poldi_et_al.jpg
-    label: "**Fig. 8**"
-    caption: "**Fig. 8a-c** Giovanni Santi, *Tobias and the Archangel Raphael*. Clockwise: (a) texture of the painted canvas; (b) digital micrograph of the canvas with its white ground; (c) ESEM micrograph, detail of the linen fibres. (Image: M.L. Amadori)."
-  - id: "2.9"
-    src: figures/Poldi/fig-9-poldi_et_al.jpg
-    label: "**Fig. 9**"
-    caption: "**Fig. 9a-c** Giovanni Santi, *Tobias and the Archangel Raphael*. Yellow cloak of the archangel: clockwise, (a) detail of the sampled area; (b) visible light micrograph of the cross-section, sample GSS2; (c) ESEM micrograph. (Image: M.L. Amadori)."
-    credit:
-  - id: "2.10"
-    src: figures/Poldi/fig-10-poldi_et_al.jpg
-    label: "**Fig. 10**"
-    caption: "**Fig. 10a-d** Giovanni Santi, *Tobias and the Archangel Raphael*. Tobias’s green dress: clockwise, (a) detail of the sampled area with the diagonal finishing hatching; (b) digital micrograph; (c) ESEM micrograph of the cross-section, with glass particle; (d) visible light micrograph of the cross-section, sample GSS1, with verdigris, lead white, a few particles of lead-tin yellow type I, a grain of red lake. (Image: M.L. Amadori)."
-    credit:
-  - id: "2.11"
-    src: figures/Poldi/fig-11-poldi_et_al.jpg
-    label: "**Fig. 11**"
-    caption: "**Fig. 11** Giovanni Santi, *Tobias and the Archangel Raphael*. Detail of the archangel’s right sleeve. (Photo: G. Poldi)."
-    credit:
-  - id: "2.12"
-    src: figures/Poldi/fig-12-poldi_et_al.jpg
-    label: "**Fig. 12**"
-    caption: "**Fig. 12** Giovanni Santi, *Saint Jerome*. Detail of the cloak. (Photo: G. Poldi)."
-    credit:
-  - id: "2.13"
-    src: figures/Poldi/fig-13-poldi_et_al.jpg
-    label: "**Fig. 13**"
-    caption: "**Fig. 13a-d** Giovanni Santi, *Tobias and the Archangel Raphael*. Red sleeve, archangel’s wrist: clockwise, (a) detail of the sampled area; (b) digital micrograph of the brushstroke; (c) ESEM micrograph of the cross-section, with red lake, lead white, and glass particles; (d) visible light micrograph of the cross-section, sample GSS3. (Image: M.L. Amadori)."
-    credit:
-  - id: "2.14"
-    src: figures/Poldi/fig-14-poldi_et_al.jpg
-    label: "**Fig. 14**"
-    caption: "**Fig. 14a-d** Giovanni Santi, *Tobias and the Archangel Raphael*. Violet surcoat of the archangel: clockwise, (a) detail of the sampled area; (b) digital micrograph; (c) ESEM micrograph of the cross-section, with lead white and glass particles (d) visible light micrograph of the cross-section, sample GSS4, with red lake, lead white, natural ultramarine blue in the upper layer. (Image: M. L. Amadori)."
-  - id: "2.15"
-    src: figures/Poldi/fig-15-poldi_et_al.jpg
-    label: "**Fig. 15**"
-    caption: "**Fig. 15a-b** False-color IR images of the paintings illustrated in Figs. 1 and 2. (Image: G. Poldi)."
-    credit:
-  - id: "3.1"
-    src: figures/Lazarte/fig-1-lazarte_et_al.jpg
-    label: "**Fig. 1**"
-    caption: "**Fig. 1** Juan Francisco de Aguilera (act. Mexico, first third of eighteenth century), *The Virgin of Carmen and the Souls of Purgatory with Saint Joseph and the Prophet Elijah*, ca. 1720. Oil on copper, 32.2 x 24.5 cm. The Metropolitan Museum of Art: purchase, Nancy Dunn Revocable Trust Gift, 2017 (2017.234). Before (left) and after (right) treatment."
-    credit:
-  - id: "3.2"
-    src: figures/Lazarte/fig-2-lazarte_et_al.jpg
-    label: "**Fig. 2**"
-    caption: "**Fig. 2** Juan Francisco de Aguilera, *Virgin of the Immaculate Conception with Jesuit Priests*, 1720. Oil on canvas, 252.7 x 420.5 cm. Museo Nacional de Arte, Instituto Nacional de Bellas Artes, Mexico City."
-    credit:
-  - id: "3.3"
-    src: figures/Lazarte/fig-3-lazarte_et_al.jpg
-    label: "**Fig. 3**"
-    caption: "**Fig. 3** Juan Francisco de Aguilera, *Nun Badge of the Virgin of the Immaculate Conception with Crowned by the Holy Trinity*, 1720. Oil on copper, diam. 17.5 cm. Museo Soumaya, Mexico City."
-  - id: "3.4"
-    src: figures/Lazarte/fig-4-lazarte_et_al.jpg
-    label: "**Fig. 4**"
-    caption: "**Fig. 4** (a) *The Virgin of Carmen*, verso photographed in raking light showing the planishing indentations left by the hammer; (b) detail of areas of loss in the shadow of the Virgin’s brown robe, showing the fine scratch marks and thin copper oleate on the support, viewed at 250× magnification; (c) detail of areas of loss in the lower edge, showing thick layers of copper oleate, viewed at 100× magnification. "
-    credit:
-  - id: "3.5"
-    src: figures/Lazarte/fig-5-lazarte_et_al.jpg
-    label: "**Fig. 5**"
-    caption: "**Fig. 5** *The Virgin of Carmen*, detail of the cherubs in the upper left. The initial descriptive outlines in brown paint are intermittently exposed through superficial abrasions (indicated by white arrows)."
-  - id: "3.6"
-    src: figures/Lazarte/fig-6-lazarte_et_al.jpg
-    label: "**Fig. 6**"
-    caption: "**Fig. 6** *The Virgin of Carmen*, lower right quadrant photographed in normal light (left) and infrared reflectogram (right) showing the spilt-nib pen marks (indicated by white arrows) and the dry carbon-based black medium (indicated by a red arrow), and same detail in normal light."
-    credit:
-  - id: "3.7"
-    src: figures/Lazarte/fig-7-lazarte_et_al.jpg
-    label: "**Fig. 7**"
-    caption: "**Fig. 7** Details of the Virgin and Child (left) and the Prophet Elijah (right)."
-  - id: "3.8"
-    src: figures/Lazarte/fig-8-lazarte_et_al.jpg
-    label: "**Fig. 8**"
-    caption: "**Fig. 8** *The Virgin of Carmen* photographed in (a) normal light: MA-XRF elemental maps, showing the distribution of mercury (b); lead (c); copper (d); iron (e); and manganese (f)."
-    credit:
-  - id: "3.9"
-    src: figures/Lazarte/fig-9-lazarte_et_al.jpg
-    label: "**Fig. 9**"
-    caption: "**Fig. 9** Details of the face of the woman and profile of a praying man in purgatory."
-  - id: "3.10"
-    src: figures/Lazarte/fig-10-lazarte_et_al.jpg
-    label: "**Fig. 10**"
-    caption: "**Fig. 10** Blue and white highlights in the shackles, photographed before treatment. "
-  - id: "3.11"
-    src: figures/Lazarte/fig-11-lazarte_et_al.jpg
-    label: "**Fig. 11**"
-    caption: "**Fig. 11** Photomicrographs of paint cross-sections taken from the brown robe of the Virgin and Saint Joseph’s yellow robe, respectively, from the locations indicated in fig. 8a. Sample S1 viewed at 500× magnification in (a) visible light and (b) UV illumination shows sample S2, viewed at 500× magnification in (c) visible and (d) UV illumination."
-    credit:
-  - id: "3.12"
-    src: figures/Lazarte/fig-12-lazarte_et_al.jpg
-    label: "**Fig. 12**"
-    caption: "**Fig. 12** Framed painting (left) and image showing the digital simulation of the gilded silver ornaments (right)."
-    credit:
-  - id: "3.13"
-    src: figures/Lazarte/fig-13-lazarte_et_al.jpg
-    label: "**Fig. 13**"
-    caption:
-    credit:
-    id: "4.1"
-    src: figures/Yonan/fig-1a-yonan.jpg
-    label: "**Fig. 1a**"
-    caption: "**Fig. 1a** Nils Dahlin (1731-1787) and others, *Writing Desk*,  18th century,  © Kungl. Hovstaterna, Photo by: Alexis Daflos"
-    credit:
-  - id: "4.2"
-    src: figures/Yonan/fig-1b-yonan.jpg
-    label: "**Fig. 1b**"
-    caption: "**Fig. 1b** Nils Dahlin (1731-1787) and others, *Étagère*,  18th century,  © Kungl. Hovstaterna, Photo by: Alexis Daflos"
-    credit:
-  - id: "4.3"
-    src: figures/Yonan/fig-2-yonan.jpg
-    label: "**Fig. 2**"
-    caption: "**Fig. 2** Henri Matisse, *Bathers by a River*, 1909–1917, © 2021. Image copyright The Art Institute of Chicago/Art Resource/Scala, Florence."
+- id: “1.1”
+  src: figures/camp/fig-1-camp.jpg
+  label: "**Fig. 1a**"
+  caption: "**Fig. 1a** The child's overcoat (#A1524) front (left) and back (right) before treatment."
+  alt:
+- id: "1.1b"
+  src: figures/camp/fig-1.2-camp.jpg
+  label: "**Fig. 1b**"
+  caption: "**Fig. 1b** Construction diagrams of the child’s overcoat, front (left) and back (right), with seams shown in yellow."
+  alt:
+- id: “1.2”
+  src: figures/camp/fig-2-camp.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** The hood edging has different fur than the body of the coat, as shown in this detail."
+  alt:
+- id: “1.2b”
+  src: figures/camp/fig-2.2-camp.jpg
+  label: "**Fig. 2b**"
+  caption: "**Fig. 2b** Follicle patterns of the main skin (left) and skin edging around the hood (right)."
+  alt:
+- id: “1.3”
+  src: figures/camp/fig-3-camp.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
+  alt:
+- id: “1.4”
+  src: figures/camp/fig-4-camp.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
+  alt:
+- id: “1.5”
+  src: figures/camp/fig-5-camp.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** The back of the hood, before treatment."
+  alt:
+- id: “1.6”
+  src: figures/camp/fig-6-camp.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** The Ushkov Company stamp found on the bottom textile strip."
+  alt:
+- id: “1.7”
+  src: figures/camp/fig-7-camp.jpg
+  label: "**Fig. 7**"
+  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
+  alt:
+- id: “1.8”
+  src: figures/camp/fig-8-camp.jpg
+  label: "**Fig. 8**"
+  caption: "**Fig. 8** Detail of beading on the bottom textile strip."
+  alt:
+- id: “1.9”
+  src: figures/camp/fig-9-camp.jpg
+  label: "**Fig. 9**"
+  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
+  alt:
+- id: “1.10”
+  src: figures/camp/fig-10-camp.jpg
+  label: "**Fig. 10**"
+  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this  deterioration."
+  alt:
+- id: “1.11”
+  src: figures/camp/fig-11-camp.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
+  alt:
+- id: “1.12”
+  src: figures/camp/fig-12-camp.jpg
+  label: "**Fig. 12**"
+  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
+  alt:
+- id: “1.13”
+  src: figures/camp/fig-13-camp.jpg
+  label: "**Fig. 13**"
+  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
+  alt:
+- id: “1.14”
+  src: figures/camp/fig-14-camp.jpg
+  label: "**Fig. 14**"
+  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
+  alt:
+- id: “1.15”
+  src: figures/camp/fig-15-camp.jpg
+  label: "**Fig. 15**"
+  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
+  alt:
+- id: “1.17a”
+  src: figures/camp/fig-17-camp.jpg
+  label: "**Fig. 17a**"
+  caption: "**Fig. 17a** The coat front (left) and back (right) after treatment, with storage supports in place."
+  alt:
+- id: “1.17b”
+  src: figures/camp/fig-17.2-camp.jpg
+  label: "**Fig. 17b**"
+  caption: "**Fig. 17b**"
+  alt:
+- id: “1.18a”
+  src: figures/camp/fig-18-camp.jpg
+  label: "**Fig. 18a**"
+  caption: "**Fig. 18a** The coat front (left) and back (right) after treatment, with storage supports in place."
+  alt:
+- id: “1.18b”
+  src: figures/camp/fig-18.2-camp.jpg
+  label: "**Fig. 18b**"
+  caption: "**Fig. 18b** The coat front (left) and back (right) after treatment, with storage supports in place."
+  alt:
+- id: “2.1”
+  src: figures/Awburn/fig-2-awburn_et_al.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1** Albert Moore, Study for *Blossoms*, c. 1881. Oil on canvas, 29 3/4 x 9 1/2 in. (75.6 x 24.1 cm). Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop, 1943.199.
+Photo: © President and Fellows of Harvard College."
+  alt:
+- id: “2.2”
+  src: figures/Awburn/fig-2-awburn_et_al.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** Albert Moore, *Blossoms*, 1881. Oil on canvas, 58 x 18 1/4 in. (147.3 x 46.4 cm). Tate
+  Britain, London."
+  alt:
+- id: “2.3”
+  src: figures/Awburn/fig-3-awburn_et_al.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** An example of Moore’s “systems of line arrangement” in a preparatory study.
+Albert Moore, Nude Figure Study for *Birds of the Air*, c. 1878. Charcoal on grey paper, 34 3/4
+x 15 3/8 in. (88.2 x 38.9 cm). Victoria and Albert Museum, D.226-1905."
+  alt:
+- id: “2.4”
+  src: figures/Awburn/fig-4-awburn_et_al.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** An example of an oil study with a gridded underdrawing visible near the figure’s legs.
+Albert Moore, *Yellow Marguerites*, 1881. Oil on canvas, 25 1/4 x 19 3/4 in. (64.1 x 50.1 cm).
+Koriyama City Museum of Art, Japan. Photo © Christie's Images/Bridgeman Images."
+  Alt:
+- id: “2.5”
+  src: figures/Awburn/fig-5-awburn_et_al.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** Initial ink sketch of the composition for *Blossoms*, representative of step 2.
+Albert Moore, Sketch for *Blossoms*, Pen and ink. Size and location unknown.
+Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894), 72. "
+  alt:
+- id: “2.6”
+  src: figures/Awburn/fig-6-awburn_et_al.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** Detail from a nude drawing of the figure in Blossoms, representative of step 3.
+Albert Moore, *Nude Study for Blossoms*. Medium, size, and location unknown.
+Image source: Illustrated in Ernest Radford, Albert Moore, *The Idler* 1, no. 13 (August 1898),
+6."
+  alt:
+- id: “2.7”
+  src: figures/Awburn/fig-7-awburn_et_al.jpg
+  label: "**Fig. 7**"
+  caption: "**Fig. 7** A detail of Moore’s *Nude Figure Study for Birds of the Air* (Fig. 3), illustrating the
+holes along the lines of the composition made from the pouncing process of pricking holes to
+transfer the image to a second support."
+  alt:
+- id: “2.8”
+  src: figures/Awburn/fig-8-awburn_et_al.jpg
+  label: "**Fig. 8**"
+  caption: "**Fig. 8** A charcoal study for the drapery in *Blossoms*, representative of step 10.
+Albert Moore, *Drapery Study for Blossoms,* c. 1881. Charcoal on paper, 57 1/4 x 17 3/4 in.
+(145.4 x 45 cm). Victoria and Albert Museum, D.254-1905."
+  alt:
+- id: “2.9”
+  src: figures/Awburn/fig-9-awburn_et_al.jpg
+  label: "**Fig. 9**"
+  caption: "**Fig. 9** An oil study of an alternative color palette for Blossoms, representative of step 11.
+Albert Moore, *Blossoms (A Study in Yellow)*, c. 1881. Oil on canvas, 15 x 5 in. (38.1 x 12.7 cm).
+Private Collection. Photograph courtesy of Sotheby’s."
+  alt:
+- id: “2.10"
+  src: figures/Awburn/fig-10-awburn_et_al.jpg
+  label: "**Fig. 10**"
+  caption: "**Fig. 10** Technical images of *Study for “Blossoms,”* in raking light (a) showing the horizontal
+crack pattern; infrared reflectography (b); ultraviolet-induced visible fluorescence (c); and x-
+radiography (d)."
+  alt:
+- id: “2.11"
+  src: figures/Awburn/fig-11-awburn_et_al.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** Photomicrographs of a paint cross-section prepared from Study for *“Blossoms”* viewed in visible light (a) and with UV illumination (b). The back-scattered electron image of the cross-section is given in (c). Boundaries between the three ground layers have been highlighted with either a dashed white (a and b) or yellow (c and d) line. The red rectangle in (c) highlights the
+area mapped to determine the elemental contributions in the ground paint layers as shown in (d)."
+  alt:
+- id: “2.12"
+  src: figures/Awburn/fig-12-awburn_et_al.jpg
+  label: "**Fig. 12**"
+  caption: "**Fig. 12** Detail of Fig. 1 illustrating the painted border and red and blue colored markings."
+  alt:
+- id: “2.13"
+  src: figures/Awburn/fig-13-awburn_et_al.jpg
+  label: "**Fig. 13**"
+  caption: "**Fig. 13** Details from the digital infrared reflectography image of Study for *“Blossoms.”* (Fig. 10b) illustrating the gridding visible near the figures head (a) and feet (b)."
+  alt:
+- id: “2.14"
+  src: figures/Awburn/fig-14-awburn_et_al.jpg
+  label: "**Fig. 14**"
+  caption: "**Fig. 14** Photomicrographs detailing the location of a sample taken from *Study for “Blossoms”* which targeted an area of underdrawing (a) and the cross-section prepared viewed in visible light (b) and with UV illumination (c). The underdrawing line is made up of the black particles
+highlighted by the yellow brackets."
+  alt:
+- id: "2.15"
+  src: figures/Awburn/fig-15-awburn_et_al.jpg
+  label: "**Fig. 15**"
+  caption: "**Fig. 15** Locations of pin holes on *Study for “Blossoms.”* Note: the yellow dots are enlarged."
+  alt:
+- id: "2.16"
+  src: figures/Awburn/fig-16-awburn_et_al.jpg
+  label: "**Fig. 16**"
+  caption: "**Fig. 16** Magnification of pin hole on *Study for Blossoms.*"
+  alt:
+- id: "3.1"
+  src: figures/Watson/fig-3-watson_et_al.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
+  alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
+- id: “3.2”
+  src: figures/Watson/fig-2-watson_et_al.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
+  Alt: “A family portrait featuring Dr. and Mrs. Blayton standing behind toddlers Barbara and Betty who are seated on high stools.”
+- id: “3.3”
+  src: figures/Watson/fig-3-watson_et_al.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
+  credit:
+  Alt: “An oil on canvas featuring two geometric figures with limbs outstretched surrounding a sun and abstract landscape.”
+- id: “3.4”
+  src: figures/Watson/fig-4-watson_et_al.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** Betty Blayton (second from right) with Eleanor Holmes Norton, Carter Burden, Charles Inniss, Campbell Wylly, and Frank Donnelly at The Studio Museum in Harlem on opening night in 1968. Courtesy The Studio Museum in Harlem. Photo: Jill Krementz."
+  Alt: “Black and white photograph of a group of men and women standing and smiling in front of the Studio Museum in New York.”
+- id: “3.5”
+  src: figures/Watson/fig-5-watson_et_al.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** Betty Blayton in the 1970s. Courtesy of the Blayton family."
+  Alt: “Color photograph of an adult Betty Blayton laughing, glasses balanced on her head and looking off to her left.”
+- id: “3.6”
+  src: figures/Watson/fig-6-watson_et_al.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
+  Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
+- id: “3.7"
+  src: figures/Watson/fig-7-watson_et_al.jpg
+  label: "**Fig. 7**"
+  caption: "**Fig. 7** Betty Blayton, concept sketch. Watercolor on Paper. 3 ½” diameter. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
+  Alt: “A stack of small paper circles with black outlines and blue, pink and purple water color abstract brushwork.”
+- id: “3.8”
+  src: figures/Watson/fig-8-watson_et_al.jpg
+  label: "**Fig. 8**"
+  caption: "**Fig. 8** Betty Blayton, concept sketch. Oil and Paper on Canvas, 7” diameter. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
+  Alt: “A stack of small round canvases with washes of color and tan paper collage.”
+- id: “3.9”
+  src: figures/Watson/fig-9-watson_et_al.jpg
+  label: "**Fig. 9**"
+  caption: "**Fig. 9** *Consume #2*. Detail of vertical drips, Before Treatment. Photo: Meredith Watson. "
+  Alt: “The center of the painting featuring dark drips of blue and purple (that appear to travel up), interspersed with strips of tan paper.”
+- id: “3.10"
+  src: figures/Watson/fig—10watson_et_al.jpg
+  label: "**Fig. 10**"
+  caption: "**Fig. 10** *Consume #2*. Detail of inscriptions on verso, Before Treatment. Photo: Meredith Watson."
+  Alt: "The back of the canvas, “TOP” written in navy blue ink with “Blayton ’69,” “Consume #2” and 58”” written below in faded black ink."
+- id: “3.11"
+  src: figures/Watson/fig-11-watson_et_al.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** Detail of *Consume #2* photographed in a) normal light; MA-XRF elemental maps of the same area, showing the distribution of b) titanium c) chromium, iron, and cobalt d) iron e) chromium and f) cobalt."
+  Alt: “A series of six images showing elemental maps of the different pigments in comparison with the detail photograph of the same area.”
+- id: “3.12"
+  src: figures/Watson/fig-12-watson_et_al.jpg
+  label: "**Fig. 12**"
+  caption: "**Fig. 12** *Consume #2*. Detail of paper, Before Treatment. Photo: Meredith Watson."
+  Alt: “Close up photograph showing the paper elements, some torn and some cut with varying levels of opacity.”
+- id: “3.13"
+  src: figures/Watson/fig-13-watson_et_al.jpg
+  label: "**Fig. 13**"
+  caption: "**Fig. 13** Consume #2. Detail of painted ‘negative space.’ Before Treatment."
+  Alt: “Three areas that appear as voids, or negative space, but are actually opaque white paint on top of other colors or paper elements.”
+- id: “3.14"
+  src: figures/Watson/fig-14-watson_et_al.jpg
+  label: "**Fig. 14**"
+  caption: "**Fig. 14** Still capture from RTI Reader Software, highlighting subtleties in surface topography and the layering of the paper elements. (Light x=-0.03, y=-0.16 Zoom:87% Pan: x=1223, u=169 Rendering Mode: Specular Enhancement, Diffuse Color=40, Specularity=70, Highlight size=75)."
+  credit:
+  Alt: “A computer program enhanced image of one portion of the painting, where raised paper edges, differences in opacity and layering are emphasized.”
+- id: “3.15"
+  src: figures/Watson/fig-15-watson_et_al.jpg
+  label: "**Fig. 15**"
+  caption: "**Fig. 15** *Consume #2*. Detail of frame, Before Treatment. Photo: Meredith Watson."
+  alt: “Photograph of the edge of the painting, showing an aluminum strip frame attached with nails.”
+- id: “4.1"
+  src: figures/Kremnitzer/fig-1-kremnitzer.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1** A genealogical view of works related to *Lola de Valence*, illustrating the ways in which Manet worked across media."
+  alt: “A genealogical view of works related to *Lola de Valence*, illustrating the ways in which Manet worked across media. id 4.2"
+  src: figures/Kremnitzer/fig-2-kremnitzer.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** Charles Weyler, photograph of Lola Melea, 1862. Bibliothèque nationale de France, Département Estampes et photographie: BOITE FOL B-EO-1114"
+  Alt: “Photograph featuring Lola Melea”
+- id: “4.3”
+  src: figures/Kremnitzer/fig-3-kremnitzer.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** Édouard Manet, *Lola de Valence*, 1862, reworked after 1867. Oil on canvas, 48 7/16 × 36 1/4 in (123 × 92 cm). Musée d’Orsay, Paris: RF 1991 [RW I 53]"
+  Alt: “Colorful oil painting of Lola de Valence standing in front of a piece of scenery backstage during a ballet performance.”
+- id: “4.4”
+  src: figures/Kremnitzer/fig-4-kremnitzer.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** Édouard Manet, *Lola de Valence*, 1862–63. Black chalk, pen, black ink, and watercolor on paper, 10 1/16 × 6 3/16 in. (25.6 × 17.3 cm). Musée d’Orsay, Paris RF 4102 [RW II D 369]"
+  Alt: “Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
+- id: “4.5”
+  src: figures/Kremnitzer/fig-5-kremnitzer.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** Édouard Manet, *Lola de Valence*, 1862. Watercolor, graphite, and black ink on tan wove paper, 25.2 × 17.5 cm (9 15/16 × 6 7/8 in.). Harvard Art Museums/Fogg Museum: Bequest of Grenville L. Winthrop, 1943.385 [RW II D 370]"
+  Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
+- id: “4.6”
+  src: figures/Kremnitzer/fig-6-kremnitzer.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** Édouard Manet, *Lola de Valence*, 1863. Lithograph in black on light gray wove paper, image: 9 1/2 × 8 3/8 in. (24.1 × 21.2 cm); sheet: 13 1/2 × 19 in. (34.2 × 48.3 cm). Printed by Lemercier et Compagnie. The Art Institute of Chicago: Robert A. Waller Fund, 1950.1464 [H 32, G 69, M-N 77]."
+  Alt: “Black and white lithograph of Lola de Valence on the cover of a musical score.”
+- id: “4.7a”
+  src: figures/Kremnitzer/fig-7-kremnitzer.jpg
+  label: "**Fig. 7a**"
+  caption: "**Fig. 7a** Édouard Manet, *Lola de Valence*, 1863. Etching in black on ivory laid Japanese paper, image: 10 1/6 × 6 1/4 in. (25.6 × 15.9 cm); plate: 10 1/4 × 7 1/9 in. (26 × 18.1 cm); sheet: 10 5/8 × 7 11/16 in. (26.9 × 19.5 cm). First state. The Art Institute of Chicago: John H. Wrenn Fund, 1953.274 [H 33, G 23, M-N 3]"
+  alt: “Black and white full-length etching of Lola de Valence on ivory paper.”
+- id: “4.7”b
+  src: figures/Kremnitzer/fig-7.2-kremnitzer.jpg
+  label: "**Fig. 7b**"
+  caption: "**Fig. 7b** Édouard Manet, *Lola de Valence*, 1863. Etching and aquatint, 15 9/16 × 11 5/8 in. (39.5 × 29.5 cm). Final state; first edition on laid paper; proof for the Société des Aquafortistes’ edition of 1863, published by Cadart & Luquet. The Metropolitan Museum of Art: Rogers Fund, 1918, 18.88.28 [H 33, G 23, M-N 3]"
+  alt: “Black and white full-length etching of Lola de Valence with aquatint background and several lines of text.”
+- id: “4.8”
+  src: figures/Kremnitzer/fig-8-kremnitzer.jpg
+  label: "**Fig. 8**"
+  caption: "**Fig. 8** G. Randon, “L’Exposition d’Édouard Manet,” with a caricature of Manet’s *Lola de Valence* at top right, published in Le Journal amusant, June 29, 1867, p. 6"
+  alt: “Black and white caricatures after several of Manet’s paintings, including Lola de Valence at upper right.”
+- id: “4.9”
+  src: figures/Kremnitzer/fig-9-kremnitzer.jpg
+  label: "**Fig. 9**"
+  caption: "**Fig. 9** Godet, photograph of Manet’s *Lola de Valence*, 1867–83. 7 × 8 7/16 in. (17.7 × 21.4 cm). The Morgan Library & Museum: MA 3950, Godet vol. 1"
+  alt: “Albumen photograph of Manet’s painting, Lola de Valence mounted on the blue pages of an album with annotations.”
+- id: “4.10”
+  src: figures/Kremnitzer/fig-10-kremnitzer.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** Detail of the Orsay watercolor (Fig. 4), seen in raking light"
+  Alt: “Manet’s Lola de Valence watercolor (Orsay) in raking light to show incisions visible on the surface”
+- id: “4.11”
+  src: figures/Kremnitzer/fig-11-kremnitzer.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** Diagram of Fig. 5 showing the photomicrograph areas represented in Figs. 11, 12, 13, 14, 15, 16 and 18."
+  alt: “Diagram of Figure 5 showing the photomicraph areas represented in Figs. 11, 12, 13, 14, 15, 16 and 18.”
+- id: “4.12”
+  src: figures/Kremnitzer/fig-12-kremnitzer.jpg
+  label: "**Fig. 12**"
+  caption: "**Fig. 12** Detail of the Harvard watercolor (Fig. 5) seen under magnification, showing red wash beneath and on top of graphite."
+  alt: “Detail of the Harvard watercolor (figure 5) seen under magnification, showing red wash beneath and on top of graphite”
+- id: “4.13”
+  src: figures/Kremnitzer/fig-13-kremnitzer.jpg
+  label: "**Fig. 13**"
+  caption: "**Fig. 13** Detail of Fig. 5, seen under magnification, showing different opacities of red wash and characteristic silvery appearance of graphite."
+  Alt: “Detail of figure 5, seen under magnification, showing different opacities of red wash and characteristic silvery appearance of graphite in her skirt.”
+- id: “4.14”
+  src: figures/Kremnitzer/fig-14-kremnitzer.jpg
+  label: "**Fig. 14**"
+  caption: "**Fig. 14** Detail of Fig. 5, under magnification, showing oxidized lead white."
+  Alt: “Detail of figure 5, under magnification, showing oxidized lead white in her sleeve”
+- id: “4.15”
+  src: figures/Kremnitzer/fig-15-kremnitzer.jpg
+  label: "**Fig. 15**"
+  caption: "**Fig. 15** Detail of Fig. 5, under magnification, showing blue watercolor."
+  Alt: “Detail of figure 5, under magnification, showing blue watercolor”
+- id: “4.16”
+  src: figures/Kremnitzer/fig-16-kremnitzer.jpg
+  label: "**Fig. 16**"
+  caption: "**Fig. 16** Detail of Fig 5, under magnification, showing faded pink watercolor."
+  Alt: “Detail of figure 5, under magnification, showing faded pink watercolor in her shoes.”
+- id: “4.17”
+  src: figures/Kremnitzer/fig-17-kremnitzer.jpg
+  label: "**Fig. 17**"
+  caption: "**Fig. 17** 17 Detail of Fig. 5, verso, RTI."
+  Alt: “Detail of the verso of figure 5 in RTI to better illustrate physical characteristics of the sheet.”
+- id: “4.18”
+  src: figures/Kremnitzer/fig-18-kremnitzer.jpg
+  label: "**Fig. 18**"
+  caption: "**Fig. 18** Detail of Fig. 5, under magnification, showing paper fibers."
+  Alt: “Detail of figure 5, under magnification, showing paper fibers”
+- id: “4.19”
+  src:
+  label:
+  caption:
+  alt:
+- id: “4.20”
+  src: figures/Kremnitzer/fig-20-kremnitzer.jpg
+  label: "**Fig. 20**"
+  caption: "**Fig. 20** Unsigned caricature of Manet’s *Lola de Valence*, 1863. Bibliothèque nationale de France, Département des Estampes et photographies: 4-YB3-2012 (18)."
+  Alt:  “Caricature of Manet’s Lola de Valence with handwritten caption and two viewers, one wearing a hat with his arm raised and finger pointing to the painting, and another younger figure looking up.”
+- id: “4.21”
+  src: figures/Kremnitzer/fig-21-kremnitzer.jpg
+  label: "**Fig. 21**"
+  caption: "**Fig. 21** Édouard Manet, *Lola de Valence*, 1863. Copperplate, 10 1/2 × 7 5/16 in. (26.6 × 18.5 cm). Bibliothèque nationale de France: RESERVE MUSEE PL-45"
+  Alt: “ Copperplate for Manet’s etching of Lola de Valence with two holes at top and bottom to cancel the plate. The orientation is the reverse of the printed image.”
+- id: “4.22”
+  src: figures/Kremnitzer/fig-22-kremnitzer.jpg
+  label: "**Fig. 22**"
+  caption: "**Fig. 22** Édouard Manet, *Sketches from “The Gypsies,” “The Spanish Ballet,”* and “*Lola de Valence,”* 1865. Brush and gray and black washes with touches of graphite on ivory laid paper, pieced (at lower left corner), 7 1/8 × 5 in. (18.1 × 12.7 cm). The Art Institute of Chicago: Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection, 2012.84 [RW II D 371]"
+  Alt: “Pieced sheet of drawings in gray and black washes with touches of graphite on ivory laid paper, featuring figures from several of Manet’s painted compositions, including Lola de Valence.”
+- id: “4.23”
+  src: figures/Kremnitzer/fig-23-kremnitzer.jpg
+  label: "**Fig. 23**"
+  caption: "**Fig. 23** *L’Autographe au Salon et dans les ateliers*, July 8, 1865, p. 87. New York Public Library."
+  Alt: “Page featuring a photomechanical reproduction of figure 21 with accompanying text about Manet’s contributions to the 1865 Paris Salon."
+- id: “4.24”
+  src: figures/Kremnitzer/fig-24-kremnitzer.jpg
+  label: "**Fig. 24**"
+  caption: "**Fig. 24** Édouard Manet, *Boy with a Pitcher (La Régalade)*, 1862/72. Oil on canvas, 24 5/16 × 21 3/8 in. (61.8 × 54.3 cm). The Art Institute of Chicago: Bequest of Katharine Dexter McCormick, 1968, 1968.303 [RW I 43]"
+  alt: “Boy drinking water from a jug against a dark brown background.”
+- id: “4.25”
+  src: figures/Kremnitzer/fig-25-kremnitzer.jpg
+  label: "**Fig. 25**"
+  caption: "**Fig. 25** Édouard Manet, *The Gypsies (Les gitanos)*, 1862. Etching printed in black ink on laid paper, plate: 12 5/8 × 9 5/16 in. (32 × 23.6 cm). New York Public Library [H 18, G 21, M-N 2]"
+  Alt: "Etching of a group of figures including a man at center, a mother and child seated at right, and a boy drinking from a jug behind them."
+- id: “4.26”
+  src: figures/Kremnitzer/fig-26-kremnitzer.jpg
+  label: "**Fig. 26**"
+  caption: "**Fig. 26** Édouard Manet, *Spanish Ballet*, 1862. Oil on canvas, 24 × 35 5/8 in. (60.96 × 90.49 cm). The Phillips Collection, 1250 [RW I 55]"
+  Alt: “An oil painting of a group of figures in an interior, some are playing guitar others are dressed for a ballet performance and two figures lurk in the background against a brown wall. A bouquet of flowers is in the foreground at center; at right is a green bench with a piece of dark clothing on it.”
+- id: “4.27”
+  src: figures/Kremnitzer/fig-27-kremnitzer.jpg
+  label: "**Fig. 27**"
+  caption: "**Fig. 27** Édouard Manet, *The Spanish Ballet*, 1862. Pen and ink with washes and watercolor, 9 1/16 × 16 1/8 in. (23 × 41 cm). Szépmüvészeti Múzeum, Budapest, 1925/1200 [RW II D 533]"
+  Alt: A watercolor of a group of figures in an interior, some are playing guitar others are dressed for a ballet performance and two figures lurk in the background. A bouquet of flowers is in the foreground at center; at right is a green bench with a piece of dark clothing on”
+- id: “4.28”
+  src: figures/Kremnitzer/fig-28-kremnitzer.jpg
+  label: "**Fig. 28**"
+  caption: "**Fig. 28** Detail of Fig. 22, showing screen pattern, composed of various-sized dots to create tone and shading."
+  Alt: “A close up of figure 22 showing screen pattern, composed of various-sized dots to create tone and shading
+- id: “4.29”
+  src: figures/Kremnitzer/fig-29-kremnitzer.jpg
+  label: "**Fig. 29**"
+  caption: "**Fig. 29** *L’Autographe au Salon et dans les ateliers*, July 8, 1865, n.p."
+  Alt: “A page showing various signatures, including Manet’s, on a pile of papers and an artist’s sketchbook, reproduced as an illustration”
+- id: “4.30”
+  src: figures/Kremnitzer/fig-30-kremnitzer.jpg
+  label: "**Fig. 30**"
+  caption: "**Fig. 30** Édouard Manet, *Eva Gonzalès Painting in Manet’s Studio*, 1870. Oil on canvas, 21 7/8 × 17 7/8 in. (56 × 46 cm). Private collection [RW I 153]"
+  Alt: “An oil painting of two figures in an artist’s studio with a woman standing in front of an easel and a male figure dressed in Spanish costume to her right. Manet’s framed painting of Lola de Valence is visible between the figures among other canvases.”
+- id: “5.1”
+  src: figures/Vandivere/fig-1-vandivere_et_al.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1** Attributed to Rogier van der Weyden (and studio?), *The Lamentation of Christ*, ca. 1460–64? Oil on panel, 80.6 x 130.1 cm. Mauritshuis, The Hague, Mh264. https://www.mauritshuis.nl/en/our-collection/artworks/264-the-lamentation-of-christ/ After-treatment photograph (and after-treatment details used below) are by Margaretha Svensson. Reconstructed areas are marked as squares, with numbers corresponding to the figures below."
+  credit:
+  Alt: “ Fifteenth-century oil painting depicting ten people including Christ deposed from the cross. Six areas are marked with numbered squares.”
