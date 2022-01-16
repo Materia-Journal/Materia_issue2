@@ -215,74 +215,73 @@ highlighted by the yellow brackets."
   label: "**Fig. 1**"
   caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
   alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
-- id: “3.2”
+- id: "3.2"
   src: figures/Watson/fig-2-watson_et_al.jpg
   label: "**Fig. 2**"
   caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
   Alt: “A family portrait featuring Dr. and Mrs. Blayton standing behind toddlers Barbara and Betty who are seated on high stools.”
-- id: “3.3”
+- id: "3.3"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 3**"
   caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
   credit:
   Alt: “An oil on canvas featuring two geometric figures with limbs outstretched surrounding a sun and abstract landscape.”
-- id: “3.4”
+- id: "3.4"
   src: figures/Watson/fig-4-watson_et_al.jpg
   label: "**Fig. 4**"
   caption: "**Fig. 4** Betty Blayton (second from right) with Eleanor Holmes Norton, Carter Burden, Charles Inniss, Campbell Wylly, and Frank Donnelly at The Studio Museum in Harlem on opening night in 1968. Courtesy The Studio Museum in Harlem. Photo: Jill Krementz."
   Alt: “Black and white photograph of a group of men and women standing and smiling in front of the Studio Museum in New York.”
-- id: “3.5”
+- id: "3.5"
   src: figures/Watson/fig-5-watson_et_al.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** Betty Blayton in the 1970s. Courtesy of the Blayton family."
   Alt: “Color photograph of an adult Betty Blayton laughing, glasses balanced on her head and looking off to her left.”
-- id: “3.6”
+- id: "3.6"
   src: figures/Watson/fig-6-watson_et_al.jpg
   label: "**Fig. 6**"
   caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
   Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
-- id: “3.7"
+- id: "3.7"
   src: figures/Watson/fig-7-watson_et_al.jpg
   label: "**Fig. 7**"
   caption: "**Fig. 7** Betty Blayton, concept sketch. Watercolor on Paper. 3 ½” diameter. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
   Alt: “A stack of small paper circles with black outlines and blue, pink and purple water color abstract brushwork.”
-- id: “3.8”
+- id: "3.8"
   src: figures/Watson/fig-8-watson_et_al.jpg
   label: "**Fig. 8**"
   caption: "**Fig. 8** Betty Blayton, concept sketch. Oil and Paper on Canvas, 7” diameter. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
   Alt: “A stack of small round canvases with washes of color and tan paper collage.”
-- id: “3.9”
+- id: "3.9"
   src: figures/Watson/fig-9-watson_et_al.jpg
   label: "**Fig. 9**"
   caption: "**Fig. 9** *Consume #2*. Detail of vertical drips, Before Treatment. Photo: Meredith Watson. "
   Alt: “The center of the painting featuring dark drips of blue and purple (that appear to travel up), interspersed with strips of tan paper.”
-- id: “3.10"
-  src: figures/Watson/fig—10watson_et_al.jpg
+- id: "3.10"
+  src: figures/Watson/fig—10-watson_et_al.jpg
   label: "**Fig. 10**"
   caption: "**Fig. 10** *Consume #2*. Detail of inscriptions on verso, Before Treatment. Photo: Meredith Watson."
   Alt: "The back of the canvas, “TOP” written in navy blue ink with “Blayton ’69,” “Consume #2” and 58”” written below in faded black ink."
-- id: “3.11"
+- id: "3.11"
   src: figures/Watson/fig-11-watson_et_al.jpg
   label: "**Fig. 11**"
   caption: "**Fig. 11** Detail of *Consume #2* photographed in a) normal light; MA-XRF elemental maps of the same area, showing the distribution of b) titanium c) chromium, iron, and cobalt d) iron e) chromium and f) cobalt."
   Alt: “A series of six images showing elemental maps of the different pigments in comparison with the detail photograph of the same area.”
-- id: “3.12"
+- id: "3.12"
   src: figures/Watson/fig-12-watson_et_al.jpg
   label: "**Fig. 12**"
   caption: "**Fig. 12** *Consume #2*. Detail of paper, Before Treatment. Photo: Meredith Watson."
   Alt: “Close up photograph showing the paper elements, some torn and some cut with varying levels of opacity.”
-- id: “3.13"
+- id: "3.13"
   src: figures/Watson/fig-13-watson_et_al.jpg
   label: "**Fig. 13**"
   caption: "**Fig. 13** Consume #2. Detail of painted ‘negative space.’ Before Treatment."
   Alt: “Three areas that appear as voids, or negative space, but are actually opaque white paint on top of other colors or paper elements.”
-- id: “3.14"
+- id: "3.14"
   src: figures/Watson/fig-14-watson_et_al.jpg
   label: "**Fig. 14**"
   caption: "**Fig. 14** Still capture from RTI Reader Software, highlighting subtleties in surface topography and the layering of the paper elements. (Light x=-0.03, y=-0.16 Zoom:87% Pan: x=1223, u=169 Rendering Mode: Specular Enhancement, Diffuse Color=40, Specularity=70, Highlight size=75)."
-  credit:
   Alt: “A computer program enhanced image of one portion of the painting, where raised paper edges, differences in opacity and layering are emphasized.”
-- id: “3.15"
+- id: "3.15"
   src: figures/Watson/fig-15-watson_et_al.jpg
   label: "**Fig. 15**"
   caption: "**Fig. 15** *Consume #2*. Detail of frame, Before Treatment. Photo: Meredith Watson."
