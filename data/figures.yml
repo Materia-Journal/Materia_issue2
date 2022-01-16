@@ -22,12 +22,12 @@ figure_list:
 - id: "1.3"
   src: figures/Camp/fig-3-camp.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
+  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
   alt:
 - id: "1.4"
   src: figures/Camp/fig-4-camp.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.5"
   src: figures/Camp/fig-5-camp.jpg
@@ -42,7 +42,7 @@ figure_list:
 - id: "1.7"
   src: figures/Camp/fig-7-camp.jpg
   label: "**Fig. 7**"
-  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.8"
   src: figures/Camp/fig-8-camp.jpg
@@ -52,37 +52,37 @@ figure_list:
 - id: "1.9"
   src: figures/Camp/fig-9-camp.jpg
   label: "**Fig. 9**"
-  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
+  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
   alt:
 - id: "1.10"
   src: figures/Camp/fig-10-camp.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
+  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
   alt:
 - id: "1.11"
   src: figures/Camp/fig-11-camp.jpg
   label: "**Fig. 11**"
-  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
+  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
   alt:
 - id: "1.12"
   src: figures/Camp/fig-12-camp.jpg
   label: "**Fig. 12**"
-  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
+  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
   alt:
 - id: "1.13"
   src: figures/Camp/fig-13-camp.jpg
   label: "**Fig. 13**"
-  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
+  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
   alt:
 - id: "1.14"
   src: figures/Camp/fig-14-camp.jpg
   label: "**Fig. 14**"
-  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.15"
   src: figures/Camp/fig-15-camp.jpg
   label: "**Fig. 15**"
-  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
+  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
   alt:
 - id: "1.16"
   src: figures/Camp/fig-16-camp.jpg
@@ -213,17 +213,17 @@ highlighted by the yellow brackets."
 - id: "3.1"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 1**"
-  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
+  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
   alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
 - id: "3.2"
   src: figures/Watson/fig-2-watson_et_al.jpg
   label: "**Fig. 2**"
-  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
+  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
   Alt: “A family portrait featuring Dr. and Mrs. Blayton standing behind toddlers Barbara and Betty who are seated on high stools.”
 - id: "3.3"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
+  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
   credit:
   Alt: “An oil on canvas featuring two geometric figures with limbs outstretched surrounding a sun and abstract landscape.”
 - id: "3.4"
@@ -239,7 +239,7 @@ highlighted by the yellow brackets."
 - id: "3.6"
   src: figures/Watson/fig-6-watson_et_al.jpg
   label: "**Fig. 6**"
-  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
   Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
 - id: "3.7"
   src: figures/Watson/fig-7-watson_et_al.jpg
@@ -310,7 +310,7 @@ highlighted by the yellow brackets."
   src: figures/Kremnitzer/fig-5-kremnitzer.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** Édouard Manet, *Lola de Valence*, 1862. Watercolor, graphite, and black ink on tan wove paper, 25.2 × 17.5 cm (9 15/16 × 6 7/8 in.). Harvard Art Museums/Fogg Museum: Bequest of Grenville L. Winthrop, 1943.385 [RW II D 370]"
-  Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
+  Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
 - id: "4.6"
   src: figures/Kremnitzer/fig-6-kremnitzer.jpg
   label: "**Fig. 6**"
@@ -395,7 +395,7 @@ highlighted by the yellow brackets."
   src: figures/Kremnitzer/fig-21-kremnitzer.jpg
   label: "**Fig. 21**"
   caption: "**Fig. 21** Édouard Manet, *Lola de Valence*, 1863. Copperplate, 10 1/2 × 7 5/16 in. (26.6 × 18.5 cm). Bibliothèque nationale de France: RESERVE MUSEE PL-45"
-  Alt: “ Copperplate for Manet’s etching of Lola de Valence with two holes at top and bottom to cancel the plate. The orientation is the reverse of the printed image.”
+  Alt: “ Copperplate for Manet’s etching of Lola de Valence with two holes at top and bottom to cancel the plate. The orientation is the reverse of the printed image.”
 - id: "4.22"
   src: figures/Kremnitzer/fig-22-kremnitzer.jpg
   label: "**Fig. 22**"
@@ -445,7 +445,7 @@ highlighted by the yellow brackets."
   src: figures/Vandivere/fig-1-vandivere_et_al.jpg
   label: "**Fig. 1**"
   caption: "**Fig. 1** Attributed to Rogier van der Weyden (and studio?), *The Lamentation of Christ*, ca. 1460–64? Oil on panel, 80.6 x 130.1 cm. Mauritshuis, The Hague, Mh264. https://www.mauritshuis.nl/en/our-collection/artworks/264-the-lamentation-of-christ/ After-treatment photograph (and after-treatment details used below) are by Margaretha Svensson. Reconstructed areas are marked as squares, with numbers corresponding to the figures below."
-  Alt: “ Fifteenth-century oil painting depicting ten people including Christ deposed from the cross. Six areas are marked with numbered squares.”
+  Alt: “ Fifteenth-century oil painting depicting ten people including Christ deposed from the cross. Six areas are marked with numbered squares.”
 - id: "5.2"
   src: figures/Vandivere/fig-2-vandivere_et_al.jpg
   label: "**Fig. 2**"
@@ -479,7 +479,7 @@ highlighted by the yellow brackets."
 - id: "5.8"
   src: figures/Vandivere/fig-8-vandivere_et_al.jpg
   label: "**Fig. 8**"
-  caption: "**Fig. 8** (a) Detail of the neckline of Mary Magdalene’s dress. (b) Detail of the reconstruction  by Paul van Laar, photographed seven months after making. (c) Detail of Christ’s blood. (d) 3-D digital microphotograph of the reconstruction by Abbie Vandivere, 30x magnification."
+  caption: "**Fig. 8** (a) Detail of the neckline of Mary Magdalene’s dress. (b) Detail of the reconstruction  by Paul van Laar, photographed seven months after making. (c) Detail of Christ’s blood. (d) 3-D digital microphotograph of the reconstruction by Abbie Vandivere, 30x magnification."
   Alt: "Top: detail of fifteenth-century painting showing jeweled neckline: original (left) and reconstruction (right). Bottom: detail of the blood of Christ: original and reconstruction."
 - id: "6.1"
   src: figures/Pellini/fig-1-pellini_vesoluoma.jpg
@@ -499,7 +499,7 @@ highlighted by the yellow brackets."
 - id: "6.4"
   src: figures/Pellini/fig-4-pellini_vesoluoma.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** Annie Walke, *Sorrowful Women*, det. (stretcher bar with James Lanham Ltd. stamp),  undated. Oil on canvas, 134.5 x 116 cm. Private collection. Stamp: […] NHAM LTD/ Colourmen / Makers etc./ST IVES CORNWALL. Photo: Anna Vesaluoma."
+  caption: "**Fig. 4** Annie Walke, *Sorrowful Women*, det. (stretcher bar with James Lanham Ltd. stamp),  undated. Oil on canvas, 134.5 x 116 cm. Private collection. Stamp: […] NHAM LTD/ Colourmen / Makers etc./ST IVES CORNWALL. Photo: Anna Vesaluoma."
   Alt: "wooden surface showing faded oval stamp in dark ink, detail of a stretcher bar behind a canvas painting"
 - id: "6.5"
   src: figures/Pellini/fig-5-pellini_vesoluoma.jpg
@@ -579,7 +579,7 @@ highlighted by the yellow brackets."
 - id: "6.17"
   src: figures/Pellini/fig-17-pellini_vesoluoma.jpg
   label: "**Fig. 17**"
-  caption: "**Fig. 17** Left: Annie Walke, *Christ Blessing Cornish Industry*, det. (central panel), 1923. Oil on panel, 75cm x 95cm, Truro Cathedral (Truro, Cornwall). Photo: Dr Michael Tedder. Right: Ernest Procter, Crucifix, 1920s. Painted wood. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
+  caption: "**Fig. 17** Left: Annie Walke, *Christ Blessing Cornish Industry*, det. (central panel), 1923. Oil on panel, 75cm x 95cm, Truro Cathedral (Truro, Cornwall). Photo: Dr Michael Tedder. Right: Ernest Procter, Crucifix, 1920s. Painted wood. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
   Alt: "Two variants of Christ on the cross, with golden halo and white tunic. To the left painted on panel in a landscape, to the right sculpted in painted wood."
 - id: "6.18"
   src: figures/Pellini/fig-18-pellini_vesoluoma.jpg
@@ -604,7 +604,7 @@ highlighted by the yellow brackets."
 - id: "6.22"
   src: figures/Pellini/fig-22-pellini_vesoluoma.jpg
   label: "**Fig. 22**"
-  caption: "**Fig. 22** Annie Walke, *Virgin and Child*,  det. (monogram signature), undated. Oil on canvas. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
+  caption: "**Fig. 22** Annie Walke, *Virgin and Child*,  det. (monogram signature), undated. Oil on canvas. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
   Alt: "Dark monogram on aquamarine background combining a capital A and W with the bar line continuing across half of the W and topped by an horizontal line"
 - id: "7.1"
   src: figures/Frame/fig-1-Frame.jpg
