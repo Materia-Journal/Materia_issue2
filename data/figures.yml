@@ -109,40 +109,40 @@ figure_list:
   label: "**Fig. 18b**"
   caption: "**Fig. 18b** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
-- id: “2.1”
-  src: figures/Awburn/fig-2-awburn_et_al.jpg
+- id: "2.1"
+  src: figures/Awburn/fig-1-awburn_et_al.jpg
   label: "**Fig. 1**"
   caption: "**Fig. 1** Albert Moore, Study for *Blossoms*, c. 1881. Oil on canvas, 29 3/4 x 9 1/2 in. (75.6 x 24.1 cm). Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop, 1943.199.
 Photo: © President and Fellows of Harvard College."
   alt:
-- id: “2.2”
+- id: "2.2"
   src: figures/Awburn/fig-2-awburn_et_al.jpg
   label: "**Fig. 2**"
   caption: "**Fig. 2** Albert Moore, *Blossoms*, 1881. Oil on canvas, 58 x 18 1/4 in. (147.3 x 46.4 cm). Tate
   Britain, London."
   alt:
-- id: “2.3”
+- id: "2.3"
   src: figures/Awburn/fig-3-awburn_et_al.jpg
   label: "**Fig. 3**"
   caption: "**Fig. 3** An example of Moore’s “systems of line arrangement” in a preparatory study.
 Albert Moore, Nude Figure Study for *Birds of the Air*, c. 1878. Charcoal on grey paper, 34 3/4
 x 15 3/8 in. (88.2 x 38.9 cm). Victoria and Albert Museum, D.226-1905."
   alt:
-- id: “2.4”
+- id: "2.4"
   src: figures/Awburn/fig-4-awburn_et_al.jpg
   label: "**Fig. 4**"
   caption: "**Fig. 4** An example of an oil study with a gridded underdrawing visible near the figure’s legs.
 Albert Moore, *Yellow Marguerites*, 1881. Oil on canvas, 25 1/4 x 19 3/4 in. (64.1 x 50.1 cm).
 Koriyama City Museum of Art, Japan. Photo © Christie's Images/Bridgeman Images."
   Alt:
-- id: “2.5”
+- id: "2.5"
   src: figures/Awburn/fig-5-awburn_et_al.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** Initial ink sketch of the composition for *Blossoms*, representative of step 2.
 Albert Moore, Sketch for *Blossoms*, Pen and ink. Size and location unknown.
 Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894), 72. "
   alt:
-- id: “2.6”
+- id: "2.6"
   src: figures/Awburn/fig-6-awburn_et_al.jpg
   label: "**Fig. 6**"
   caption: "**Fig. 6** Detail from a nude drawing of the figure in Blossoms, representative of step 3.
@@ -150,51 +150,51 @@ Albert Moore, *Nude Study for Blossoms*. Medium, size, and location unknown.
 Image source: Illustrated in Ernest Radford, Albert Moore, *The Idler* 1, no. 13 (August 1898),
 6."
   alt:
-- id: “2.7”
+- id: "2.7"
   src: figures/Awburn/fig-7-awburn_et_al.jpg
   label: "**Fig. 7**"
   caption: "**Fig. 7** A detail of Moore’s *Nude Figure Study for Birds of the Air* (Fig. 3), illustrating the
 holes along the lines of the composition made from the pouncing process of pricking holes to
 transfer the image to a second support."
   alt:
-- id: “2.8”
+- id: "2.8"
   src: figures/Awburn/fig-8-awburn_et_al.jpg
   label: "**Fig. 8**"
   caption: "**Fig. 8** A charcoal study for the drapery in *Blossoms*, representative of step 10.
 Albert Moore, *Drapery Study for Blossoms,* c. 1881. Charcoal on paper, 57 1/4 x 17 3/4 in.
 (145.4 x 45 cm). Victoria and Albert Museum, D.254-1905."
   alt:
-- id: “2.9”
+- id: "2.9"
   src: figures/Awburn/fig-9-awburn_et_al.jpg
   label: "**Fig. 9**"
   caption: "**Fig. 9** An oil study of an alternative color palette for Blossoms, representative of step 11.
 Albert Moore, *Blossoms (A Study in Yellow)*, c. 1881. Oil on canvas, 15 x 5 in. (38.1 x 12.7 cm).
 Private Collection. Photograph courtesy of Sotheby’s."
   alt:
-- id: “2.10"
+- id: "2.10"
   src: figures/Awburn/fig-10-awburn_et_al.jpg
   label: "**Fig. 10**"
   caption: "**Fig. 10** Technical images of *Study for “Blossoms,”* in raking light (a) showing the horizontal
 crack pattern; infrared reflectography (b); ultraviolet-induced visible fluorescence (c); and x-
 radiography (d)."
   alt:
-- id: “2.11"
+- id: "2.11"
   src: figures/Awburn/fig-11-awburn_et_al.jpg
   label: "**Fig. 11**"
   caption: "**Fig. 11** Photomicrographs of a paint cross-section prepared from Study for *“Blossoms”* viewed in visible light (a) and with UV illumination (b). The back-scattered electron image of the cross-section is given in (c). Boundaries between the three ground layers have been highlighted with either a dashed white (a and b) or yellow (c and d) line. The red rectangle in (c) highlights the
 area mapped to determine the elemental contributions in the ground paint layers as shown in (d)."
   alt:
-- id: “2.12"
+- id: "2.12"
   src: figures/Awburn/fig-12-awburn_et_al.jpg
   label: "**Fig. 12**"
   caption: "**Fig. 12** Detail of Fig. 1 illustrating the painted border and red and blue colored markings."
   alt:
-- id: “2.13"
+- id: "2.13"
   src: figures/Awburn/fig-13-awburn_et_al.jpg
   label: "**Fig. 13**"
   caption: "**Fig. 13** Details from the digital infrared reflectography image of Study for *“Blossoms.”* (Fig. 10b) illustrating the gridding visible near the figures head (a) and feet (b)."
   alt:
-- id: “2.14"
+- id: "2.14"
   src: figures/Awburn/fig-14-awburn_et_al.jpg
   label: "**Fig. 14**"
   caption: "**Fig. 14** Photomicrographs detailing the location of a sample taken from *Study for “Blossoms”* which targeted an area of underdrawing (a) and the cross-section prepared viewed in visible light (b) and with UV illumination (c). The underdrawing line is made up of the black particles
