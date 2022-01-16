@@ -22,12 +22,12 @@ figure_list:
 - id: "1.3"
   src: figures/Camp/fig-3-camp.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
+  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
   alt:
 - id: "1.4"
   src: figures/Camp/fig-4-camp.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.5"
   src: figures/Camp/fig-5-camp.jpg
@@ -42,7 +42,7 @@ figure_list:
 - id: "1.7"
   src: figures/Camp/fig-7-camp.jpg
   label: "**Fig. 7**"
-  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.8"
   src: figures/Camp/fig-8-camp.jpg
@@ -52,37 +52,37 @@ figure_list:
 - id: "1.9"
   src: figures/Camp/fig-9-camp.jpg
   label: "**Fig. 9**"
-  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
+  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
   alt:
 - id: "1.10"
   src: figures/Camp/fig-10-camp.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
+  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
   alt:
 - id: "1.11"
   src: figures/Camp/fig-11-camp.jpg
   label: "**Fig. 11**"
-  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
+  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
   alt:
 - id: "1.12"
   src: figures/Camp/fig-12-camp.jpg
   label: "**Fig. 12**"
-  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
+  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
   alt:
 - id: "1.13"
   src: figures/Camp/fig-13-camp.jpg
   label: "**Fig. 13**"
-  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
+  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
   alt:
 - id: "1.14"
   src: figures/Camp/fig-14-camp.jpg
   label: "**Fig. 14**"
-  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
   alt:
 - id: "1.15"
   src: figures/Camp/fig-15-camp.jpg
   label: "**Fig. 15**"
-  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
+  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
   alt:
 - id: "1.16"
   src: figures/Camp/fig-16-camp.jpg
@@ -213,17 +213,17 @@ highlighted by the yellow brackets."
 - id: "3.1"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 1**"
-  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
+  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
   alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
 - id: "3.2"
   src: figures/Watson/fig-2-watson_et_al.jpg
   label: "**Fig. 2**"
-  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
+  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
   Alt: “A family portrait featuring Dr. and Mrs. Blayton standing behind toddlers Barbara and Betty who are seated on high stools.”
 - id: "3.3"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
+  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
   credit:
   Alt: “An oil on canvas featuring two geometric figures with limbs outstretched surrounding a sun and abstract landscape.”
 - id: "3.4"
@@ -239,7 +239,7 @@ highlighted by the yellow brackets."
 - id: "3.6"
   src: figures/Watson/fig-6-watson_et_al.jpg
   label: "**Fig. 6**"
-  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
   Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
 - id: "3.7"
   src: figures/Watson/fig-7-watson_et_al.jpg
@@ -310,7 +310,7 @@ highlighted by the yellow brackets."
   src: figures/Kremnitzer/fig-5-kremnitzer.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** Édouard Manet, *Lola de Valence*, 1862. Watercolor, graphite, and black ink on tan wove paper, 25.2 × 17.5 cm (9 15/16 × 6 7/8 in.). Harvard Art Museums/Fogg Museum: Bequest of Grenville L. Winthrop, 1943.385 [RW II D 370]"
-  Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
+  Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
 - id: "4.6"
   src: figures/Kremnitzer/fig-6-kremnitzer.jpg
   label: "**Fig. 6**"
@@ -395,7 +395,7 @@ highlighted by the yellow brackets."
   src: figures/Kremnitzer/fig-21-kremnitzer.jpg
   label: "**Fig. 21**"
   caption: "**Fig. 21** Édouard Manet, *Lola de Valence*, 1863. Copperplate, 10 1/2 × 7 5/16 in. (26.6 × 18.5 cm). Bibliothèque nationale de France: RESERVE MUSEE PL-45"
-  Alt: “ Copperplate for Manet’s etching of Lola de Valence with two holes at top and bottom to cancel the plate. The orientation is the reverse of the printed image.”
+  Alt: “ Copperplate for Manet’s etching of Lola de Valence with two holes at top and bottom to cancel the plate. The orientation is the reverse of the printed image.”
 - id: "4.22"
   src: figures/Kremnitzer/fig-22-kremnitzer.jpg
   label: "**Fig. 22**"
@@ -441,9 +441,173 @@ highlighted by the yellow brackets."
   label: "**Fig. 30**"
   caption: "**Fig. 30** Édouard Manet, *Eva Gonzalès Painting in Manet’s Studio*, 1870. Oil on canvas, 21 7/8 × 17 7/8 in. (56 × 46 cm). Private collection [RW I 153]"
   Alt: “An oil painting of two figures in an artist’s studio with a woman standing in front of an easel and a male figure dressed in Spanish costume to her right. Manet’s framed painting of Lola de Valence is visible between the figures among other canvases.”
-- id: “5.1”
+- id: "5.1"
   src: figures/Vandivere/fig-1-vandivere_et_al.jpg
   label: "**Fig. 1**"
   caption: "**Fig. 1** Attributed to Rogier van der Weyden (and studio?), *The Lamentation of Christ*, ca. 1460–64? Oil on panel, 80.6 x 130.1 cm. Mauritshuis, The Hague, Mh264. https://www.mauritshuis.nl/en/our-collection/artworks/264-the-lamentation-of-christ/ After-treatment photograph (and after-treatment details used below) are by Margaretha Svensson. Reconstructed areas are marked as squares, with numbers corresponding to the figures below."
-  credit:
-  Alt: “ Fifteenth-century oil painting depicting ten people including Christ deposed from the cross. Six areas are marked with numbered squares.”
+  Alt: “ Fifteenth-century oil painting depicting ten people including Christ deposed from the cross. Six areas are marked with numbered squares.”
+- id: "5.2"
+  src: figures/Vandivere/fig-2-vandivere_et_al.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** (a) Detail of the Virgin Mary’s clothing. (b) Infrared reflectogram of the Virgin Mary’s clothing, Osiris IRR camera (Opus Instruments, wavelengths up to 1700nm). (c) Finished reconstruction by Mané van Veldhuizen. (d) Infrared reflectogram of the reconstruction, Osiris IRR camera. Unless mentioned otherwise, the photographs of reconstructions illustrated in this article were taken approximately two months after the reconstructions were completed."
+  Alt: "Top: detail of fifteenth-century painting showing a left hand and folded blue clothing, photographed in normal light (left) and infrared (right). Bottom: reconstruction of the same detail."
+- id: "5.3"
+  src: figures/Vandivere/fig-3-vandivere_et_al.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** (a) Detail of Christ’s body. (b) Reconstruction after application of the underdrawing (dark and light lines) and the intermediate layers (thickest on the left, thinner in the middle, not present on the right). (c) Reconstruction after application of the flesh paint. (d) Finished reconstruction by Abbie Vandivere."
+  Alt: "Top left: detail of fifteenth-century painting showing the bloody torso and thighs of Christ wearing a white loincloth. Top right and bottom left and right: three photographs showing phases of the reconstruction of the same area."
+- id: "5.4"
+  src: figures/Vandivere/fig-4-vandivere_et_al.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** (a) Detail of Mary Magdalene’s clothing. (b) Reconstruction by Paul van Laar showing modeling of the blue dress in three ways, and the profound contrast between the dress and the red drapery (vermilion, heightened with lead white and glazed with red lake). Photograph taken within two months of completing the reconstruction. (c) Cross-section taken before treatment from the bottom of Mary Magdalene’s dress, 200x magnification, dark field (DF). (d) Cross-section taken before treatment from the bottom of Mary Magdalene’s dress, 200x magnification, ultraviolet illumination (UV). Note the difference in size between the large azurite particles (layer i, also containing red particles) and the small ultramarine particles (layer ii). The layers above are overpaint and varnish."
+  Alt: "Top left: detail of fifteenth-century painting showing the clothing of the woman in red and blue holding a pot. Top right: reconstruction of the same area. Bottom: cross-sections of blue paint from the original and the reconstruction."
+- id: "5.5"
+  src: figures/Vandivere/fig-5-vandivere_et_al.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** (a) Detail of the skirt of the Seated Mary. (b) Reconstruction by Anne-Sofie Hamers, photographed approximately seven months after making. (c) Cross-section taken during treatment from the shadow in the Seated Mary’s dress, 400x magnification, UV. Sample location is marked with an X on fig. 5a: (i) ground and underdrawing; (ii) intermediate layer, (iii) paint layer containing lead white, azurite, and red lake; (iv) paint layer similar to iii, but with larger particles; (v) varnish and overpaint (not original). (d) Cross-section taken from the reconstruction, 400x magnification, UV. Sample location is marked with an X on fig. 5b: (i) ground; (ii) intermediate layer; (iii) paint layer containing lead white, azurite, and red lake; (iv) paint layer similar to iii, but with more lead white."
+  Alt: "Top right: detail of fifteenth-century painting showing folded clothing in purple and blue. Top left: reconstruction of the same area. Bottom: cross-sections from the original and the reconstruction."
+- id: "5.6"
+  src: figures/Vandivere/fig-6-vandivere_et_al.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** (a) Detail of Standing Mary. (b) 3-D digital microphotograph of the brown gown, 100x, showing the mixture of red (vermilion), black, and white (lead white) pigments. On the surface is a faded glaze with a finer crack pattern. (c) Reconstruction by Carol Pottasch. The areas of the brown gown outlined with yellow show the brown paint without the red glaze. The part of the sleeve outlined in green shows where only the light underlayer was applied (no glaze). To the left of this, red lake was applied on top; to the right, a mixture of red lake, vermilion, lead white, and black was applied on top. (d) Cross-section from the orange kirtle (sample taken in the skirt), 400x, UV: (i) underlayer containing lead white, lead-tin yellow, red lake, azurite, and a fine black pigment; (ii) layer containing lead white and (unidentified) blue; (iii) upper layer containing red lake, vermilion, and a little lead white and black; (iv) varnish (not original). (e) Cross-section from the orange sleeve of the reconstruction, 400x, UV. Sample location is marked with an X on fig. 6c: (i) ground; (ii) intermediate layer; (iii) and (iv) two indistinct paint layers, containing red lake with vermilion, lead white, and black."
+  Alt: "Top left: detail of fifteenth-century painting showing clothing of a woman with clasped hands wearing brown and orange. Top right: microscopic image. Bottom left: reconstruction of the same area. Bottom right: cross-sections of orange paint from the original and the reconstruction."
+- id: "5.7"
+  src: figures/Vandivere/fig-7-vandivere_et_al.jpg
+  label: "**Fig. 7**"
+  caption: "**Fig. 7** (a) Detail of Saint Paul. (b) Cross-section from the shadow on the right edge of Saint Paul’s cloak, 200x, DF: (i) ground; (ii) underdrawing; (iii) intermediate layer; (iv) red layer containing red lake and vermilion; (v) red lake containing red lake, vermilion, and a blue pigment; (vi) glaze containing red lake and a little vermilion; (vii) varnish and overpaint. (c) Cross-section from a shadow in the reconstruction, 400x, UV: (i) ground; (ii) underdrawing; (iii) intermediate layer; (iv) red paint layer containing vermilion and red lake. Sample location is marked with an X on fig. 7d. (d) Reconstruction by Ingrid Kramer, photographed approximately two months after making. (e) Reconstruction by Ingrid Kramer, photographed approximately seven months after making."
+  Alt: "Top right: detail of fifteenth-century painting showing clothing of the man in red and green. Top left: cross-sections of red paint from the original and the reconstruction. Bottom: reconstruction of the same area, before and after ageing."
+- id: "5.8"
+  src: figures/Vandivere/fig-8-vandivere_et_al.jpg
+  label: "**Fig. 8**"
+  caption: "**Fig. 8** (a) Detail of the neckline of Mary Magdalene’s dress. (b) Detail of the reconstruction  by Paul van Laar, photographed seven months after making. (c) Detail of Christ’s blood. (d) 3-D digital microphotograph of the reconstruction by Abbie Vandivere, 30x magnification."
+  Alt: "Top: detail of fifteenth-century painting showing jeweled neckline: original (left) and reconstruction (right). Bottom: detail of the blood of Christ: original and reconstruction."
+- id: "6.1"
+  src: figures/Pellini/fig-1-pellini_vesoluoma.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1**  Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, taken during conservation treatment, after tear-mending."
+  Alt: "oil painting of three sitting women of different ages in an interior setting with a crucifix, kneeling stool and open prayer book"
+- id: "6.2"
+  src: figures/Pellini/fig-2-pellini_vesoluoma.jpg
+  label: "**Fig. 2**"
+  caption: "**Fig. 2** Annie Walke, *St Christopher*, undated. Oil on canvas. St Mary’s Church (London, Bourne Street). Photo: Anna Vesaluoma."
+  Alt: "oil painting of man standing in a river with mountains in the background, supporting himself with a staff and carrying a child on his right shoulder."
+- id: "6.3"
+  src: figures/Pellini/fig-3-pellini_vesoluoma.jpg
+  label: "**Fig. 3**"
+  caption: "**Fig. 3** Annie Walke, *Sorrowful Women*, det. (stretcher bar with inscription), undated. Oil on canvas, 134.5 x 116 cm. Private collection. Inscription: “Sorrowful Women”/ ANN WALKE / St Hilary / W Marazion Cornwall. Photo: Anna Vesaluoma."
+  Alt: "Sorrowful Women / ANN WALKE / St Hilary / W Marazion. Cornwall handwritten in dark ink on a stretcher bar of painting on canvas."
+- id: "6.4"
+  src: figures/Pellini/fig-4-pellini_vesoluoma.jpg
+  label: "**Fig. 4**"
+  caption: "**Fig. 4** Annie Walke, *Sorrowful Women*, det. (stretcher bar with James Lanham Ltd. stamp),  undated. Oil on canvas, 134.5 x 116 cm. Private collection. Stamp: […] NHAM LTD/ Colourmen / Makers etc./ST IVES CORNWALL. Photo: Anna Vesaluoma."
+  Alt: "wooden surface showing faded oval stamp in dark ink, detail of a stretcher bar behind a canvas painting"
+- id: "6.5"
+  src: figures/Pellini/fig-5-pellini_vesoluoma.jpg
+  label: "**Fig. 5**"
+  caption: "**Fig. 5** Cross-section from green fabric on stool in Sorrowful Women, showing two priming layers labelled 1 and 2. SEM/EDX Spectrum 3 from the upper priming layer shows the presence of lead (Pb), barium (Ba) and iron (Fe). Photo: Anna Vesaluoma."
+  alt: "cross-section in normal light, backscattered electron image and SEM/EDX spectrum of second ground layer showing presence of lead, barium and iron."
+- id: "6.6"
+  src: figures/Pellini/fig-6-pellini_vesoluoma.jpg
+  label: "**Fig. 6**"
+  caption: "**Fig. 6** Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, Infrared reflectography (IR), OSIRIS InGaAs camera, sensitivity 0.9-1.7 µm, before conservation treatment."
+  Alt: "infrared reflectograph showing carbon-containing underdrawing, including a grid structure and bolder strokes for figures"
+- id: "6.7"
+  src: figures/Pellini/fig-7-pellini_vesoluoma.jpg
+  label: "**Fig. 7**"
+  caption: "**Fig. 7** Cross-section sample from red skirt of sitting woman in *Sorrowful Women*, normal light and UV light. Black particles between two red layers are associated with the fluid underdrawing."
+  Alt: "cross section in normal light and ultraviolet showing black underdrawing particles between two red paint layers"
+- id: "6.8a"
+  src: figures/Pellini/fig-8-pellini_vesoluoma.jpg
+  label: "**Fig. 8a**"
+  caption: "**Fig. 8a** Annie Walke, *Dedication*, det. (little girl, normal light) undated. Oil on panel, 41.5 x 65.5 cm. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, normal light, taken with permission of the vicar of St Hilary."
+  Alt: ""
+- id: "6.8b"
+  src: figures/Pellini/fig-8.2-pellini_vesoluoma.jpg
+  label: "**Fig. 8b**"
+  caption: "**Fig. 8b** Annie Walke, Dedication, det. (little girl, IR) undated. Oil on panel, 41.5 x 65.5 cm. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, Infrared Reflectography (IR), modified DSLR camera, spectral range of 400-900 nm, taken with permission of the vicar of St Hilary."
+  Alt: "infrared detail of carbon-based underdrawing of the young girl’s legs and a shorter skirt under her dress, indicating that the dress has been extended from the initial underdrawing to the finished painting"
+- id: "6.9a"
+  src: figures/Pellini/fig-9-pellini_vesoluoma.jpg
+  label: "**Fig. 9a**"
+  caption: "**Fig. 9a** Annie Walke, Sorrowful Women, det. (kneeling stool, normal light) undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, Normal light, before conservation treatment."
+  Alt: "normal light detail of oil painting, showing a red and black kneeling stool standing on a grey floor and against a turquoise wall"
+- id: "6.9b"
+  src: figures/Pellini/fig-9.2-pellini_vesoluoma.jpg
+  label: "**Fig. 9b**"
+  caption: "**Fig. 9b** nnie Walke, *Sorrowful Women*, det. (kneeling stool, IR) undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, Infrared Reflectography (IR), OSIRIS InGaAs camera, sensitivity 0.9-1.7 µm, before conservation treatment."
+  Alt: "infrared detail of linear carbon-based underdrawing for the perspective, reserve left for the red of the chair, and the grey floor partially extending under the chair"
+- id: "6.10"
+  src: figures/Pellini/fig-10-pellini_vesoluoma.jpg
+  label: "**Fig. 10**"
+  caption: "**Fig. 10** Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, X-radiograph, 15 keV, 3.5 mA, 40 seconds exposure, PTGUI mosaic, before conservation treatment."
+  Alt: "x-ray of painting with three women showing the dabbled and broad application of paint and modifications made during painting in the shape of the old woman’s chair"
+- id: "6.11"
+  src: figures/Pellini/fig-11-pellini_vesoluoma.jpg
+  label: "**Fig. 11**"
+  caption: "**Fig. 11** Cross-section from purple chair in *Sorrowful Women* in normal light (top) and ultraviolet light (bottom). Photo: Anna Vesaluoma."
+  Alt: "cross-section in normal and UV light showing grey, green and purple paint layers above the ground, suggesting modifications made during painting"
+- id: "6.12"
+  src: figures/Pellini/fig-12-pellini_vesoluoma.jpg
+  label: "**Fig. 12**"
+  caption: "**Fig. 12** Annie Walke, *Sorrowful Women*, det., undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma."
+  Alt: "detail of craquelure in pink paint of skirt, revealing green paint of shirt underneath"
+- id: "6.13"
+  src: figures/Pellini/fig-13-pellini_vesoluoma.jpg
+  label: "**Fig. 13**"
+  caption: "**Fig. 13** Annie Walke, *Preaching from the Hill*, det., undated. Oil on hardboard, 81.5 x 53.5 cm. Royal Cornwall Museum (Truro, Cornwall). Photo: Anna Vesaluoma."
+  Alt: "detail of figure kneeling on green field painted in loose impressionistic brushstrokes showing ridges of paint created with loaded brush."
+- id: "6.14"
+  src: figures/Pellini/fig-14-pellini_vesoluoma.jpg
+  label: "**Fig. 14**"
+  caption: "**Fig. 14** Annie Walke, *St Clare*, undated. Oil on canvas, 151 x 90.5 cm. Former School of St Clare (Penzance, Cornwall). Photo: Anna Vesaluoma."
+  Alt: "oil painting of a woman dressed in a tunic with three friars or monks in the background, framed by an archway, painted in muted colours"
+- id: "6.15a"
+  src: figures/Pellini/fig-15-pellini_vesoluoma.jpg
+  label: "**Fig. 15a**"
+  caption: "**Fig. 15a** Annie Walke, *Sorrowful Women*, det. (central figure’s head) undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, normal light, before treatment."
+  Alt: "normal light detail of oil painting of woman’s face with smooth modelling and the turquoise background adjusted over the woman’s hair”"
+- id: "6.15b"
+  src: figures/Pellini/fig-15.2-pellini_vesoluoma.jpg
+  label: "**Fig. 15b**"
+  caption: "**Fig. 15b** Annie Walke, *Sorrowful Women*, det. (central figure’s head) undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, X-radiograph, 15 keV, 3.5 mA, 40 seconds exposure, before treatment."
+  Alt: "x-ray detail of woman’s fact to show build-up of modelling from shadows to highlights containing an x-ray opaque pigment, and ridge of paint formed between hair and background"
+- id: "6.16"
+  src: figures/Pellini/fig-16-pellini_vesoluoma.jpg
+  label: "**Fig. 16**"
+  caption: "**Fig. 16** Annie Walke, *Reverend Bernard Walke and His Mother*, det. (old woman’s head), undated. Oil on canvas, 182 x 121 cm. Royal Cornwall Museum (Truro, Cornwall). Photo: Anna Vesaluoma."
+  Alt: "Old woman with pearl-white hair soberly tied-up, wearing a white shawl on top of black dress with white-lace blouse showing out of the high neck-line"
+- id: "6.17"
+  src: figures/Pellini/fig-17-pellini_vesoluoma.jpg
+  label: "**Fig. 17**"
+  caption: "**Fig. 17** Left: Annie Walke, *Christ Blessing Cornish Industry*, det. (central panel), 1923. Oil on panel, 75cm x 95cm, Truro Cathedral (Truro, Cornwall). Photo: Dr Michael Tedder. Right: Ernest Procter, Crucifix, 1920s. Painted wood. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
+  Alt: "Two variants of Christ on the cross, with golden halo and white tunic. To the left painted on panel in a landscape, to the right sculpted in painted wood."
+- id: "6.18"
+  src: figures/Pellini/fig-18-pellini_vesoluoma.jpg
+  label: "**Fig. 18**"
+  caption: "**Fig. 18** Unknown, *Photo of Bernard Walke next to a fireplace*. Undated. Black and white photograph. St Hilary Archive (St Hilary, Cornwall). Photo: Anna Vesaluoma."
+  Alt: "middle-aged man in long black tunic, with shoulder-length cape standing to the right of a mantled-fireplace with still-life painting to his right."
+- id: "6.19"
+  src: figures/Pellini/fig-19-pellini_vesoluoma.jpg
+  label: "**Fig. 19**"
+  caption: "**Fig. 19** Annie Walke, *Dedication*, undated. Oil on panel (choir stall), 41.5 x 65.5 cm. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
+  Alt: "Outdoor procession with bishop and altar boy carrying a crucifix witnessed by peasant women and kids painted in earthy tones with bright red accents"
+- id: "6.20"
+  src: figures/Pellini/fig-20-pellini_vesoluoma.jpg
+  label: "**Fig. 20**"
+  caption: "**Fig. 20** Eric Gill, *Ascension*, 1918. Wood engraving on paper, printed in The Game, no. 2, 9 May, 1918: 30. Photo: Owen Baker, St Hilary Heritage Centre (St Hilary, Cornwall)."
+  Alt: "Two pages of yellowed paper, on the left a psalm and on the right a woodcut of Christ preaching to a crowd, in a graphic and expressive style."
+- id: "6.21"
+  src: figures/Pellini/fig-21-pellini_vesoluoma.jpg
+  label: "**Fig. 21**"
+  caption: "**Fig. 21** Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 x 116 cm. Private collection. Photo: Anna Vesaluoma, photograph of ultraviolet fluorescence (UVF), before conservation treatment."
+  Alt: "painting in ultraviolet light showing fluorescing varnish, applied unevenly and energetically with a brush across the surface"
+- id: "6.22"
+  src: figures/Pellini/fig-22-pellini_vesoluoma.jpg
+  label: "**Fig. 22**"
+  caption: "**Fig. 22** Annie Walke, *Virgin and Child*,  det. (monogram signature), undated. Oil on canvas. St Hilary Church (St Hilary, Cornwall). Photo: Anna Vesaluoma, taken with permission of the vicar of St Hilary."
+  Alt: "Dark monogram on aquamarine background combining a capital A and W with the bar line continuing across half of the W and topped by an horizontal line"
+- id: "7.1"
+  src: figures/Frame/fig-1-Frame.jpg
+  label: "**Fig. 1**"
+  caption: "**Fig. 1** Sir Joshua Reynolds, *Lord Heathfield of Gibraltar*, 1787, oil on canvas, 142 x 113.5 cm, National Gallery London (NG111 Bought 1824),  Ⓒ The National Gallery, London. Like many paintings by Reynolds, the dark paint passages exhibit wide drying cracks and wrinkling."
+  alt: "A portrait of a man wearing a red jacket over a white waistcoat and trousers. He holds a key and carries a sword. He stands against a distant landscape and a dark, cloudy sky."
