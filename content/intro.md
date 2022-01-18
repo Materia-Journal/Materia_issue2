@@ -4,7 +4,7 @@ subtitle:
 weight: 20
 class: page-one
 type: splash
-image: kremnitzer_banner.jpg
+image: Camp_editorial.jpg
 ---
 
 
