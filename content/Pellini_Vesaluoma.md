@@ -1,7 +1,6 @@
 ---
 label:
-title: "Richness of Colour and Boldness of Outline”: On Annie Walke’s Artistic Practice"
-subtitle:
+title: " “Richness of Colour and Boldness of Outline” : On Annie Walke’s Artistic Practice"
 weight: 35
 type: essay
 class:
