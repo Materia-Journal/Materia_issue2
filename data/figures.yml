@@ -2,92 +2,92 @@ figure_list:
 - id: "1.1"
   src: figures/Camp/fig-1-camp.jpg
   label: "**Fig. 1a**"
-  caption: "**Fig. 1a** The child's overcoat (#A1524) front (left) and back (right) before treatment."
+  caption: "**Fig. 1a** Child’s overcoat, front (left) and back (right) before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524"
   alt:
 - id: "1.122"
   src: figures/Camp/fig-1.2-camp.jpg
   label: "**Fig. 1b**"
-  caption: "**Fig. 1b** Construction diagrams of the child’s overcoat, front (left) and back (right), with seams shown in yellow."
+  caption:
   alt:
 - id: "1.2"
   src: figures/Camp/fig-2-camp.jpg
   label: "**Fig. 2a**"
-  caption: "**Fig. 2** The hood edging has different fur than the body of the coat, as shown in this detail."
+  caption: "**Fig. 2** Construction diagrams of child’s overcoat, front (left) and back (right), with seams shown in yellow."
   alt:
 - id: "1.22"
   src: figures/Camp/fig-2.2-camp.jpg
   label: "**Fig. 2b**"
-  caption: "**Fig. 2b** Follicle patterns of the main skin (left) and skin edging around the hood (right)."
+  caption:
   alt:
 - id: "1.3"
   src: figures/Camp/fig-3-camp.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** PMF results for the main skin of the coat, which are a match for reindeer (Courtesy of  SRAL, Winterthur Museum)."
+  caption: "**Fig. 3** Hood edging with different fur than the body of the coat."
   alt:
 - id: "1.4"
   src: figures/Camp/fig-4-camp.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** PMF results for the edging around the hood, which are a match with wolverine  (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 4** Follicle patterns of main skin (left) and skin edging around hood (right)."
   alt:
 - id: "1.5"
   src: figures/Camp/fig-5-camp.jpg
   label: "**Fig. 5**"
-  caption: "**Fig. 5** The back of the hood, before treatment."
+  caption: "**Fig. 5** PMF results for coat’s main skin, which are a match for reindeer (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.6"
   src: figures/Camp/fig-6-camp.jpg
   label: "**Fig. 6**"
-  caption: "**Fig. 6** The Ushkov Company stamp found on the bottom textile strip."
+  caption: "**Fig. 6** PMF results for edging around the hood, which are a match with wolverine  (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.7"
   src: figures/Camp/fig-7-camp.jpg
   label: "**Fig. 7**"
-  caption: "**Fig. 7** XRF results for an area of the bottom wool band. A chromium peak was detectable on  the wool but no other components of the coat, suggesting the presence of chrome-based  mordant Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 7** Back of hood, before treatment."
   alt:
 - id: "1.8"
   src: figures/Camp/fig-8-camp.jpg
   label: "**Fig. 8**"
-  caption: "**Fig. 8** Detail of beading on the bottom textile strip."
+  caption: "**Fig. 8** Ushkov Company stamp found on bottom textile strip."
   alt:
 - id: "1.9"
   src: figures/Camp/fig-9-camp.jpg
   label: "**Fig. 9**"
-  caption: "**Fig. 9** The beaded decoration on the back of the left sleeve (left) does not match the rest of  the beading on the sleeves."
+  caption: "**Fig. 9** XRF results for an area of the bottom wool strip. A chromium peak was detectable on the wool but not on any other components of the coat, suggesting the presence of chrome-based mordant. (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.10"
   src: figures/Camp/fig-10-camp.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** A detail of pitted beads on the hood. Beading on all components of the coat have this deterioration."
+  caption: "**Fig. 10** Detail of beading on bottom textile strip."
   alt:
 - id: "1.11"
   src: figures/Camp/fig-11-camp.jpg
   label: "**Fig. 11**"
-  caption: "**Fig. 11** A brown resinous material is on some beads on the hood, such as the orange ones shown here."
+  caption: "**Fig. 11** The beaded decoration on the back of the left sleeve (left) does not match the rest of the beading on the sleeves."
   alt:
 - id: "1.12"
   src: figures/Camp/fig-12-camp.jpg
   label: "**Fig. 12**"
-  caption: "**Fig. 12** A brown-red stain is present on exposed corium on the back of the coat body."
+  caption: "**Fig. 12** Detail of pitted beads on hood. The beading on all components of the coat shows this deterioration."
   alt:
 - id: "1.13"
   src: figures/Camp/fig-13-camp.jpg
   label: "**Fig. 13**"
-  caption: "**Fig. 13** The spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place (Courtesy of SRAL, Winterthur  Museum)."
+  caption: "**Fig. 13** Brown resinous material is on some beads on the hood, such as the orange ones shown here."
   alt:
 - id: "1.14"
   src: figures/Camp/fig-14-camp.jpg
   label: "**Fig. 14**"
-  caption: "**Fig. 14** The brown-red stain present on exposed corium on the back of the coat  was determined to be proteinaceous (Courtesy of SRAL, Winterthur Museum)."
+  caption: "**Fig. 14** Brown-red stain is present on exposed corium on back of coat body."
   alt:
 - id: "1.15"
   src: figures/Camp/fig-15-camp.jpg
   label: "**Fig. 15**"
-  caption: "**Fig. 15** An area of damage in the skin and bottom textile band before  (left) and after (right) treatment."
+  caption: "**Fig. 15** The FTIR spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place. (Courtesy SRAL, Winterthur Museum)"
   alt:
 - id: "1.16"
   src: figures/Camp/fig-16-camp.jpg
   label: "**Fig. 16**"
-  caption: "**Fig. 16**"
+  caption: "**Fig. 16** The brown-red stain present on exposed corium on the back of coat was determined to be proteinaceous using FTIR. (Courtesy SRAL, Winterthur Museum)"
   alt:
 - id: "1.17"
   src: figures/Camp/fig-17-camp.jpg
@@ -114,34 +114,34 @@ figure_list:
   label: "**Fig. 1**"
   caption: "**Fig. 1** Albert Moore, Study for *Blossoms*, c. 1881. Oil on canvas, 29 3/4 x 9 1/2 in. (75.6 x 24.1 cm). Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop, 1943.199.
 Photo: © President and Fellows of Harvard College."
-  alt:
+  alt: "A full-length, oil-paint portrait of a standing female figure draped in a sheer robe which covers her from neck to ankle."
 - id: "2.2"
   src: figures/Awburn/fig-2-awburn_et_al.jpg
   label: "**Fig. 2**"
   caption: "**Fig. 2** Albert Moore, *Blossoms*, 1881. Oil on canvas, 58 x 18 1/4 in. (147.3 x 46.4 cm). Tate
   Britain, London."
-  alt:
+  alt: "A full-length oil-paint portrait of a standing female figure draped in a robe, which covers her from neck to ankle."
 - id: "2.3"
   src: figures/Awburn/fig-3-awburn_et_al.jpg
   label: "**Fig. 3**"
   caption: "**Fig. 3** An example of Moore’s “systems of line arrangement” in a preparatory study.
 Albert Moore, Nude Figure Study for *Birds of the Air*, c. 1878. Charcoal on grey paper, 34 3/4
 x 15 3/8 in. (88.2 x 38.9 cm). Victoria and Albert Museum, D.226-1905."
-  alt:
+  alt: "A gridded charcoal sketch of a nude female figure, front on, her hands on her hips and her head tilted up towards the left."
 - id: "2.4"
   src: figures/Awburn/fig-4-awburn_et_al.jpg
   label: "**Fig. 4**"
   caption: "**Fig. 4** An example of an oil study with a gridded underdrawing visible near the figure’s legs.
 Albert Moore, *Yellow Marguerites*, 1881. Oil on canvas, 25 1/4 x 19 3/4 in. (64.1 x 50.1 cm).
 Koriyama City Museum of Art, Japan. Photo © Christie's Images/Bridgeman Images."
-  Alt:
+  Alt: "A full-length oil-paint portrait of a female figure draped fabric, sitting slumped on a sofa, in front of floral wallpaper."
 - id: "2.5"
   src: figures/Awburn/fig-5-awburn_et_al.jpg
   label: "**Fig. 5**"
   caption: "**Fig. 5** Initial ink sketch of the composition for *Blossoms*, representative of step 2.
 Albert Moore, Sketch for *Blossoms*, Pen and ink. Size and location unknown.
 Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894), 72. "
-  alt:
+  alt: "A rough ink sketch of a full-length female figure in a statuesque pose and dark cross hatching behind her."
 - id: "2.6"
   src: figures/Awburn/fig-6-awburn_et_al.jpg
   label: "**Fig. 6**"
@@ -149,67 +149,67 @@ Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894)
 Albert Moore, *Nude Study for Blossoms*. Medium, size, and location unknown.
 Image source: Illustrated in Ernest Radford, Albert Moore, *The Idler* 1, no. 13 (August 1898),
 6."
-  alt:
+  alt: "A half-length, rendered illustration of a nude female figure. Her body is front-on, and she gazes directly at the viewer."
 - id: "2.7"
   src: figures/Awburn/fig-7-awburn_et_al.jpg
   label: "**Fig. 7**"
   caption: "**Fig. 7** A detail of Moore’s *Nude Figure Study for Birds of the Air* (Fig. 3), illustrating the
 holes along the lines of the composition made from the pouncing process of pricking holes to
 transfer the image to a second support."
-  alt:
+  alt: "An annotated image highlighting holes in the paper support of a preparatory sketch."
 - id: "2.8"
   src: figures/Awburn/fig-8-awburn_et_al.jpg
   label: "**Fig. 8**"
   caption: "**Fig. 8** A charcoal study for the drapery in *Blossoms*, representative of step 10.
 Albert Moore, *Drapery Study for Blossoms,* c. 1881. Charcoal on paper, 57 1/4 x 17 3/4 in.
 (145.4 x 45 cm). Victoria and Albert Museum, D.254-1905."
-  alt:
+  alt: "A full-length rendered charcoal illustration of a robe. The female figure wearing the garment has been removed."
 - id: "2.9"
   src: figures/Awburn/fig-9-awburn_et_al.jpg
   label: "**Fig. 9**"
   caption: "**Fig. 9** An oil study of an alternative color palette for Blossoms, representative of step 11.
 Albert Moore, *Blossoms (A Study in Yellow)*, c. 1881. Oil on canvas, 15 x 5 in. (38.1 x 12.7 cm).
 Private Collection. Photograph courtesy of Sotheby’s."
-  alt:
+  alt: "A sketchy oil study of a standing female figure draped in a robe which covers her from neck to ankle."
 - id: "2.10"
   src: figures/Awburn/fig-10-awburn_et_al.jpg
   label: "**Fig. 10**"
   caption: "**Fig. 10** Technical images of *Study for “Blossoms,”* in raking light (a) showing the horizontal
 crack pattern; infrared reflectography (b); ultraviolet-induced visible fluorescence (c); and x-
 radiography (d)."
-  alt:
+  alt: "Four technical images of  Study for “Blossoms” labeled a to d, left to right."
 - id: "2.11"
   src: figures/Awburn/fig-11-awburn_et_al.jpg
   label: "**Fig. 11**"
   caption: "**Fig. 11** Photomicrographs of a paint cross-section prepared from Study for *“Blossoms”* viewed in visible light (a) and with UV illumination (b). The back-scattered electron image of the cross-section is given in (c). Boundaries between the three ground layers have been highlighted with either a dashed white (a and b) or yellow (c and d) line. The red rectangle in (c) highlights the
 area mapped to determine the elemental contributions in the ground paint layers as shown in (d)."
-  alt:
+  alt: "Cross-section from Study for “Blossoms” contains three white ground layers, a brown paint layer and a surface varnish layer."
 - id: "2.12"
   src: figures/Awburn/fig-12-awburn_et_al.jpg
   label: "**Fig. 12**"
   caption: "**Fig. 12** Detail of Fig. 1 illustrating the painted border and red and blue colored markings."
-  alt:
+  alt: "The oil painting Study for “Blossoms” viewed from an angle to highlight the marks on the right turnover edge."
 - id: "2.13"
   src: figures/Awburn/fig-13-awburn_et_al.jpg
   label: "**Fig. 13**"
   caption: "**Fig. 13** Details from the digital infrared reflectography image of Study for *“Blossoms.”* (Fig. 10b) illustrating the gridding visible near the figures head (a) and feet (b)."
-  alt:
+  alt: "Two digital infrared images side by side labelled a and b, showing the gridding at top and bottom of Study for “Blossoms.”"
 - id: "2.14"
   src: figures/Awburn/fig-14-awburn_et_al.jpg
   label: "**Fig. 14**"
   caption: "**Fig. 14** Photomicrographs detailing the location of a sample taken from *Study for “Blossoms”* which targeted an area of underdrawing (a) and the cross-section prepared viewed in visible light (b) and with UV illumination (c). The underdrawing line is made up of the black particles
 highlighted by the yellow brackets."
-  alt:
+  alt: "Cross-section from Study for “Blossoms” shows underdrawing in patches between the white ground and surface paint layer."
 - id: "2.15"
   src: figures/Awburn/fig-15-awburn_et_al.jpg
   label: "**Fig. 15**"
   caption: "**Fig. 15** Locations of pin holes on *Study for “Blossoms.”* Note: the yellow dots are enlarged."
-  alt:
+  alt: "A key depicting the locations of pin holes on the painting Study for “Blossoms” with yellow dots."
 - id: "2.16"
   src: figures/Awburn/fig-16-awburn_et_al.jpg
   label: "**Fig. 16**"
   caption: "**Fig. 16** Magnification of pin hole on *Study for Blossoms.*"
-  alt:
+  alt: "A magnified detail of a pin hole on Study for “Blossoms” showing the layers of paint pierced by a pin."
 - id: "3.1"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 1**"
