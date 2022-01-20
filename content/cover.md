@@ -5,5 +5,5 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: cover--Camp_cover.png
+image: camp_cover3.jpg
 ---
