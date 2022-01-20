@@ -6,7 +6,7 @@ weight: 31
 type: essay
 class:
 peer_review: "true"
-contributor_as_it_appears: Ruby Awburn, Sophie Lynford, Georgina Rayner
+contributor_as_it_appears: Ruby Awburn, Sophie Lynford and Georgina Rayner
 contributor:
 
 abstract: Albert Moore, a leader of the British Aesthetic movement, left few written records. Unlike many of his contemporaries, most notably his friend James McNeill Whistler, he delivered no lectures about his artistic philosophies and praxes. This article provides evidence of Moore’s intricate working processes identified through examination of his *Study for “Blossoms”* (c. 1881), an oil study in the collection of the Harvard Art Museums. Technical imaging and scientific analysis were employed to document the artist’s laborious multi-step painting practice. This piece enumerates Moore’s methodological process, examined alongside his commercial practice, and explores the socio-historical context surrounding the finishing and sale of his oil studies. These findings enabled the identification of eighteen discrete steps that Moore undertook each time he completed a large-scale oil painting, a practice believed to be among the most elaborate of the Victorian era.
@@ -149,7 +149,7 @@ Raman analysis was conducted on the cross-sections using a Bruker Optics Senterr
 
 ### Fourier transform infrared (FTIR) spectroscopy
 
-FTIR in transmission mode was performed using a Bruker Vertex 70 infrared bench spectrometer coupled to a Bruker Hyperion 3000 infrared microscope. Varnish samples were compressed onto a diamond cell with a stainless-steel roller prior to analysis. Using the Bruker OPUS (version 6.0) software, spectra were recorded between 4000 and 600 cm^-1^ at 4cm^-1^ spectral resolution and 32 scans per spectrum.
+FTIR in transmission mode was performed using a Bruker Vertex 70 infrared bench spectrometer coupled to a Bruker Hyperion 3000 infrared microscope. Varnish samples were compressed onto a diamond cell with a stainless-steel roller prior to analysis. Using the Bruker OPUS (version 6.0) software, spectra were recorded between 4000 and 600 cm<sup>-1</sup> at 4cm<sup>-1</sup> spectral resolution and 32 scans per spectrum.
 
 ### Pyrolysis Gas chromatography-mass spectrometry (py-GCMS)
 
@@ -161,7 +161,7 @@ XRF point analysis was conducted on the painting using a Bruker Artax XRF spectr
 
 ### Imaging Specifications
 
-Technical images were captured using a Canon EOS 5D Mark 4 digital camera with the IR filter removed. For regular and UV imaging, external filtration Peca 918 and Kodak 2E filters were employed. For IR imaging, an 87A IR Pass filter was attached to the camera lens. Regular illumination was achieved with two Elinchrom RX 1200 Strobes; IR by two Lowel Pro Incandescent lamps; and UV with two TripleBright 3 lamps, each with one LW370 bulb and LW filter (average output value 358 µW/cm^2^). The X-ray radiation source was a Comet MXR-320/26 tube with a Carestream Industrex 2mm aluminum plate, and the exposure settings were 40kV, 7mA, 3mm FOC for 170 seconds at 152.5cm focal distance. Scanning of the plate was undertaken with a high laser power, 12-bit logarithmic data scale, PMT 10, and 50-micron scan resolution.
+Technical images were captured using a Canon EOS 5D Mark 4 digital camera with the IR filter removed. For regular and UV imaging, external filtration Peca 918 and Kodak 2E filters were employed. For IR imaging, an 87A IR Pass filter was attached to the camera lens. Regular illumination was achieved with two Elinchrom RX 1200 Strobes; IR by two Lowel Pro Incandescent lamps; and UV with two TripleBright 3 lamps, each with one LW370 bulb and LW filter (average output value 358 µW/cm<sup>2</sup>). The X-ray radiation source was a Comet MXR-320/26 tube with a Carestream Industrex 2mm aluminum plate, and the exposure settings were 40kV, 7mA, 3mm FOC for 170 seconds at 152.5cm focal distance. Scanning of the plate was undertaken with a high laser power, 12-bit logarithmic data scale, PMT 10, and 50-micron scan resolution.
 
 ***
 
@@ -215,7 +215,7 @@ The authors thank the Materia Editorial Team and two anonymous peer reviewers fo
 
 [^15]: Asleson, *Albert Moore*, 158; Prettejohn, *Art for Art’s Sake*, 103.
 
-[^16]: Asleson notes that Moore was often in dire financial straits. Early in his career, Moore asked Leyland to advance him £100 several months before he completed his commission of *A Venus* (1869, York City Art Gallery). See Asleson, *Albert Moore*, 104. To raise funds at the end of his life, Moore was forced to sell a painting by Whistler, *Nocturne: Trafalgar Square – Snow* (ca. 1875-77, Freer Gallery of Art) to the Glasgow dealer Alexander Reid. The amount that Moore received for the painting was the subject of much discussion at the close of 1892. See: Moore to Whistler, November 28 and December 5, 1892; Alexander Reid to Whistler, November 25, 1892; and Alexander Reid to Beatrix Whistler, December 2, 1892, *The Correspondence of James McNeill Whistler, 1855-1903*, edited by Margaret F. MacDonald, Patricia de Montfort, and Nigel Thorp \[online edition, [[http://www.whistler.arts.gla.ac.uk/correspondence]{.ul}](http://www.whistler.arts.gla.ac.uk/correspondence)\].
+[^16]: Asleson notes that Moore was often in dire financial straits. Early in his career, Moore asked Leyland to advance him £100 several months before he completed his commission of *A Venus* (1869, York City Art Gallery). See Asleson, *Albert Moore*, 104. To raise funds at the end of his life, Moore was forced to sell a painting by Whistler, *Nocturne: Trafalgar Square – Snow* (ca. 1875-77, Freer Gallery of Art) to the Glasgow dealer Alexander Reid. The amount that Moore received for the painting was the subject of much discussion at the close of 1892. See: Moore to Whistler, November 28 and December 5, 1892; Alexander Reid to Whistler, November 25, 1892; and Alexander Reid to Beatrix Whistler, December 2, 1892, *The Correspondence of James McNeill Whistler, 1855-1903*, edited by Margaret F. MacDonald, Patricia de Montfort, and Nigel Thorp [online edition, <a href="http://www.whistler.arts.gla.ac.uk/correspondence" target="_blank">http://www.whistler.arts.gla.ac.uk/correspondence</a>].
 
 [^17]: Moore to Leyland, January 11, 1896. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D. C.
 

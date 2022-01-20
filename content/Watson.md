@@ -12,9 +12,7 @@ contributor:
 abstract: Betty Blayton (1937-2016) was an African American artist predominantly recognized as an activist and educator in Harlem beginning in the 1960s. Co-founder of both the Children’s Art Carnival and the Studio Museum, she was fundamental in the development of art-based curriculum programs that provided disadvantaged youth in Harlem with access to the arts, as well as spaces where Black art could be exhibited, preserved, and interpreted. However, Blayton was also a prolific and accomplished painter, printmaker, and sculptor. Her contributions to abstract art have been arguably under-represented in art historical and technical literature. The Virginia Museum of Fine Arts acquired her 1969 abstract oil and paper on canvas, *Consume \#2,* (59” diameter) in 2018. The technical study of this work, prompted by its treatment for display, included visual and microscopic examination, scanning Macro X-ray Fluorescence (MA-XRF), Fourier Transform Infrared spectroscopy (FTIR), and Reflectance Transformation Imaging (RTI). This study, complimented by conversations with her family, friends, and her archive and estate, illuminated details of her materials, methods, and artistic process – shedding new light on her art practice as both innovative and conceptually astute. Like so many under-recognized artists of her time, Blayton’s imprint is yet to be fully embraced. This study is but one step toward acknowledging her work as integral to the larger narrative of abstraction during the 1970s and beyond.
 
 ---
-<br>
-
-### “Spiritual Abstraction,[^1]” The Art and Work of Betty Blayton
+## “Spiritual Abstraction,[^1]” The Art and Work of Betty Blayton
 
 ## Introduction
 
@@ -88,6 +86,8 @@ Like many of her other works, the tondo is framed in a simple strip frame, appli
 
 The painting *Consume \#2* marked a pivotal time in the development of Blayton’s work - from the 1970s onward her paintings and painting collages were decidedly abstract, contributing to the conversation of contemporary art at that time. The technical study of this work, and a new understanding of her process, reveals meticulously planned and painstakingly arranged compositions that at the same time provide a space for meditation and thought. The refuge she created in her contemplative self-reflective paintings counterbalanced her outward engagement with the art world and its strained relationship with her community. Commercial art in New York was as segregated as the school system in Virginia where she grew up. Like so many Black artists of her generation working in abstraction, Blayton would have to wait for many decades to be recognized and valued for her work. Robin Holder, a friend and visual artist, wrote “A difficult thing that has to do with elitism in the art world is that community art is often regarded as “lesser than” the arts. Blayton was the founder and director of a community-based African American organization, and because of that I hope she is not sidelined in importance, \[because she was\] a genuinely gifted and hardworking abstract painter. Sometimes I wonder whether, if Betty had spent more of her life developing her work, and if there was more of a receptive art world to female African-American artists, she might have been more high profile.”[^47] Only recently has she gained the attention of a wider audience. A 2021 exhibition at the Mnuchin gallery in New York featured over fifty of her paintings, thematically relating her works over the span of her decades-long career.[^48] The paintings were examples of the nuanced surfaces, structural integrity, and masterful use of color characterized in the study of *Consume \#2.* On view were the spaces she created for inward examination and beauty, transcending both the real and perceived limitations of an exclusionary and unjust art world.
 
+***
+
 ## Methods
 
 ### Macro XRF Fluorescence (MA-XRF)
@@ -125,31 +125,31 @@ This research was based within The Susan and David Goode Center for Advanced Stu
 
 ## References
 
-“Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. [[https://www.newyorker.com/goings-on-about-town/art/betty-blayton]{.ul}](https://www.newyorker.com/goings-on-about-town/art/betty-blayton)
+“Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. <a href="https://www.newyorker.com/goings-on-about-town/art/betty-blayton" target="_blank">https://www.newyorker.com/goings-on-about-town/art/betty-blayton</a>
 
-“Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. [[www.elizabethdee.com/exhibitions/betty-blayton]{.ul}](http://www.elizabethdee.com/exhibitions/betty-blayton)
+“Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. <a href="http://www.elizabethdee.com/exhibitions/betty-blayton" target="_blank">http://www.elizabethdee.com/exhibitions/betty-blayton</a>
 
 Blayton, Betty. Artist statement, 2006. Box 2, Folder 8. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution
 
-Corbeil, Marie-Claude, Jean-Pierre Charland, Elizabeth A. Moffatt. “The characterization of cobalt violet pigments,” *Studies in Conservation* 40 Number 4 (2002), 244.Eminhiser-Harris, Karen “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017) [[https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/]{.ul}](https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/)
+Corbeil, Marie-Claude, Jean-Pierre Charland, Elizabeth A. Moffatt. “The characterization of cobalt violet pigments,” *Studies in Conservation* 40 Number 4 (2002), 244.Eminhiser-Harris, Karen “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017) <a href="https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/" target="_blank">https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/</a>
 
-*FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration, [[https://archive.org/details/gov.archives.arc.50813]{.ul}](https://archive.org/details/gov.archives.arc.50813)
+*FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration, <a href="https://archive.org/details/gov.archives.arc.50813" target="_blank">https://archive.org/details/gov.archives.arc.50813</a>
 
 Hatch, James V. and Judy Blume eds. “Interview of Betty Blayton-Taylor by Halima Taha, November 9, 1997” *Artist and Influence* Vol.17:1-199 New York, NY: Hatch-Billops Collection Inc. (1998).
 
 Hughes-Hallet, Molly, Christina Young and Paul Messier “A Review of RTI and an Investigation into the Applicability of Micro-RTI as a Tool for the Documentation and Conservation of Modern and Contemporary Paintings.” *Journal of the American Institute for Conservation* VOL.60 No.1 (2021): 18-31.
 
-Kambon, Mariamma “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). [[https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/]{.ul}](https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/)
+Kambon, Mariamma “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). <a href="https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/" target="_blank">https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/</a>
 
 Lunning, Elizabeth and Roy Perkinson, *The Print Council of America Paper Sample Book* (The Print Council of America, 1996)
 
-Melissa Smith, “Betty Blayton Cofounded the Studio Museum and Taught to Hundreds. Now Her Own Work Is Getting a Blue-Chip Reevaluation.” *ArtForum* (9 Sept. 2021), accessed 9 Sept. 2021. [[https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575]{.ul}](https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575)
+Melissa Smith, “Betty Blayton Cofounded the Studio Museum and Taught to Hundreds. Now Her Own Work Is Getting a Blue-Chip Reevaluation.” *ArtForum* (9 Sept. 2021), accessed 9 Sept. 2021. <a href="https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575" target="_blank">https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575</a>
 
-Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist” *Hyperallergic* (23 January, 2017) [[https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence]{.ul}](https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence)
+Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist” *Hyperallergic* (23 January, 2017) <a href="https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence" target="_blank">https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence</a>
 
-Wyma, Chloe, “Betty Blayton; Elizabeth Dee” *ArtForum* (October 2017). [[https://www.artforum.com/print/reviews/201708/betty-blayton-71261]{.ul}](https://www.artforum.com/print/reviews/201708/betty-blayton-71261)
+Wyma, Chloe, “Betty Blayton; Elizabeth Dee” *ArtForum* (October 2017). <a href="https://www.artforum.com/print/reviews/201708/betty-blayton-71261" target="_blank">https://www.artforum.com/print/reviews/201708/betty-blayton-71261</a>
 
-Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 2021). Accessed 8 September, 2021. [[https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/]{.ul}](https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/)
+Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 2021). Accessed 8 September, 2021. <a href="https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/" target="_blank">https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/</a>
 
 ***
 
@@ -159,13 +159,13 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^2]: *Magnetic Fields; Expanding American Abstraction, 1960s to Today.* 8 June - 17 Sept. 2017, Kemper Museum of Contemporary Art, Kansas City, MO., 13 Oct. – 21 Jan. 2018, National Museum of Women in the Arts, Washington, DC., 5 May – 5 Aug. 2018, Museum of Fine Arts, St. Petersburg, FL. Organized by Kemper Museum of Contemporary Art, Erin Dziedzic and Melissa Messina, co-curators.
 
-[^3]: Karen Eminhiser-Harris, “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017). [[https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/]{.ul}](https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/)
+[^3]: Karen Eminhiser-Harris, “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017). [https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/](https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/)
 
 [^4]: Blayton, Artist statement, 2006. Box 2, Folder 8. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution.
 
-[^5]: *Betty Blayton*. 20 June-20 July 2017, Elizabeth Dee Gallery, New York, NY. In conjunction with *Uptown*,” 20 June – 20 July 2017, The Wallach Art Gallery, Columbia University, New York, NY. Souleo, curator. “Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. [[www.elizabethdee.com/exhibitions/betty-blayton]{.ul}](http://www.elizabethdee.com/exhibitions/betty-blayton)
+[^5]: *Betty Blayton*. 20 June-20 July 2017, Elizabeth Dee Gallery, New York, NY. In conjunction with *Uptown*,” 20 June – 20 July 2017, The Wallach Art Gallery, Columbia University, New York, NY. Souleo, curator. “Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. [www.elizabethdee.com/exhibitions/betty-blayton](http://www.elizabethdee.com/exhibitions/betty-blayton)
 
-[^6]: “Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. [[https://www.newyorker.com/goings-on-about-town/art/betty-blayton]{.ul}](https://www.newyorker.com/goings-on-about-town/art/betty-blayton)
+[^6]: “Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. [https://www.newyorker.com/goings-on-about-town/art/betty-blayton](https://www.newyorker.com/goings-on-about-town/art/betty-blayton)
 
 [^7]: Sometimes written as Betty Blayton-Taylor, her married name.
 
@@ -191,7 +191,7 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^18]: A documentary introducing Charles White, Romare Bearden, Richard Hunt, Barbara Chase-Riboud, and Betty Blayton.
 
-    *FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration. [<https://archive.org/details/gov.archives.arc.50813>]{.ul}
+    *FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration. [https://archive.org/details/gov.archives.arc.50813](https://archive.org/details/gov.archives.arc.50813)
 
 [^19]: Betty Blayton., *FIVE Artists*. Directed and produced by Vicki Kodama, 1971.
 
@@ -199,15 +199,15 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^21]: The late Martha Gilbert Norris and Betty Blayton lived together for twenty years and worked together at the Art Carnival for ten. Martha Gilbert Norris, personal communication with author, 3 December, 2019.
 
-[^22]: The Joan Mitchell Foundation’s Creating a Living Legacy (CALL) grant provides resources to help artists create usable documentation of their artworks and careers, manage their inventory of artworks, and start the estate planning process. “Creating a Living Legacy,” Artist Programs, Joan Mitchell Foundation, accessed 10 June 2019. [[https://www.joanmitchellfoundation.org/creating-a-living-legacy]{.ul}](https://www.joanmitchellfoundation.org/creating-a-living-legacy)
+[^22]: The Joan Mitchell Foundation’s Creating a Living Legacy (CALL) grant provides resources to help artists create usable documentation of their artworks and careers, manage their inventory of artworks, and start the estate planning process. “Creating a Living Legacy,” Artist Programs, Joan Mitchell Foundation, accessed 10 June 2019. [https://www.joanmitchellfoundation.org/creating-a-living-legacy](https://www.joanmitchellfoundation.org/creating-a-living-legacy)
 
 [^23]: Magazine Cover featuring Betty Blayton *Iconograph*, 1970 oil collage on canvas, 39.5” diameter, Betty Blayton Lifetime Trust. “Black Women in the World of Work,” *Contact* (Fall 1973). Box 2, Folder 7. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution.
 
-[^24]: Mariamma Kambon, “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/
+[^24]: Mariamma Kambon, “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). [https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/](https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/).
 
 [^25]: “Creating Community: Cinque Gallery Artists,” 3 May-3 July, 2021, The Art Students League of New York.
 
-[^26]: John Yau, “Another Chapter of Black Art History” *Hyperallergic* (5 June, 2021). Accessed 8 September, 2021. [[https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/]{.ul}](https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/)
+[^26]: John Yau, “Another Chapter of Black Art History” *Hyperallergic* (5 June, 2021). Accessed 8 September, 2021. [https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/](https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/)
 
 [^27]: Oscar Blayton, personal email to author, 3 November 2021.
 
@@ -253,8 +253,8 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^48]: “Betty Blayton, In Search of Grace” 8 Sept – 16 Oct, 2021, Mnuchin Gallery, New York. Curated by Sukanya Rajaratnam.
 
-[^49]: “Reflectance Transformation Imaging”Cultural Heritage Imaging (CHI), accessed December 2019. culturalheritageimaging.org/Technologies/RTI/
+[^49]: “Reflectance Transformation Imaging”Cultural Heritage Imaging (CHI), accessed December 2019. [culturalheritageimaging.org/Technologies/RTI/](culturalheritageimaging.org/Technologies/RTI/).
 
 [^50]: (Hasselblad H6D Medium Format DSLR Camera, Broncolor Siros 800s RFS21 strobe light).
 
-[^51]: Beth A. Price, Boris Pretzel and Suzanne Quillen Lomax, eds. Infrared and Raman Users Group Spectral Database. 2007 ed. Vol. 1 & 2. Philadelphia: IRUG, 2009. Infrared and Raman Users Group Spectral Database. Web. 20 June 2014. \<[[www.irug.org]{.ul}](http://www.irug.org/)\>.
+[^51]: Beth A. Price, Boris Pretzel and Suzanne Quillen Lomax, eds. Infrared and Raman Users Group Spectral Database. 2007 ed. Vol. 1 & 2. Philadelphia: IRUG, 2009. Infrared and Raman Users Group Spectral Database. Web. 20 June 2014. [www.irug.org](http://www.irug.org/).

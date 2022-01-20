@@ -32,17 +32,14 @@ To confirm the species, the skins and fur were examined using nondestructive exa
 
 **Table 1.** Polarized light microscopy[^19]
 
-+--------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sample location                | Normal light                                                                                                                                                      | Polarized light                                                                                                                                                                  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Hair from primary skin of coat | ![A picture containing text Description automatically generated](media/image1.jpg){width="1.688312554680665in" height="1.2662335958005249in"}                     | ![A picture containing text Description automatically generated](media/image2.jpg){width="1.6647003499562554in" height="1.2485258092738407in"}100x                               |
-|                                |                                                                                                                                                                   |                                                                                                                                                                                  |
-|                                | 100x                                                                                                                                                              |                                                                                                                                                                                  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Hair from edging of hood       | ![A picture containing invertebrate Description automatically generated](media/image3.jpg){width="1.6916732283464566in" height="1.2687554680664916in"}400x        | ![A picture containing metalware, screw Description automatically generated](media/image4.jpg){width="1.758480971128609in" height="1.3188604549431322in"}400x                    |
-+--------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Bottom textile band            | ![A close-up of a stick Description automatically generated with low confidence](media/image5.jpg){width="1.7597189413823273in" height="1.319788932633421in"}400x | ![A picture containing worm, invertebrate, indoor, leather Description automatically generated](media/image6.jpg){width="1.8440288713910762in" height="1.383021653543307in"}400x |
-+--------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sample location                | Normal light        | Polarized light |
+|---|---|---|
+| Hair from primary skin of coat | ![A picture containing text Description automatically generated](media/image1.jpg){width="1.688312554680665in" height="1.2662335958005249in"} | ![A picture containing text Description automatically generated](media/image2.jpg){width="1.6647003499562554in" height="1.2485258092738407in"}   |
+|                                | 100x            | 100x             |
+| Hair from edging of hood       | ![A picture containing invertebrate Description automatically generated](media/image3.jpg){width="1.6916732283464566in" height="1.2687554680664916in"}| ![A picture containing metalware, screw Description automatically generated](media/image4.jpg){width="1.758480971128609in" height="1.3188604549431322in"}|
+|                                | 400x            | 400x             |
+| Bottom textile band            | ![A close-up of a stick Description automatically generated with low confidence](media/image5.jpg){width="1.7597189413823273in" height="1.319788932633421in"} | ![A picture containing worm, invertebrate, indoor, leather Description automatically generated](media/image6.jpg){width="1.8440288713910762in" height="1.383021653543307in"} |
+|                                | 400x            | 400x             |
 
 Hairs from the primary skin of the coat had small honeycomb-like scales resembling deer, while the hair from the hood edging had interrupted medullary scales, resembling dog or wolverine. This confirmed that the two furs were not from the same species.
 
@@ -54,14 +51,13 @@ In addition to identifying the species, it was necessary to understand the tanni
 
 **Table 2:** Collagen shrinkage data (all values are in °C)
 
-  ---------------------- -------- -------- -------- -------- -------- --------
-  **Sample**             **A1**   **B1**   **C**    **B2**   **A2**   **TI**
-  Body sample 1, run 1   29       34       **38**   49       52       62+
-  Body sample 1, run 2   32       35       **38**   51       53       63+
-  Body sample 2, run 1   29       35       **41**   51       54       65+
-  Body sample 2, run 2   31       35       **37**   49       51       65+
-  Hood edging            31       35       **37**   49       52       65+
-  ---------------------- -------- -------- -------- -------- -------- --------
+|  **Sample**          |**A1** | **B1** | **C** |  **B2** | **A2** | **TI** |
+|---|---|---|---|---|---|---|
+|Body sample 1, run 1  | 29    |   34   | **38**|   49    |   52   |    62+ |
+|Body sample 1, run 2  | 32    |   35   | **38**|   51    |   53   |    63+ |
+|Body sample 2, run 1  | 29    |   35   | **41**|   51    |   54   |    65+ |
+|Body sample 2, run 2  | 31    |   35   | **37**|   49    |   51   |    65+ |
+|Hood edging           | 31    |   35   | **37**|   49    |   52   |    65+ |
 
 The temperatures outlined in table 2 are defined as follows: A1= the temperature at which individual fibers shrink sporadically; B1 = shrinkage in one fiber followed immediately by shrinkage in another; C = two or more fibers shrink continuously at the same time, followed by the shrinkage of a mass of fibers. The temperature at which this begins is Ts; for B2, see B1; for A2, see A1. TI = the temperature where all movement/shrinkage ceases.
 
@@ -141,13 +137,13 @@ Klokkernes, Torunn. “Skin Processing Technology in Eurasian Reindeer Cultures 
 
 No author. “100 Years of Research." *Expedition Magazine* 26.1: Penn Museum, 1983. http://www.penn.museum/sites/expedition/?p=4941.
 
-No author. “Dolgan.” *Minorityrights.org, 2019*. [[https://minorityrights.org/minorities/dolgan/]{.ul}](https://minorityrights.org/minorities/dolgan/).
+No author. “Dolgan.” *Minorityrights.org, 2019*. [https://minorityrights.org/minorities/dolgan/](https://minorityrights.org/minorities/dolgan/).
 
-No author. “Women's hat, late 19th - early 20th century.” *The Kuntskamera,* 2018. [<http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58>.]{.ul}
+No author. “Women's hat, late 19th - early 20th century.” *The Kuntskamera,* 2018. [http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58](http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58).
 
 Oakes, Jill E, Roderick R Riewe, and Bata Shoe Museum Foundation. *Spirit of Siberia : Traditional Native Life, Clothing, and Footwear*. Washington, DC: Smithsonian Institution Press, 1998.
 
-The Moscow Times. “Russia shuts down Arctic indigenous rights group.” *The Barents Observer,* November 9, 2019. [[https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group]{.ul}](https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group).
+The Moscow Times. “Russia shuts down Arctic indigenous rights group.” *The Barents Observer,* November 9, 2019. [https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group](https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group).
 
 Ziker, John P. *Peoples of the Tundra : Northern Siberians in the Post-Communist Transition*. Prospect Heights, Ill.: Waveland Press, 2002.
 

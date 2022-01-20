@@ -152,7 +152,7 @@ Stephanie M. Lussier, Gregory D. Smith, Stephanie M. Lussier & Gregory D. Smith 
 
 [^5]: See “Provenance,” in Cachin, Moffett, and Wilson-Bareau, *Manet, 1832–1883*, 150, cat. 50.
 
-[^6]: An overlay in Photoshop of the Harvard drawing with a photograph of the painting in volume 1 of the Godet album did not align; with proper measurements of the photograph, the same could be done with the photograph in volume 2. See Anatole Godet, Two albums of photographs of the work of Edouard Manet, vol. 1, p. 6, Morgan Library & Museum (MA3950), [[https://www.themorgan.org/literary-historical/338004]{.ul}](https://www.themorgan.org/literary-historical/338004); Godet, Reproductions de tableaux d’Édouard Manet: photographies, vol. 2, n.p., Bibliothèque nationale de France, https://gallica.bnf.fr/ark:/12148/btv1b8432387g/f17.item.
+[^6]: An overlay in Photoshop of the Harvard drawing with a photograph of the painting in volume 1 of the Godet album did not align; with proper measurements of the photograph, the same could be done with the photograph in volume 2. See Anatole Godet, Two albums of photographs of the work of Edouard Manet, vol. 1, p. 6, Morgan Library & Museum (MA3950), https://www.themorgan.org/literary-historical/338004; Godet, Reproductions de tableaux d’Édouard Manet: photographies, vol. 2, n.p., Bibliothèque nationale de France, https://gallica.bnf.fr/ark:/12148/btv1b8432387g/f17.item.
 
 [^7]: The watercolor, together with the painting, entered the Louvre in 1911 as part of the Bequest of Count Isaac de Camondo. The watercolor’s earlier provenance is not known.
 
