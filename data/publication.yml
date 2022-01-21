@@ -11,7 +11,7 @@
 # Title & Description
 title: Materia
 subtitle: Journal of Technical Art History
-reading_line: "Vol. 1, Issue 1"
+reading_line: "Vol. 1, Issue 2"
 short_title:
 
 description:
@@ -46,6 +46,13 @@ publisher:
 
 contributor:
 
+
+  - id: ajonker
+    type: project-team
+    first_name: Anouk
+    last_name: Jonker
+    affiliation: Queen's University (Kongston, ON)
+
   - id: bgarcia
     type: project-team
     first_name: Bianca
@@ -75,6 +82,12 @@ contributor:
     first_name: Julie
     last_name: Ribits
     affiliation: Eskenazi Museum of Art at Indiana University (Bloomington, IN)
+
+  - id: lmcgarity
+    type: project-team
+    first_name: LaStarsha
+    last_name: McGarity
+    affiliation: Balboa Art Conservation Center (San Diego, CA)
 
   - id: lbay
     type: project-team
@@ -114,7 +127,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2021 Materia Journal
+copyright: © 2022 Materia Journal
 
 license:
   name: Creative Commons Attribution 4.0 International License

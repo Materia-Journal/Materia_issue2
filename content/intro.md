@@ -18,17 +18,16 @@ Kathryn Kremnitzer offers a new take on Édouard Manet’s watercolor practice, 
 
 In addition to our excellent contributing authors, we wish to extend our thanks to several new *Materia* team members, editors LaStarsha McGarity and Anouk Jonker, and copy editor Katrina Posner. We would also once again like to thank our dedicated copy editor Mary Cason, who has been with us from the very beginning.
 
-Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of *Across Media.*. For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
-
-Happy reading
+Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of *“Across Media"*. For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
 
 
+Happy reading!
 
 <br>
 
 **The *Materia* team**
 <br>
-<br>
+
 Anouk Jonker
 <br>
 ​Bianca García
