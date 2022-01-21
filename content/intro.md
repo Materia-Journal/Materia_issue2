@@ -4,8 +4,9 @@ subtitle:
 weight: 20
 class: page-one
 type: splash
-image: lazarte.jpg
+image: Camp_editorial.jpg
 ---
+
 
 Welcome to the second issue of *Materia: Journal of Technical Art History*, filled with a wide range of articles documenting technical research from around the globe. We are proud to note that the majority of the articles included here are authored by students and early-career scholars, who contribute some of the most thorough research in our field but whose work often remains unpublished. As part of our founding vision for *Materia*, we sought to create a space where students and early-career professionals would feel empowered to submit their research and be supported throughout the editing process.
 
@@ -17,7 +18,8 @@ Kathryn Kremnitzer offers a new take on Édouard Manet’s watercolor practice, 
 
 In addition to our excellent contributing authors, we wish to extend our thanks to several new *Materia* team members, editors LaStarsha McGarity and Anouk Jonker, and copy editor Katrina Posner. We would also once again like to thank our dedicated copy editor Mary Cason, who has been with us from the very beginning.
 
-Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of “Across Media". For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
+Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of *“Across Media"*. For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
+
 
 Happy reading!
 

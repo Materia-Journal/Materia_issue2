@@ -5,5 +5,5 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: cover--fig-2-david_et_al_no_labels.jpg
+image: camp_cover3.jpg
 ---
