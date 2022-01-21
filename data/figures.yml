@@ -109,11 +109,42 @@ figure_list:
   label: "**Fig. 18b**"
   caption: "**Fig. 18b** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
+
+- id: "1.191"
+  src: figures/Camp/table-1-camp.jpg
+  label: "**T1.1**"
+  caption: "**T1.1** 100x"
+  alt:
+- id: "1.192"
+  src: figures/Camp/table-2-camp.jpg
+  label: "**T1.2**"
+  caption: "**T1.2** 100x"
+  alt:
+- id: "1.193"
+  src: figures/Camp/table-3-camp.jpg
+  label: "**T1.3**"
+  caption: "**T1.3** 400x"
+  alt:
+- id: "1.194"
+  src: figures/Camp/table-4-camp.jpg
+  label: "**T1.4**"
+  caption: "**T1.4** 400x"
+  alt:
+- id: "1.195"
+  src: figures/Camp/table-5-camp.jpg
+  label: "**T1.5**"
+  caption: "**T1.5** 400x"
+  alt:
+- id: "1.196"
+  src: figures/Camp/table-6-camp.jpg
+  label: "**T1.6**"
+  caption: "**T1.6** 400x"
+  alt:
+
 - id: "2.1"
   src: figures/Awburn/fig-1-awburn_et_al.jpg
   label: "**Fig. 1**"
-  caption: "**Fig. 1** Albert Moore, Study for *Blossoms*, c. 1881. Oil on canvas, 29 3/4 x 9 1/2 in. (75.6 x 24.1 cm). Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop, 1943.199.
-Photo: © President and Fellows of Harvard College."
+  caption: "**Fig. 1** Albert Moore, Study for *Blossoms*, c. 1881. Oil on canvas, 29 3/4 x 9 1/2 in. (75.6 x 24.1 cm). Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop, 1943.199. Photo: © President and Fellows of Harvard College."
   alt: "A full-length, oil-paint portrait of a standing female figure draped in a sheer robe which covers her from neck to ankle."
 - id: "2.2"
   src: figures/Awburn/fig-2-awburn_et_al.jpg

@@ -43,12 +43,9 @@ To confirm the species, the skins and fur were examined using nondestructive exa
 
 | Sample location                | Normal light        | Polarized light |
 |---|---|---|
-| Hair from primary skin of coat | ![A picture containing text Description automatically generated](media/image1.jpg){width="1.688312554680665in" height="1.2662335958005249in"} | ![A picture containing text Description automatically generated](media/image2.jpg){width="1.6647003499562554in" height="1.2485258092738407in"}   |
-|                                | 100x            | 100x             |
-| Hair from edging of hood       | ![A picture containing invertebrate Description automatically generated](media/image3.jpg){width="1.6916732283464566in" height="1.2687554680664916in"}| ![A picture containing metalware, screw Description automatically generated](media/image4.jpg){width="1.758480971128609in" height="1.3188604549431322in"}|
-|                                | 400x            | 400x             |
-| Bottom textile band            | ![A close-up of a stick Description automatically generated with low confidence](media/image5.jpg){width="1.7597189413823273in" height="1.319788932633421in"} | ![A picture containing worm, invertebrate, indoor, leather Description automatically generated](media/image6.jpg){width="1.8440288713910762in" height="1.383021653543307in"} |
-|                                | 400x            | 400x             |
+| Hair from primary skin of coat | {{< q-figure id="1.191" >}} | {{< q-figure id="1.192" >}} |
+| Hair from edging of hood       | {{< q-figure id="1.193" >}}| {{< q-figure id="1.194" >}}|
+| Bottom textile band            | {{< q-figure id="1.195" >}} |{{< q-figure id="1.196" >}} |
 
 Hairs from the primary skin of the coat had small honeycomb-like scales resembling deer, while the hair from the hood edging had interrupted medullary scales, resembling dog or wolverine. This confirmed that the two furs were not from the same species.
 
