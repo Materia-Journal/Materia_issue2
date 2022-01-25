@@ -63,6 +63,7 @@ Probably needs refactoring, sorry*/
 }
 
 .quire-cover .reading-line {
+  font-size: 3.25rem;
   font-family: "Orgreave", sans-serif;
   margin-top: 4rem;
 }
