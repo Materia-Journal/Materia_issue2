@@ -33,11 +33,10 @@ The fur used for the body of the coat and lining of the hood is dense and primar
 
 In addition to the fur used for the body of the coat, the fur edging of the hood, which measures approximately 1.0 cm wide and is a reddish brown, has longer, coarser guard hairs, suggesting it may have come from a different part of the animal or from a different animal entirely (**Fig. 3**). Hoods similar to those of the Dolgan peoples have linings of wolverine fur,[^16] which is a common fur type used in parkas because it will not hold frost.[^17] However, lynx, dog, marmot, pine martin, ermine, mink, and sable furs are also used for decorative elements.[^18]
 
-{{< q-figure id="1.3" class="is-pulled-left" >}}
+{{< q-figure-group id="1.3, 1.4" grid="2" >}}
 
 To confirm the species, the skins and fur were examined using nondestructive examination techniques followed by destructive analyses. Both fur types were examined using longwave ultraviolet (UV) illumination and demonstrated the typical bluish-white fluorescence of keratinaceous materials where not masked by melanin pigments. Follicle patterns were examined using high magnification in areas where the skin was visible. Due to extensive grazing from webbing clothes moths, subtle differences that would be visible in a fully intact grain layer were indiscernible, though both could be described as dense (**Fig. 4**). Thus, it was deemed necessary to conduct PLM of the hairs from both skin types (Table 1).
 
-{{< q-figure id="1.4" class="is-pulled-right" >}}
 
 **Table 1.** Polarized light microscopy[^19]
 
