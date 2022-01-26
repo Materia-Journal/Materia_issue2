@@ -1,22 +1,22 @@
 figure_list:
 - id: "1.1"
   src: figures/Camp/fig-1-camp.jpg
-  label: "**Fig. 1a**"
-  caption: "**Fig. 1a** Child’s overcoat, front (left) and back (right) before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524"
+  label: "Fig. 1"
+  caption: "**Fig. 1** Child’s overcoat, front (left) and back (right) before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524."
   alt:
 - id: "1.122"
   src: figures/Camp/fig-1.2-camp.jpg
-  label: "**Fig. 1b**"
+  label:
   caption:
   alt:
 - id: "1.2"
   src: figures/Camp/fig-2-camp.jpg
-  label: "**Fig. 2a**"
+  label: "Fig. 2"
   caption: "**Fig. 2** Construction diagrams of child’s overcoat, front (left) and back (right), with seams shown in yellow."
   alt:
 - id: "1.22"
   src: figures/Camp/fig-2.2-camp.jpg
-  label: "**Fig. 2b**"
+  label: "Fig. 2"
   caption:
   alt:
 - id: "1.3"
@@ -26,12 +26,12 @@ figure_list:
   alt:
 - id: "1.4"
   src: figures/Camp/fig-4-camp.jpg
-  label: "**Fig. 4**"
+  label: "Fig. 4"
   caption: "**Fig. 4** Follicle patterns of main skin (left) and skin edging around hood (right)."
   alt:
 - id: "1.5"
   src: figures/Camp/fig-5-camp.jpg
-  label: "**Fig. 5**"
+  label: "Fig. 5"
   caption: "**Fig. 5** PMF results for coat’s main skin, which are a match for reindeer (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.6"
@@ -82,17 +82,17 @@ figure_list:
 - id: "1.15"
   src: figures/Camp/fig-15-camp.jpg
   label: "**Fig. 15**"
-  caption: "**Fig. 15** The FTIR spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place. (Courtesy SRAL, Winterthur Museum)"
+  caption: "**Fig. 15** The FTIR spectrum from the residue most closely matches a natural resin. Because this may be evidence of use, the resin was left in place. (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.16"
   src: figures/Camp/fig-16-camp.jpg
   label: "**Fig. 16**"
-  caption: "**Fig. 16** The brown-red stain present on exposed corium on the back of coat was determined to be proteinaceous using FTIR. (Courtesy SRAL, Winterthur Museum)"
+  caption: "**Fig. 16** The brown-red stain present on exposed corium on the back of coat was determined to be proteinaceous using FTIR. (Courtesy SRAL, Winterthur Museum)."
   alt:
 - id: "1.17"
   src: figures/Camp/fig-17-camp.jpg
   label: "**Fig. 17a**"
-  caption: "**Fig. 17a** The coat front (left) and back (right) after treatment, with storage supports in place."
+  caption: "**Fig. 17** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
 - id: "1.172"
   src: figures/Camp/fig-17.2-camp.jpg
@@ -102,14 +102,13 @@ figure_list:
 - id: "1.18"
   src: figures/Camp/fig-18-camp.jpg
   label: "**Fig. 18a**"
-  caption: "**Fig. 18a** The coat front (left) and back (right) after treatment, with storage supports in place."
+  caption: "**Fig. 18** The coat front (left) and back (right) after treatment, with storage supports in place."
   alt:
 - id: "1.182"
   src: figures/Camp/fig-18.2-camp.jpg
   label: "**Fig. 18b**"
-  caption: "**Fig. 18b** The coat front (left) and back (right) after treatment, with storage supports in place."
+  caption:
   alt:
-
 - id: "1.191"
   src: figures/Camp/table-1-camp.jpg
   label: "**T1.1**"
@@ -171,7 +170,7 @@ Koriyama City Museum of Art, Japan. Photo © Christie's Images/Bridgeman Images.
   label: "**Fig. 5**"
   caption: "**Fig. 5** Initial ink sketch of the composition for *Blossoms*, representative of step 2.
 Albert Moore, Sketch for *Blossoms*, Pen and ink. Size and location unknown.
-Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894), 72. "
+Image source: Alfred Lys Baldry, *Albert Moore* (London: G. Bell and Sons, 1894), 72."
   alt: "A rough ink sketch of a full-length female figure in a statuesque pose and dark cross hatching behind her."
 - id: "2.6"
   src: figures/Awburn/fig-6-awburn_et_al.jpg
@@ -242,25 +241,26 @@ highlighted by the yellow brackets."
   caption: "**Fig. 16** Magnification of pin hole on *Study for Blossoms.*"
   alt: "A magnified detail of a pin hole on Study for “Blossoms” showing the layers of paint pierced by a pin."
 - id: "3.1"
-  src: figures/Watson/fig-3-watson_et_al.jpg
+  src: figures/Watson/fig-1-watson_et_al.jpg
   label: "**Fig. 1**"
-  caption: "**Fig. 1** Betty Blayton, *Consume #2*, 1969.  Oil and Paper on Canvas, 59-inch diameter, The Virginia Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352).Before Treatment. Photo: Travis Fullerton"
+  caption: "**Fig. 1** Betty Blayton. *Consume #2*, 1969. Oil and paper on canvas, diam. 59 in. The Virginia
+Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352)."
   alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
 - id: "3.2"
   src: figures/Watson/fig-2-watson_et_al.jpg
   label: "**Fig. 2**"
-  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (Age 1, on right). Photo: Courtesy of the Blayton Family."
+  caption: "**Fig. 2** The Blaytons in Atlanta, 1938. Betty (age 1, on right). Photo: Courtesy of the Blayton Family."
   Alt: “A family portrait featuring Dr. and Mrs. Blayton standing behind toddlers Barbara and Betty who are seated on high stools.”
 - id: "3.3"
   src: figures/Watson/fig-3-watson_et_al.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14”x 22” Private Collection. Courtesy of the Betty Blayton Estate."
+  caption: "**Fig. 3** Betty Blayton, *125 Street*, c.1967.  Oil on canvas, 14 x 22 in. Private Collection. Courtesy of the Betty Blayton Estate."
   credit:
   Alt: “An oil on canvas featuring two geometric figures with limbs outstretched surrounding a sun and abstract landscape.”
 - id: "3.4"
   src: figures/Watson/fig-4-watson_et_al.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** Betty Blayton (second from right) with Eleanor Holmes Norton, Carter Burden, Charles Inniss, Campbell Wylly, and Frank Donnelly at The Studio Museum in Harlem on opening night in 1968. Courtesy The Studio Museum in Harlem. Photo: Jill Krementz."
+  caption: "**Fig. 4** Betty Blayton (second from right) with Eleanor Holmes Norton, Carter Burden, Charles Inniss, Campbell Wylly, and Frank Donnelly at the Studio Museum in Harlem on opening night in 1968. Courtesy the Studio Museum in Harlem. Photo: Jill Krementz."
   Alt: “Black and white photograph of a group of men and women standing and smiling in front of the Studio Museum in New York.”
 - id: "3.5"
   src: figures/Watson/fig-5-watson_et_al.jpg
@@ -270,12 +270,12 @@ highlighted by the yellow brackets."
 - id: "3.6"
   src: figures/Watson/fig-6-watson_et_al.jpg
   label: "**Fig. 6**"
-  caption: "**Fig. 6** *Consume #2*. Detail with signature.  Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 6** *Consume #2*. Detail with signature, before Treatment. Photo: Meredith Watson."
   Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
 - id: "3.7"
   src: figures/Watson/fig-7-watson_et_al.jpg
   label: "**Fig. 7**"
-  caption: "**Fig. 7** Betty Blayton, concept sketch. Watercolor on Paper. 3 ½” diameter. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
+  caption: "**Fig. 7** Betty Blayton, concept sketch. Watercolor on paper, diam. 3 ½ in. Courtesy of the Betty Blayton Estate. Photo: Meredith Watson."
   Alt: “A stack of small paper circles with black outlines and blue, pink and purple water color abstract brushwork.”
 - id: "3.8"
   src: figures/Watson/fig-8-watson_et_al.jpg
@@ -285,12 +285,12 @@ highlighted by the yellow brackets."
 - id: "3.9"
   src: figures/Watson/fig-9-watson_et_al.jpg
   label: "**Fig. 9**"
-  caption: "**Fig. 9** *Consume #2*. Detail of vertical drips, Before Treatment. Photo: Meredith Watson. "
+  caption: "**Fig. 9** *Consume #2*. Detail of vertical drips, before treatment. Photo: Meredith Watson. "
   Alt: “The center of the painting featuring dark drips of blue and purple (that appear to travel up), interspersed with strips of tan paper.”
 - id: "3.10"
   src: figures/Watson/fig-10-watson_et_al.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** *Consume #2*. Detail of inscriptions on verso, Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 10** *Consume #2*. Detail of inscriptions on verso, before treatment. Photo: Meredith Watson."
   Alt: "The back of the canvas, “TOP” written in navy blue ink with “Blayton ’69,” “Consume #2” and 58”” written below in faded black ink."
 - id: "3.11"
   src: figures/Watson/fig-11-watson_et_al.jpg
@@ -300,12 +300,12 @@ highlighted by the yellow brackets."
 - id: "3.12"
   src: figures/Watson/fig-12-watson_et_al.jpg
   label: "**Fig. 12**"
-  caption: "**Fig. 12** *Consume #2*. Detail of paper, Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 12** *Consume #2*. Detail of paper, before treatment. Photo: Meredith Watson."
   Alt: “Close up photograph showing the paper elements, some torn and some cut with varying levels of opacity.”
 - id: "3.13"
   src: figures/Watson/fig-13-watson_et_al.jpg
   label: "**Fig. 13**"
-  caption: "**Fig. 13** Consume #2. Detail of painted ‘negative space.’ Before Treatment."
+  caption: "**Fig. 13** Consume #2. Detail of painted “negative space,” before treatment."
   Alt: “Three areas that appear as voids, or negative space, but are actually opaque white paint on top of other colors or paper elements.”
 - id: "3.14"
   src: figures/Watson/fig-14-watson_et_al.jpg
@@ -315,7 +315,7 @@ highlighted by the yellow brackets."
 - id: "3.15"
   src: figures/Watson/fig-15-watson_et_al.jpg
   label: "**Fig. 15**"
-  caption: "**Fig. 15** *Consume #2*. Detail of frame, Before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 15** *Consume #2*. Detail of frame, before treatment. Photo: Meredith Watson."
   alt: “Photograph of the edge of the painting, showing an aluminum strip frame attached with nails.”
 - id: "4.1"
   src: figures/Kremnitzer/fig-1-kremnitzer.jpg
@@ -325,22 +325,22 @@ highlighted by the yellow brackets."
 - id: "4.2"
   src: figures/Kremnitzer/fig-2-kremnitzer.jpg
   label: "**Fig. 2**"
-  caption: "**Fig. 2** Charles Weyler, photograph of Lola Melea, 1862. Bibliothèque nationale de France, Département Estampes et photographie: BOITE FOL B-EO-1114"
+  caption: "**Fig. 2** Charles Weyler, photograph of Lola Melea, 1862. Bibliothèque nationale de France, Département Estampes et photographie: BOITE FOL B-EO-1114."
   Alt: “Photograph featuring Lola Melea”
 - id: "4.3"
   src: figures/Kremnitzer/fig-3-kremnitzer.jpg
   label: "**Fig. 3**"
-  caption: "**Fig. 3** Édouard Manet, *Lola de Valence*, 1862, reworked after 1867. Oil on canvas, 48 7/16 × 36 1/4 in (123 × 92 cm). Musée d’Orsay, Paris: RF 1991 [RW I 53]"
+  caption: "**Fig. 3** Édouard Manet, *Lola de Valence*, 1862, reworked after 1867. Oil on canvas, 48 7/16 × 36 1/4 in (123 × 92 cm). Musée d’Orsay, Paris: RF 1991 [RW I 53]."
   Alt: “Colorful oil painting of Lola de Valence standing in front of a piece of scenery backstage during a ballet performance.”
 - id: "4.4"
   src: figures/Kremnitzer/fig-4-kremnitzer.jpg
   label: "**Fig. 4**"
-  caption: "**Fig. 4** Édouard Manet, *Lola de Valence*, 1862–63. Black chalk, pen, black ink, and watercolor on paper, 10 1/16 × 6 3/16 in. (25.6 × 17.3 cm). Musée d’Orsay, Paris RF 4102 [RW II D 369]"
+  caption: "**Fig. 4** Édouard Manet, *Lola de Valence*, 1862–63. Black chalk, pen, black ink, and watercolor on paper, 10 1/16 × 6 3/16 in. (25.6 × 17.3 cm). Musée d’Orsay, Paris RF 4102 [RW II D 369]."
   Alt: “Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
 - id: "4.5"
   src: figures/Kremnitzer/fig-5-kremnitzer.jpg
   label: "**Fig. 5**"
-  caption: "**Fig. 5** Édouard Manet, *Lola de Valence*, 1862. Watercolor, graphite, and black ink on tan wove paper, 25.2 × 17.5 cm (9 15/16 × 6 7/8 in.). Harvard Art Museums/Fogg Museum: Bequest of Grenville L. Winthrop, 1943.385 [RW II D 370]"
+  caption: "**Fig. 5** Édouard Manet, *Lola de Valence*, 1862. Watercolor, graphite, and black ink on tan wove paper, 25.2 × 17.5 cm (9 15/16 × 6 7/8 in.). Harvard Art Museums/Fogg Museum: Bequest of Grenville L. Winthrop, 1943.385 [RW II D 370]."
   Alt: “ Full-length watercolor of Lola de Valence with touches of red, blue, pink, and white.”
 - id: "4.6"
   src: figures/Kremnitzer/fig-6-kremnitzer.jpg
@@ -350,27 +350,27 @@ highlighted by the yellow brackets."
 - id: "4.7"
   src: figures/Kremnitzer/fig-7-kremnitzer.jpg
   label: "**Fig. 7a**"
-  caption: "**Fig. 7a** Édouard Manet, *Lola de Valence*, 1863. Etching in black on ivory laid Japanese paper, image: 10 1/6 × 6 1/4 in. (25.6 × 15.9 cm); plate: 10 1/4 × 7 1/9 in. (26 × 18.1 cm); sheet: 10 5/8 × 7 11/16 in. (26.9 × 19.5 cm). First state. The Art Institute of Chicago: John H. Wrenn Fund, 1953.274 [H 33, G 23, M-N 3]"
+  caption: "**Fig. 7a** Édouard Manet, *Lola de Valence*, 1863. Etching in black on ivory laid Japanese paper, image: 10 1/6 × 6 1/4 in. (25.6 × 15.9 cm); plate: 10 1/4 × 7 1/9 in. (26 × 18.1 cm); sheet: 10 5/8 × 7 11/16 in. (26.9 × 19.5 cm). First state. The Art Institute of Chicago: John H. Wrenn Fund, 1953.274 [H 33, G 23, M-N 3]."
   alt: “Black and white full-length etching of Lola de Valence on ivory paper.”
 - id: "4.72"
   src: figures/Kremnitzer/fig-7.2-kremnitzer.jpg
   label: "**Fig. 7b**"
-  caption: "**Fig. 7b** Édouard Manet, *Lola de Valence*, 1863. Etching and aquatint, 15 9/16 × 11 5/8 in. (39.5 × 29.5 cm). Final state; first edition on laid paper; proof for the Société des Aquafortistes’ edition of 1863, published by Cadart & Luquet. The Metropolitan Museum of Art: Rogers Fund, 1918, 18.88.28 [H 33, G 23, M-N 3]"
+  caption: "**Fig. 7b** Édouard Manet, *Lola de Valence*, 1863. Etching and aquatint, 15 9/16 × 11 5/8 in. (39.5 × 29.5 cm). Final state; first edition on laid paper; proof for the Société des Aquafortistes’ edition of 1863, published by Cadart & Luquet. The Metropolitan Museum of Art: Rogers Fund, 1918, 18.88.28 [H 33, G 23, M-N 3]."
   alt: “Black and white full-length etching of Lola de Valence with aquatint background and several lines of text.”
 - id: "4.8"
   src: figures/Kremnitzer/fig-8-kremnitzer.jpg
   label: "**Fig. 8**"
-  caption: "**Fig. 8** G. Randon, “L’Exposition d’Édouard Manet,” with a caricature of Manet’s *Lola de Valence* at top right, published in Le Journal amusant, June 29, 1867, p. 6"
+  caption: "**Fig. 8** G. Randon, “L’Exposition d’Édouard Manet,” with a caricature of Manet’s *Lola de Valence* at top right, published in Le Journal amusant, June 29, 1867, p. 6."
   alt: “Black and white caricatures after several of Manet’s paintings, including Lola de Valence at upper right.”
 - id: "4.9"
   src: figures/Kremnitzer/fig-9-kremnitzer.jpg
   label: "**Fig. 9**"
-  caption: "**Fig. 9** Godet, photograph of Manet’s *Lola de Valence*, 1867–83. 7 × 8 7/16 in. (17.7 × 21.4 cm). The Morgan Library & Museum: MA 3950, Godet vol. 1"
+  caption: "**Fig. 9** Godet, photograph of Manet’s *Lola de Valence*, 1867–83. 7 × 8 7/16 in. (17.7 × 21.4 cm). The Morgan Library & Museum: MA 3950, Godet vol. 1."
   alt: “Albumen photograph of Manet’s painting, Lola de Valence mounted on the blue pages of an album with annotations.”
 - id: "4.10"
   src: figures/Kremnitzer/fig-10-kremnitzer.jpg
   label: "**Fig. 10**"
-  caption: "**Fig. 10** Detail of the Orsay watercolor (Fig. 4), seen in raking light"
+  caption: "**Fig. 10** Detail of the Orsay watercolor (Fig. 4), seen in raking light."
   Alt: “Manet’s Lola de Valence watercolor (Orsay) in raking light to show incisions visible on the surface”
 - id: "4.11"
   src: figures/Kremnitzer/fig-11-kremnitzer.jpg
@@ -430,7 +430,7 @@ highlighted by the yellow brackets."
 - id: "4.22"
   src: figures/Kremnitzer/fig-22-kremnitzer.jpg
   label: "**Fig. 22**"
-  caption: "**Fig. 22** Édouard Manet, *Sketches from “The Gypsies,” “The Spanish Ballet,”* and “*Lola de Valence,”* 1865. Brush and gray and black washes with touches of graphite on ivory laid paper, pieced (at lower left corner), 7 1/8 × 5 in. (18.1 × 12.7 cm). The Art Institute of Chicago: Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection, 2012.84 [RW II D 371]"
+  caption: "**Fig. 22** Édouard Manet, *Sketches from “The Gypsies,” “The Spanish Ballet,”* and “*Lola de Valence,”* 1865. Brush and gray and black washes with touches of graphite on ivory laid paper, pieced (at lower left corner), 7 1/8 × 5 in. (18.1 × 12.7 cm). The Art Institute of Chicago: Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection, 2012.84 [RW II D 371]."
   Alt: “Pieced sheet of drawings in gray and black washes with touches of graphite on ivory laid paper, featuring figures from several of Manet’s painted compositions, including Lola de Valence.”
 - id: "4.23"
   src: figures/Kremnitzer/fig-23-kremnitzer.jpg
@@ -440,33 +440,33 @@ highlighted by the yellow brackets."
 - id: "4.24"
   src: figures/Kremnitzer/fig-24-kremnitzer.jpg
   label: "**Fig. 24**"
-  caption: "**Fig. 24** Édouard Manet, *Boy with a Pitcher (La Régalade)*, 1862/72. Oil on canvas, 24 5/16 × 21 3/8 in. (61.8 × 54.3 cm). The Art Institute of Chicago: Bequest of Katharine Dexter McCormick, 1968, 1968.303 [RW I 43]"
+  caption: "**Fig. 24** Édouard Manet, *Boy with a Pitcher (La Régalade)*, 1862/72. Oil on canvas, 24 5/16 × 21 3/8 in. (61.8 × 54.3 cm). The Art Institute of Chicago: Bequest of Katharine Dexter McCormick, 1968, 1968.303 [RW I 43]."
   alt: “Boy drinking water from a jug against a dark brown background.”
 - id: "4.25"
   src: figures/Kremnitzer/fig-25-kremnitzer.jpg
   label: "**Fig. 25**"
-  caption: "**Fig. 25** Édouard Manet, *The Gypsies (Les gitanos)*, 1862. Etching printed in black ink on laid paper, plate: 12 5/8 × 9 5/16 in. (32 × 23.6 cm). New York Public Library [H 18, G 21, M-N 2]"
+  caption: "**Fig. 25** Édouard Manet, *The Gypsies (Les gitanos)*, 1862. Etching printed in black ink on laid paper, plate: 12 5/8 × 9 5/16 in. (32 × 23.6 cm). New York Public Library [H 18, G 21, M-N 2]."
   Alt: "Etching of a group of figures including a man at center, a mother and child seated at right, and a boy drinking from a jug behind them."
 - id: "4.26"
   src: figures/Kremnitzer/fig-26-kremnitzer.jpg
   label: "**Fig. 26**"
-  caption: "**Fig. 26** Édouard Manet, *Spanish Ballet*, 1862. Oil on canvas, 24 × 35 5/8 in. (60.96 × 90.49 cm). The Phillips Collection, 1250 [RW I 55]"
+  caption: "**Fig. 26** Édouard Manet, *Spanish Ballet*, 1862. Oil on canvas, 24 × 35 5/8 in. (60.96 × 90.49 cm). The Phillips Collection, 1250 [RW I 55]."
   Alt: “An oil painting of a group of figures in an interior, some are playing guitar others are dressed for a ballet performance and two figures lurk in the background against a brown wall. A bouquet of flowers is in the foreground at center; at right is a green bench with a piece of dark clothing on it.”
 - id: "4.27"
   src: figures/Kremnitzer/fig-27-kremnitzer.jpg
   label: "**Fig. 27**"
-  caption: "**Fig. 27** Édouard Manet, *The Spanish Ballet*, 1862. Pen and ink with washes and watercolor, 9 1/16 × 16 1/8 in. (23 × 41 cm). Szépmüvészeti Múzeum, Budapest, 1925/1200 [RW II D 533]"
+  caption: "**Fig. 27** Édouard Manet, *The Spanish Ballet*, 1862. Pen and ink with washes and watercolor, 9 1/16 × 16 1/8 in. (23 × 41 cm). Szépmüvészeti Múzeum, Budapest, 1925/1200 [RW II D 533]."
   Alt: A watercolor of a group of figures in an interior, some are playing guitar others are dressed for a ballet performance and two figures lurk in the background. A bouquet of flowers is in the foreground at center; at right is a green bench with a piece of dark clothing on”
 - id: "4.28"
   src: figures/Kremnitzer/fig-28-kremnitzer.jpg
   label: "**Fig. 28**"
   caption: "**Fig. 28** Detail of Fig. 22, showing screen pattern, composed of various-sized dots to create tone and shading."
-  Alt: “A close up of figure 22 showing screen pattern, composed of various-sized dots to create tone and shading
+  Alt: “A close up of figure 22 showing screen pattern, composed of various-sized dots to create tone and shading"
 - id: "4.29"
   src: figures/Kremnitzer/fig-29-kremnitzer.jpg
   label: "**Fig. 29**"
   caption: "**Fig. 29** *L’Autographe au Salon et dans les ateliers*, July 8, 1865, n.p."
-  Alt: “A page showing various signatures, including Manet’s, on a pile of papers and an artist’s sketchbook, reproduced as an illustration”
+  Alt: “A page showing various signatures, including Manet’s, on a pile of papers and an artist’s sketchbook, reproduced as an illustration.”
 - id: "4.30"
   src: figures/Kremnitzer/fig-30-kremnitzer.jpg
   label: "**Fig. 30**"
