@@ -32,15 +32,15 @@ The iterative and substitutive dimension of Moore’s working practice make his 
 
 During his thirty-year career, Moore rarely strayed from the compositional schema for which he was known. His oeuvre is comprised primarily of narrow, vertical canvases featuring slender women draped in classicized garments and placed in shallow decorative settings. His titles often reference a secondary focus of the composition. Such titles as *Azaleas* (1867-68, Hugh Lane Municipal Gallery of Modern Art), *Birds* (1878, Birmingham Museum and Art Gallery), and *Acacias* (ca. 1880, Carnegie Museum of Art) underscore his works’ still life qualities and distance the viewer from any readily identifiable narrative.
 
-*Study for “Blossoms”* is one of at least two known oil studies for the large-scale, near life-size painting, *Blossoms* (**Fig. 2**). The composition features the hallmarks of Moore’s output: willowy female figure; draped diaphanous textile; and floral background. Baldry believed the work to be “one of the most severely beautiful of all the paintings of \[Moore’s\] middle period, a study of scrupulous refinement, an expression of almost classical simplicity.”[^7] Moore’s mastery of rendering the pleating and gathering of drapery is on display in the figure’s rose robes, the coral curtains above her head, and the white sheet strewn atop the bench. While many of his works feature figures placed within a room or landscape, *Blossoms* belongs to a group of paintings in which an intricately patterned textile or spray of flowers constitute the background. The titular *Blossoms* cascade across the surface of the canvas, simultaneously blocking the viewer’s entry into the world of the figure while calling attention to the artist’s painstaking and minute facture.
+*Study for “Blossoms”* is one of at least two known oil studies for the large-scale, near life-size painting, *Blossoms* (**Fig. 2**). The composition features the hallmarks of Moore’s output: willowy female figure; draped diaphanous textile; and floral background. Baldry believed the work to be “one of the most severely beautiful of all the paintings of \[Moore’s\] middle period, a study of scrupulous refinement, an expression of almost classical simplicity.”[^7] Moore’s mastery of rendering the pleating and gathering of drapery is on display in the figure’s rose robes, the coral curtains above her head, and the white sheet strewn atop the bench. While many of his works feature figures placed within a room or landscape, *Blossoms* belongs to a group of paintings in which an intricately patterned textile or spray of flowers constitute the background. The titular blossoms cascade across the surface of the canvas, simultaneously blocking the viewer’s entry into the world of the figure while calling attention to the artist’s painstaking and minute facture.
 
-Though Moore never published his own explanation of his working methods, he participated in a larger conversation about artistic labor that occupied the Victorian art world during the last quarter of the nineteenth century. Moore was one of three witnesses to testify on behalf of Whistler in the libel suit that Whistler brought against the critic John Ruskin in 1878. The previous year, Ruskin published a review of Whistler’s *Nocturne in Black and Gold: The Falling Rocket* (1872-77, Detroit Institute of Arts). Condemning its lack of finish, Ruskin accused the artist of “flinging a pot of paint in the public’s face.”[^8] Whistler claimed the piece slandered his reputation and sued for damages.
+Though Moore never published his own explanation of his working methods, he participated in a larger conversation about artistic labor that occupied the Victorian art world during the last quarter of the nineteenth century. Moore was one of three witnesses to testify on behalf of Whistler in the libel suit that Whistler brought against the critic John Ruskin in 1878. The previous year, Ruskin published a review of Whistler’s *Nocturne in Black and Gold: The Falling Rocket* (1872-77, Detroit Institute of Arts). Condemning the work's lack of finish, Ruskin accused the artist of “flinging a pot of paint in the public’s face.”[^8] Whistler claimed the piece slandered his reputation and sued for damages.
 
 {{< q-figure id="2.2" class="is-pulled-right" >}}
 
 In his testimony, Moore entered the period debate concerning the relationship between an artist’s labor and an artwork’s value. At the center of the Whistler-Ruskin trial were questions about whether Whistler’s loosely painted and nearly non-representational landscapes, which he referred to as “arrangement\[s\] of line, form, and color,” constituted art and, specifically, whether the work that Whistler put into each painting was worth the price he was charging.[^9] In his review, Ruskin had contended that *Nocturne in Black and Gold* was not the product of honest exertion. Moore contested this opinion on the stand, advancing a position that was contentious among many contemporaries and anticipated a refrain more commonly heard in discussions of modern art: “money is paid for the skill of the artist, not always for the amount of labour expended.”[^10] Whistler echoed this sentiment in the most famous pronouncement of the trial. During cross-examination, when Whistler explained it had taken two days to paint *Nocturne in Black and Gold*, Ruskin’s lawyer challenged him: “The labour of two days is that for which you ask two hundred guineas?” Whistler’s reply was met with applause from the gallery: “No. I ask it for the knowledge I have gained in the work of a lifetime.”[^11]
 
-There is some irony that Moore was the painter who defended Whistler from accusations that his artistic practice was too abbreviated to be taken seriously, as Moore’s working methods were, in his own time, recognized as especially laborious. Of the numerous steps in Moore’s process that Baldry detailed in his biography, the artist’s practice of gridding has received the most sustained attention from contemporary scholars.[^12] Many of Moore’s preparatory drawings reveal networks of lines that intersect at irregular angles, governing the diagonals that undergird everything from his figures’ postures to the placement of their drapery’s folds. Grids formed of curved and diagonal lines were used to assemble spatially harmonious compositions and grids of perpendicular lines were used to scale up small studies.[^13] Sometimes he combined these “system\[s\] of line arrangement,” visible in *Nude Figure Study for “Birds of the Air,”* (**Fig. 3**).[^14] In certain instances, Moore applied his grid directly onto the canvas of oil studies. For example, diagonal lines in graphite are visible below the topmost paint layer in *Yellow Marguerites* (**Fig. 4**).[^15]
+There is some irony that Moore was the painter who defended Whistler from accusations that his artistic practice was too abbreviated to be taken seriously, as Moore’s working methods were, in his own time, recognized as especially laborious. Of the numerous steps in Moore’s process that Baldry detailed in his biography, the artist’s practice of gridding has received the most sustained attention from contemporary scholars.[^12] Many of Moore’s preparatory drawings reveal networks of lines that intersect at irregular angles, governing the diagonals that undergird everything from his figures’ postures to the placement of their drapery’s folds. Grids formed of curved and diagonal lines were used to assemble spatially harmonious compositions and grids of perpendicular lines were used to scale up small studies.[^13] Sometimes he combined these “system\[s\] of line arrangement,” visible in *Nude Figure Study for “Birds of the Air”* (**Fig. 3**).[^14] In certain instances, Moore applied his grid directly onto the canvas of oil studies. For example, diagonal lines in graphite are visible below the topmost paint layer in *Yellow Marguerites* (**Fig. 4**).[^15]
 
 {{< q-figure-group id="2.3, 2.4" grid="2" >}}
 
@@ -89,13 +89,12 @@ The two earliest preparatory drawings for *Blossoms* have yet to be located but 
 The visual homogeneity across Moore’s paintings can be attributed to this systematic process, which incorporated practices from the adjacent fields of architectural drafting, in which Moore had been trained, and fresco painting, which he had pursued early in his career. Born of experimentation, this procedure was time intensive and a primary driver of his career-long poverty.[^16] Moore explained to Leyland that, “I never find it convenient to carry on more than one picture of any moment at the same time.”[^17] Such a strict policy, however, ensured that Moore’s earnings on a commission always fell far short of the labor he expended.[^18] Indeed, during the five weeks he spent on preliminary drawings for Leyland’s *A Venus* (1869, York City Art Gallery)—preparatory materials that comprised only the first four steps of his process—Moore’s single-minded focus forced him to turn down “other commissions amounting to 800 guineas.”[^19] Around 1880 Moore—seeking to address this limitation of his practice—identified stages in his multi-step process that, with adjustments, could lead to the completion of additional works, thus increasing his income. Moore began transforming his oil studies into finished paintings, applying several of the key steps in his process to each study, Baldry explains, in order to complete it.[^20] Technical and scientific examination of *Study for* “*Blossoms*,” discussed in the following section, confirms that it received this treatment.
 
 {{< q-figure-group id="2.5, 2.6, 2.7" grid="2" >}}
-{{< q-figure-group id="2.8, 2.9" grid="2" >}}
 
-## The Steps in Practice: Understanding *Study for “Blossoms”
+## The Steps in Practice: Understanding *Study for “Blossoms”*
 
 As a small-scale oil study for *Blossoms*, *Study for “Blossoms”* seems to represent steps eight through eleven, the stages in which Moore experiments on smaller canvases with different drapery arrangements and color schemes. By engaging a truncated version of his multi-step process in completing this oil study, Moore “was able to secure,” in Baldry’s words, “the look of being elaborately painted.”[^21] Technical imaging and scientific analysis of the work confirm that Moore applied many of his steps to this small canvas, a process originally devised for his large, finished paintings.
 
-{{< q-figure id="2.10" >}}
+{{< q-figure-group id="2.8, 2.9, 2.10" grid="2" >}}
 
 ### Canvas and Ground
 
@@ -118,10 +117,10 @@ In addition to adapting his ground, Moore may have completed *Study for “Bloss
 When examined with infrared reflectography (IRR), the painted surface was rendered transparent, exposing several carbon-based elements (**Fig. 10c**). These include an underdrawing of the figure, a ruled border, and an asymmetric and linear geometric framework that is visible near the figure’s feet and legs, and face and shoulders (**Fig. 13**). The underdrawing can be seen in cross-section, applied directly onto the ground in a discontinuous layer (**Fig. 14**, layer 2), before the colored paint layer was applied.
 
 {{< q-figure id="2.13" >}}
-{{< q-figure id="2.14" >}}
 
 Moore’s use of a grid was placed by Baldry early in the artist’s process, as part of his preparatory works on paper (step 3). Further, Baldry recalled that for his oil studies Moore used “no under painting nor previous placing of details. He had only the roughly drawn outline of the nude figure to guide him.”[^28] However, the inclusion of the drawn grid and a ruled border outlining the composition of *Study for “Blossoms”* confirms that gridding remained a crucial practice beyond preliminary drawings, employed at multiple intervals throughout his process.
 
+{{< q-figure id="2.14" >}}
 #### Paint
 
 Considered side-by-side, *Study for “Blossoms”* and *Blossoms* appear close in composition. There are key differences, however, between the works’ palettes and paint application. *Blossoms*’ vibrancy derives primarily from the inclusion of the coral-red curtain and rug paired with the figure’s rose drapery. In *Study for “Blossoms,”* Moore engaged a more muted palette, creating his colors through mixing lead white with a small selection of pigments that included ochre, umber,[^29] cobalt blue, cobalt yellow, chrome green, vermilion, and an organic red.[^30]
@@ -142,7 +141,7 @@ Because the discolored varnish on *Study for “Blossoms”* was obscuring Moore
 
 {{< q-figure id="2.16" class="is-pulled-left" >}}
 
-The pin holes in *Study for* “*Blossoms* pierce both the paint layer and the ground (**Fig. 16**), indicating they were created after the composition was completed. Since the cross-sections reveal only a single pigmented paint layer—Moore did not first paint this study in gray—it is also possible that the artist pinned paper to the finished painting in order to trace elements of the composition that he planned to reuse in other studies or compositions. Replication was central to Moore’s artistic practice from the mid-1870s, when he began completing multiple versions of a single composition in different color schemes.[^33]
+The pin holes in *Study for “Blossoms”* pierce both the paint layer and the ground (**Fig. 16**), indicating they were created after the composition was completed. Since the cross-sections reveal only a single pigmented paint layer—Moore did not first paint this study in gray—it is also possible that the artist pinned paper to the finished painting in order to trace elements of the composition that he planned to reuse in other studies or compositions. Replication was central to Moore’s artistic practice from the mid-1870s, when he began completing multiple versions of a single composition in different color schemes.[^33]
 
 ## Conclusion
 
@@ -166,7 +165,7 @@ The cross-sections were observed using a Zeiss Axio Imager M2m upright microscop
 
 The cross-sections were analyzed using a JEOL JSM-6460LV SEM with an Oxford Instruments 80 mm<sup>2</sup> X-MaxN X-ray spectrometer running the Oxford INCA software. The SEM was operated in low vacuum mode at a chamber pressure of 35 Pa, with an operating voltage of 20 kV, beam current circa 1 nA, and working distance of 10 mm. The cross-sections were not coated prior to analysis.
 
-### Raman Spectroscopy
+### Raman spectroscopy
 
 Raman analysis was conducted on the cross-sections using a Bruker Optics Senterra dispersive Raman microscope with an Olympus BX51M microscope equipped with 20x and 50x long working distance objectives and using the Bruker OPUS (version 7.5) software. The Raman spectrometer has three laser sources, 532nm, 633nm, and 785nm. The optimum laser source depends on the pigment analyzed but, in general, blue and green pigments were predominantly analyzed with the 532nm laser at 2mw or 5mW power and other colors analyzed with the 785nm laser at 10mW power.
 
@@ -174,15 +173,15 @@ Raman analysis was conducted on the cross-sections using a Bruker Optics Senterr
 
 FTIR in transmission mode was performed using a Bruker Vertex 70 infrared bench spectrometer coupled to a Bruker Hyperion 3000 infrared microscope. Varnish samples were compressed onto a diamond cell with a stainless-steel roller prior to analysis. Using the Bruker OPUS (version 6.0) software, spectra were recorded between 4000 and 600 cm<sup>-1</sup> at 4cm<sup>-1</sup> spectral resolution and 32 scans per spectrum.
 
-### Pyrolysis Gas chromatography-mass spectrometry (py-GCMS)
+### Pyrolysis gas chromatography-mass spectrometry (py-GCMS)
 
-Py-GCMS analyses were performed using a CDS pyroprobe 5000 (platinum coil) interfaced to an Agilent Technologies 7890B GC system coupled with an Agilent Technologies 5977A MSD and using Agilent’s MassHunter GC/MS Acquisition software. The varnish samples were placed in the center of a quartz tube and 3µL of tetramethylammonium hydroxide (TMAH, 25% in methanol) was added to the sample/s prior to pyrolysis. Pyrolysis was conducted at 600°C for ten seconds. The samples were directed onto the column (HP-5ms Ultra Inert column, 30 m x 25 µm x 0.25 µm) by helium gas in a 20:1 split ratio. The GC oven was set with an initial temperature of 40°C for 1 minute prior to increasing in 10°C/min intervals to 300°C over a 26-minute period then maintained for 20 minutes for a total acquisition time of 47 minutes.
+Py-GCMS analyses were performed using a CDS pyroprobe 5000 (platinum coil) interfaced to an Agilent Technologies 7890B GC system coupled with an Agilent Technologies 5977A MSD and using Agilent’s MassHunter GC/MS Acquisition software. The varnish samples were placed in the center of a quartz tube and 3µL of tetramethylammonium hydroxide (TMAH, 25% in methanol) was added to the sample/s prior to pyrolysis. Pyrolysis was conducted at 600°C for ten seconds. The samples were directed onto the column (HP-5ms Ultra Inert column, 30 m x 0.25 mm x 0.25 µm) by helium gas in a 20:1 split ratio. The GC oven was set with an initial temperature of 40°C for 1 minute prior to increasing in 10°C/min intervals to 300°C over a 26-minute period then maintained for 20 minutes for a total acquisition time of 47 minutes.
 
-### X-Ray Fluorescence (XRF) spectroscopy
+### X-ray fluorescence (XRF) spectroscopy
 
 XRF point analysis was conducted on the painting using a Bruker Artax XRF spectrometer with a Silicon Drift Detector (SDD) and a rhodium anode X-ray tube. The primary X-ray beam is collimated to give a spot size of 0.65mm. Using the Bruker Artax (version 7.6) software, spectra were acquired for 100 seconds live time at 50kV and 600μA.
 
-### Imaging Specifications
+### Imaging specifications
 
 Technical images were captured using a Canon EOS 5D Mark 4 digital camera with the IR filter removed. For regular and UV imaging, external filtration Peca 918 and Kodak 2E filters were employed. For IR imaging, an 87A IR Pass filter was attached to the camera lens. Regular illumination was achieved with two Elinchrom RX 1200 Strobes; IR by two Lowel Pro Incandescent lamps; and UV with two TripleBright 3 lamps, each with one LW370 bulb and LW filter (average output value 358 µW/cm<sup>2</sup>). The X-ray radiation source was a Comet MXR-320/26 tube with a Carestream Industrex 2mm aluminum plate, and the exposure settings were 40kV, 7mA, 3mm FOC for 170 seconds at 152.5cm focal distance. Scanning of the plate was undertaken with a high laser power, 12-bit logarithmic data scale, PMT 10, and 50-micron scan resolution.
 
@@ -208,13 +207,13 @@ The authors thank the Materia Editorial Team and two anonymous peer reviewers fo
 
 ## Notes
 
-[^1]: Albert Moore to Frederic R. Leyland, December 22, 1868. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D. C.
+[^1]: Albert Moore to Frederic R. Leyland, December 22, 1868. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D.C.
 
 [^2]: See for example, James McNeill Whistler, “Mr. Whistler’s Ten O’Clock,” *The Gentle Art of Making Enemies* (New York: G. P. Putnam’s Sons, 1924): 135-59; Frederic Leighton, *Addresses Delivered to the Students of the Royal Academy: By the Late Lord Leighton* (London: Kegan Paul, Trench, Trübner, 1896).
 
 [^3]: Robyn Asleson, *Albert Moore* (London: Phaidon Press, 2000), 7.
 
-[^4]: Henry Moore, quoted in Frank Maclean, *Henry Moore R. A.* (London, Walter Scott Pub. Co.; New York, Charles Scribner's Sons, 1905), 119
+[^4]: Henry Moore, quoted in Frank Maclean, *Henry Moore R. A.* (London, Walter Scott Pub. Co.; New York, Charles Scribner's Sons, 1905), 119.
 
 [^5]: Sidney Colvin, “English Painters of the Present Day. II—Albert Moore,” *Portfolio*, 1 (1870): 4.
 
@@ -242,13 +241,21 @@ The authors thank the Materia Editorial Team and two anonymous peer reviewers fo
 
 [^17]: Moore to Leyland, January 11, 1896. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D. C.
 
-[^18]: Robyn Asleson, “Repetition, Aestheticism, and Copyright Law,” 80.
+[^18]: Robyn Asleson, “Repetition, Aestheticism, and Copyright Law in the Art Practice
+of Albert Moore,” in *Victorian Artists’ Autograph Replicas: Auras, Aesthetics,
+Patronage and the Art Market*, ed. Julie F. Codell (New York: Routledge, Taylor
+& Francis, 2020), 68.
 
-[^19]: Moore to Leyland, December 22, 1868. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D. C.
+[^19]: Moore to Leyland, December 22, 1868. Pennell-Whistler Collection, Box 6, Library of Congress, Washington, D.C.
 
-[^20]: Baldry, *Albert Moore*, 78. Contemporary scholars have also addressed this dimension of Moore’s practice, see: Richard Green “Albert Moore: Themes and Variations,” in Ed. Julie F Codell, *Victorian Artists' Autograph Replicas: Auras, Aesthetics, Patronage and the Art Market* (New York: Routledge, Taylor & Francis, 2020), 60; Robyn Asleson, “Repetition, Aestheticism, and Copyright Law in the Art Practice of Albert Moore,” in Codell, *Victorian Artists' Autograph Replicas*, 64, 71-73; Asleson, *Albert Moore*, 130-131, 155-58.
+[^20]: Baldry, *Albert Moore*, 78. Contemporary scholars have also addressed this
+dimension of Moore’s practice, see: Richard Green “Albert Moore: Themes and
+Variations,” in Codell, *Victorian Artists’ Autograph Replicas*; Asleson,
+“Repetition, Aestheticism, and Copyright Law in the Art Practice of Albert
+Moore,” in Codell, *Victorian Artists’ Autograph Replicas*, 64, 71-73;
+Asleson, *Albert Moore*, 130-131, 155-58.
 
-[^21]: Ibid.
+[^21]: Baldry, Albert Moore, 78.
 
 [^22]: The visible crack pattern on *Study for “Blossoms”* was the reason it was initially brought to the paintings lab for conservation treatment.
 
@@ -258,13 +265,13 @@ The authors thank the Materia Editorial Team and two anonymous peer reviewers fo
 
 [^25]: Richard St John Tyrwhitt, *A Handbook on Pictorial Art* (Oxford: Clarendon Press, 1868), 338. For a discussion of modifications that nineteenth-century British artists made to commercially primed canvases see: Maartje Stols-Witlox, *A Perfect Ground: Preparatory Layers for Oil Paintings 1550-1900* (London: Archetypes Publications, 2017), 146-47; Joyce H. Townsend, Jacqueline Ridge, and Stephen Hackney, *Pre-Raphaelite Painting Techniques, 1848-56* (London: Tate, 2004), 56-59, 80-81.
 
-[^26]: Identified with X-Ray Fluorescence (XRF) spectroscopy analysis as vermilion, cobalt blue and cadmium yellow, respectively.
+[^26]: Identified with X-ray fluorescence (XRF) spectroscopy analysis as vermilion, cobalt blue and cadmium yellow, respectively.
 
 [^27]: For a discussion of the presence of such borders on a selection of Moore’s other oil studies, see Frame, *Aestheticism and Painting Method*, 16-17.
 
 [^28]: Baldry, *Albert Moore*, 78.
 
-[^29]: The presence of umber can be inferred due to an increased amount of manganese in comparison to iron detected by X-Ray Fluorescence (XRF) spectroscopy.
+[^29]: The presence of umber can be inferred due to an increased amount of manganese in comparison to iron detected by X-ray fluorescence (XRF) spectroscopy.
 
 [^30]: The presence of madder may be suggested based on the orange fluorescent particles observed in cross-section. The presence of other organic reds cannot be ruled out from this analysis.
 
