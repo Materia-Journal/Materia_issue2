@@ -149,6 +149,12 @@ This level of scientific analysis is infrequently conducted and available in Eng
 
 Thanks to the University of Pennsylvania Museum of Archaeology and Anthropology for allowing me to study and treat this wonderful coat. Special thanks to Lynn Grant, Dr. Marie-Claude Boileau, and Dr. William Wierzbowski. This treatment was supervised by Lara Kaplan, with additional consultation from Laura Mina. I am grateful for their supervision and for allowing me to establish minor coursework in organic objects conservation, of which this treatment was a part. Analysis was conducted by Catherine Matsen and Dr. Rosie Grayburn at the Scientific Research and Analysis Laboratory at the Winterthur Museum, Garden & Library. Amy Tjiong and Vera Solovyeva of the American Museum of Natural History consulted on the coat’s context. It is important to note that attempts to contact a representative of the Dolgan peoples were made but unfortunately unsuccessful given the project’s time frame and language differences. I truly believe that when studying and conserving indigenous material culture, collaborating with community stakeholders is best practice. I regret it was not possible in this instance.
 
+## Author Bio
+
+**Annabelle Camp** is a National Endowment for the Humanities Fellow in Textile Conservation with a minor in Organic Objects Conservation in the Winterthur/University of Delaware Program in Art Conservation Class of 2022.
+
+<br>
+
 ***
 
 ## Bibliography
@@ -290,7 +296,7 @@ Vellux: Flocked, nylon textile.
 
 [^26]: The thread count for these remaining hood elements and tassels cannot be determined due to the presence of beading and the intact fulling.
 
-[^27]: Email message to the author, January 19, 2021. .
+[^27]: Email message to the author, January 19, 2021.
 
 [^28]: Oakes et al., *Spirit of Siberia*, 102, 106, 107; “Dolgan.” The following Kunstkamera objects have beading similar to that on the coat: women’s winter boots (МАЭ № 4128-199/2), shaman’s boots (МАЭ № 5658-48/б), shaman’s breastplate (МАЭ № 5658-47).
 
