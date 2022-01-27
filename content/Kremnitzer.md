@@ -150,19 +150,19 @@ Juliet Wilson-Bareau. *Manet: dessins, aquarelles, eaux-fortes, lithographies, c
 
 Juliet Wilson-Bareau, “Manet’s One and Only Jeanne...and Guérard’s Later Plate,” *Art in Print* 8, 6 (April 2019).
 
-Scott Allan, Emily A. Beeny, and Gloria Groom. *Manet and Modern Beauty: The Artist’s Last Years*. Getty Publications, 2019.
+Allan, Scott, Emily A. Beeny, and Gloria Groom. *Manet and Modern Beauty: The Artist’s Last Years*. Getty Publications, 2019.
 
 *Catalogue des estampes anciennes et modernes...composant la collection Edgar Degas...* Paris: Hôtel Druout, 1918.
 
-Galerie Georges Petit, *Catalogue des tableaux modernes, pastels, aquarelles, dessins ... gravures, tableaux anciens ... composant la collection de M. Max*, Paris, 1917.
+ Petit, Galerie Georges. *Catalogue des tableaux modernes, pastels, aquarelles, dessins ... gravures, tableaux anciens ... composant la collection de M. Max*, Paris, 1917.
 
-Stephan Wolohojian, ed. *A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University*. New York: The Metropolitan Museum of Art, 2003.
+Wolohojian, Stephan, ed. *A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University*. New York: The Metropolitan Museum of Art, 2003.
 
-Jean C. Harris. *Édouard Manet: The Graphic Works, A Catalogue Raisonné*. San Francisco: Alan Wofsy Fine Arts, 1990.
+Harris, Jean C. *Édouard Manet: The Graphic Works, A Catalogue Raisonné*. San Francisco: Alan Wofsy Fine Arts, 1990.
 
-Zacharie Astruc. *Les Alhambras*. Paris, 1908.
+Astruc, Zacharie. *Les Alhambras*. Paris, 1908.
 
-Adolphe Tabarant, *Manet et Ses Oeuvres*. Paris: Gallimard, 1947.
+Tabarant, Adolphe. *Manet et Ses Oeuvres*. Paris: Gallimard, 1947.
 
 Stephanie M. Lussier, Gregory D. Smith, Stephanie M. Lussier & Gregory D. Smith (2007) A review of the phenomenon of lead white darkening and its conversion treatment, Studies in Conservation, 52:sup1, 41-53, DOI: 10.1179/sic.2007.52.Supplement-1.41.
 

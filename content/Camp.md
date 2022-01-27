@@ -155,9 +155,11 @@ Thanks to the University of Pennsylvania Museum of Archaeology and Anthropology 
 
 Carrlee, Ellen. “Wolverine Fur.” *Ellen Carrlee Conservation,* 2008.
 
-Ellencarrlee.wordpress.com/2008/12/28/wolverine-fur.
-
 Czaplicka, Marie Antoinette. *My Siberian Year; by M.a. Czaplicka, with Thirty-Two Illustrations from Photographs*. London: Mills & Boon, 1916.
+
+“Dolgan.” *Minorityrights.org, 2019*. [https://minorityrights.org/minorities/dolgan/](https://minorityrights.org/minorities/dolgan/).
+
+Ellencarrlee.wordpress.com/2008/12/28/wolverine-fur.
 
 Fitzhugh, William W, Aron Crowell, and National Museum of Natural History (U.S.). *Crossroads of Continents : Cultures of Siberia and Alaska*. Washington, D.C.: Smithsonian Institution Press, 1988.
 
@@ -167,15 +169,13 @@ Hall, Henry U. “The Siberian Expedition.” *The Museum Journal/University of 
 
 Klokkernes, Torunn. “Skin Processing Technology in Eurasian Reindeer Cultures : A Comparative Study in Material Science of Sàmi and Evenk Methods : Perspectives on Deterioration and Preservation of Museum Artefacts.” Dissertation, Langelands Museum, Royal Danish Academy of Fine Arts, 2007.
 
-No author. “100 Years of Research." *Expedition Magazine* 26.1: Penn Museum, 1983. http://www.penn.museum/sites/expedition/?p=4941.
-
-No author. “Dolgan.” *Minorityrights.org, 2019*. [https://minorityrights.org/minorities/dolgan/](https://minorityrights.org/minorities/dolgan/).
-
-No author. “Women's hat, late 19th - early 20th century.” *The Kuntskamera,* 2018. [http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58](http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58).
+“100 Years of Research." *Expedition Magazine* 26.1: Penn Museum, 1983. http://www.penn.museum/sites/expedition/?p=4941.
 
 Oakes, Jill E, Roderick R Riewe, and Bata Shoe Museum Foundation. *Spirit of Siberia : Traditional Native Life, Clothing, and Footwear*. Washington, DC: Smithsonian Institution Press, 1998.
 
-The Moscow Times. “Russia shuts down Arctic indigenous rights group.” *The Barents Observer,* November 9, 2019. [https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group](https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group).
+Moscow Times. “Russia shuts down Arctic indigenous rights group.” *The Barents Observer,* November 9, 2019. [https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group](https://thebarentsobserver.com/en/arctic/2019/11/russia-shuts-down-arctic-indigenous-rights-group).
+
+“Women's hat, late 19th - early 20th century.” *The Kuntskamera,* 2018. [http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58](http://collection.kunstkamera.ru/entity/OBJECT/326836?query=dolgan&index=58).
 
 Ziker, John P. *Peoples of the Tundra : Northern Siberians in the Post-Communist Transition*. Prospect Heights, Ill.: Waveland Press, 2002.
 

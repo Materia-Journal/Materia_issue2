@@ -6,7 +6,7 @@ weight: 31
 type: essay
 class:
 peer_review: "true"
-contributor_as_it_appears: Ruby Awburn, Sophie Lynford and Georgina Rayner
+contributor_as_it_appears: Ruby Awburn, Sophie Lynford, and Georgina Rayner
 contributor:
 
 abstract: Albert Moore, a leader of the British Aesthetic movement, left few written records. Unlike many of his contemporaries, most notably his friend James McNeill Whistler, he delivered no lectures about his artistic philosophies and praxes. This article provides evidence of Moore’s intricate working processes identified through examination of his *Study for “Blossoms”* (c. 1881), an oil study in the collection of the Harvard Art Museums. Technical imaging and scientific analysis were employed to document the artist’s laborious multi-step painting practice. This piece enumerates Moore’s methodological process, examined alongside his commercial practice, and explores the socio-historical context surrounding the finishing and sale of his oil studies. These findings enabled the identification of eighteen discrete steps that Moore undertook each time he completed a large-scale oil painting, a practice believed to be among the most elaborate of the Victorian era.
@@ -48,7 +48,7 @@ Gridded preparatory drawings were just one of the multiple discrete steps that M
 
 ## Moore’s Working Method: The Steps
 
-The two earliest preparatory drawings for *Blossoms* have yet to be located but are known through printed reproductions in period publications (**Figs. 5-6**). Two additional extant preparatory works include a study of drapery in charcoal on gray paper (see **Fig. 8**) and another oil study, smaller in scale and more loosely painted than the Harvard study (see **Fig. 9**). Together with *Study for “Blossoms”* and *Blossoms*, these six works represent six distinct stages in Moore’s multi-step process. Twelve additional steps were identified through Baldry’s account, technical imaging and scientific analysis, and the authors’ experimentation with Moore’s techniques. The step-by-step process of Moore’s painting practice can be understood as follows:
+The two earliest preparatory drawings for *Blossoms* have yet to be located but are known through printed reproductions in period publications (**Figs. 5,6**). Two additional extant preparatory works include a study of drapery in charcoal on gray paper (see **Fig. 8**) and another oil study, smaller in scale and more loosely painted than the Harvard study (see **Fig. 9**). Together with *Study for “Blossoms”* and *Blossoms*, these six works represent six distinct stages in Moore’s multi-step process. Twelve additional steps were identified through Baldry’s account, technical imaging and scientific analysis, and the authors’ experimentation with Moore’s techniques. The step-by-step process of Moore’s painting practice can be understood as follows:
 
 1.  Observe nature and the model.
 
@@ -101,7 +101,7 @@ As a small-scale oil study for *Blossoms*, *Study for “Blossoms”* seems to r
 
 *Study for “Blossoms”* has a dramatic tenting crack pattern travelling horizontally across its surface (**Fig. 10a**).[^22] Moore purchased lengths of rolled, pre-primed canvas from his colourman, Charles Roberson & Co.[^23] There is the possibility, if time elapses before the primed canvas is used, that the oil in the ground will begin polymerizing in the rolled configuration, becoming brittle before the painting is stretched. This can manifest as cupped cracks that may not become apparent until after the artist has completed the painting.[^24]
 
-A cross-section prepared from the painting provides evidence that Moore used a commercially primed canvas for *Study for “Blossoms.”* The lowest layer (layer 1, **Fig.11**), is perfectly level and rich in calcite with lead white and barite particles dispersed throughout. Two additional ground layers (layers 2 and 3, **Fig. 11**) are more uneven and vary in thickness and pigment content. The second layer is rich in lead white with barite and calcite particles. The uppermost ground layer only contains lead white which is consistent with the X-radiograph that indicated the presence of a heavy base layer of lead (**Fig. 10b**) and appears to have been smoothed flat. The irregularity of the boundary between the second and third layers, as highlighted by the dashed line in Fig. 11, suggests that these may have been applied by hand, on top of a commercial priming.
+A cross-section prepared from the painting provides evidence that Moore used a commercially primed canvas for *Study for “Blossoms.”* The lowest layer (layer 1, **Fig. 11**), is perfectly level and rich in calcite with lead white and barite particles dispersed throughout. Two additional ground layers (layers 2 and 3, **Fig. 11**) are more uneven and vary in thickness and pigment content. The second layer is rich in lead white with barite and calcite particles. The uppermost ground layer only contains lead white which is consistent with the X-radiograph that indicated the presence of a heavy base layer of lead (**Fig. 10b**) and appears to have been smoothed flat. The irregularity of the boundary between the second and third layers, as highlighted by the dashed line in Fig. 11, suggests that these may have been applied by hand, on top of a commercial priming.
 
 {{< q-figure id="2.11" >}}
 
