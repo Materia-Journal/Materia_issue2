@@ -1,23 +1,23 @@
 figure_list:
 - id: "1.1"
   src: figures/Camp/fig-1-camp.jpg
-  label: "Fig. 1"
-  caption: "**Fig. 1** Child’s overcoat, front (left) and back (right) before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524."
+  label: "Fig. 1a"
+  caption: "**Fig. 1a** Child’s overcoat, front, before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524."
   alt:
 - id: "1.122"
   src: figures/Camp/fig-1.2-camp.jpg
-  label:
-  caption:
+  label: "**Fig. 1b**"
+  caption: "Child’s overcoat, back, before treatment. University of Pennsylvania Museum of Archaeology and Anthropology: A1524."
   alt:
 - id: "1.2"
   src: figures/Camp/fig-2-camp.jpg
   label: "Fig. 2"
-  caption: "**Fig. 2** Construction diagrams of child’s overcoat, front (left) and back (right), with seams shown in yellow."
+  caption: "**Fig. 2a** Construction diagrams of child’s overcoat, front, with seams shown in yellow."
   alt:
 - id: "1.22"
   src: figures/Camp/fig-2.2-camp.jpg
   label: "Fig. 2"
-  caption:
+  caption: "**Fig. 2b** Construction diagrams of child’s overcoat, back, with seams shown in yellow."
   alt:
 - id: "1.3"
   src: figures/Camp/fig-3-camp.jpg
@@ -92,22 +92,22 @@ figure_list:
 - id: "1.17"
   src: figures/Camp/fig-17-camp.jpg
   label: "**Fig. 17a**"
-  caption: "**Fig. 17** The coat front (left) and back (right) after treatment, with storage supports in place."
+  caption: "**Fig. 17a** The coat, front, after treatment, with storage supports in place."
   alt:
 - id: "1.172"
   src: figures/Camp/fig-17.2-camp.jpg
   label: "**Fig. 17b**"
-  caption: "**Fig. 17b**"
+  caption: "**Fig. 17b** The coat, back, after treatment, with storage supports in place."
   alt:
 - id: "1.18"
   src: figures/Camp/fig-18-camp.jpg
   label: "**Fig. 18a**"
-  caption: "**Fig. 18** The coat front (left) and back (right) after treatment, with storage supports in place."
+  caption: "**Fig. 18a** The coat front after treatment, with storage supports in place."
   alt:
 - id: "1.182"
   src: figures/Camp/fig-18.2-camp.jpg
   label: "**Fig. 18b**"
-  caption:
+  caption: "**Fig. 18b** The coat back after treatment, with storage supports in place."
   alt:
 - id: "1.191"
   src: figures/Camp/table-1-camp.jpg
@@ -139,7 +139,6 @@ figure_list:
   label: "**T1.6**"
   caption: "**T1.6** 400x"
   alt:
-
 - id: "2.1"
   src: figures/Awburn/fig-1-awburn_et_al.jpg
   label: "**Fig. 1**"
@@ -375,7 +374,7 @@ Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352)."
 - id: "4.11"
   src: figures/Kremnitzer/fig-11-kremnitzer.jpg
   label: "**Fig. 11**"
-  caption: "**Fig. 11** Diagram of Fig. 5 showing the photomicrograph areas represented in Figs. 11, 12, 13, 14, 15, 16 and 18."
+  caption: "**Fig. 11** Diagram of Fig. 5 showing the photomicrograph areas represented in Figs. 12, 13, 14, 15, 16 and 18."
   alt: “Diagram of Figure 5 showing the photomicraph areas represented in Figs. 11, 12, 13, 14, 15, 16 and 18.”
 - id: "4.12"
   src: figures/Kremnitzer/fig-12-kremnitzer.jpg
