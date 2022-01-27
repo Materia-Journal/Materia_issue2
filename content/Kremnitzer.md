@@ -126,6 +126,14 @@ Lola’s final appearance in Manet’s oeuvre is the sketchiest—as one of the 
 
 ***
 
+## Acknowledgements
+
+Thanks first and foremost to the entire Materia team and the two anonymous reviewers whose comments and collective efforts on my behalf were invaluable. Research undertaken for this article would not have been possible without the generosity of many scholars, curators, conservators, and conservation scientists who made their collections available and offered extraordinary collaboration. Sincere thanks to Leila Jarbouai, Curator of Drawings, and Géraldine Masson, Assistant Curator of Drawings at the Musée d’Orsay; Penley Knipe, Phillip and Lynn Straus Senior Conservator of Works of Art on Paper and Head of Paper Lab, Anne Driesse, Senior Conservator of Works of Art on Paper, Katherine Eremin, Patricia Cornwell Senior Conservation Scientist and Christina Taylor, Assistant Paper Conservator, at the Harvard Art Museums/Fogg, all of whom generously advanced my project beginning in Summer 2017 during The Summer Institute for Technical Studies in Art (SITSA) program; Kristi Dahm, Associate Conservator of Prints and Drawings at the Art Institute of Chicago; Gonda Zsuzsa, Curator of 19th century Prints and Drawings at the Szépmüvészetti Múzeum in Budapest; Madeleine Viljoen, Curator of Prints and The Spencer Collection, Denise Stockman, Associate Paper Conservator, Senior Exhibition Conservators Myriam Dearteni and Grace Owen-Weiss, and the entire Prints and Photographs Study Room staff at The New York Public Library. And, as always, thanks to Juliet Wilson-Bareau for continued conversation on all things Manet.
+
+## Bio
+
+**Kathryn Kremnitzer** earned her PhD in Art History at Columbia University in 2020 with a dissertation focused on Édouard Manet’s working across media in the 1860s. She was previously Research Associate in the Painting and Sculpture of Europe department at the Art Institute of Chicago, where she worked on Manet and Modern Beauty (2019), Monet and Chicago (2020), and Cezanne (2022), and contributed to the online scholarly catalogue of Manet’s works in the collection. As a Curatorial Assistant at The Metropolitan Museum of Art, she worked on Madame Cézanne (2014) and Tiepolo Caricatures from the Robert Lehman Collection (2014). She is currently Associate Vice President, Specialist in 19th Century European Paintings at Sotheby’s in New York.
+
 ## Bibliography
 
 Gary Tinterow, Geneviève Lacambre, and Deborah L. Roldán. *Manet/ Velázquez: The French Taste for Spanish Painting*. New York: Metropolitan Museum of Art, 2003.
