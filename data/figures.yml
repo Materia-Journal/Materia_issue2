@@ -237,13 +237,13 @@ highlighted by the yellow brackets."
 - id: "2.16"
   src: figures/Awburn/fig-16-awburn_et_al.jpg
   label: "**Fig. 16**"
-  caption: "**Fig. 16** Magnification of pin hole on *Study for Blossoms.*"
+  caption: "**Fig. 16** Magnification of pin hole on *Study for “Blossoms.”*"
   alt: "A magnified detail of a pin hole on Study for “Blossoms” showing the layers of paint pierced by a pin."
 - id: "3.1"
   src: figures/Watson/fig-1-watson_et_al.jpg
   label: "**Fig. 1**"
   caption: "**Fig. 1** Betty Blayton. *Consume #2*, 1969. Oil and paper on canvas, diam. 59 in. The Virginia
-Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352)."
+Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352). Before treatment."
   alt: “A round abstract oil painting and paper collage on canvas, with blues and purples running in a vertical orientation.”
 - id: "3.2"
   src: figures/Watson/fig-2-watson_et_al.jpg
@@ -269,7 +269,7 @@ Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352)."
 - id: "3.6"
   src: figures/Watson/fig-6-watson_et_al.jpg
   label: "**Fig. 6**"
-  caption: "**Fig. 6** *Consume #2*. Detail with signature, before Treatment. Photo: Meredith Watson."
+  caption: "**Fig. 6** *Consume #2*. Detail with signature, before treatment. Photo: Meredith Watson."
   Alt: “The lower right quadrant of the painting featuring mostly blue and white paint with tan paper strips. There is a signature in blue ink in the lower right that reads Blayton 69."
 - id: "3.7"
   src: figures/Watson/fig-7-watson_et_al.jpg
@@ -309,7 +309,7 @@ Museum of Fine Arts, Arthur and Margaret Glasgow Endowment, 2018 (2018.352)."
 - id: "3.14"
   src: figures/Watson/fig-14-watson_et_al.jpg
   label: "**Fig. 14**"
-  caption: "**Fig. 14** Still capture from RTI Reader Software, highlighting subtleties in surface topography and the layering of the paper elements. (Light x=-0.03, y=-0.16 Zoom:87% Pan: x=1223, u=169 Rendering Mode: Specular Enhancement, Diffuse Color=40, Specularity=70, Highlight size=75)."
+  caption: "**Fig. 14** Still capture from RTI Reader Software, highlighting subtleties in surface topography and the layering of the paper elements. (Light: x=-0.03, y=-0.16 Zoom: 87% Pan: x=1223, u=169 Rendering Mode: Specular Enhancement, Diffuse Color=40, Specularity=70, Highlight size=75)."
   Alt: “A computer program enhanced image of one portion of the painting, where raised paper edges, differences in opacity and layering are emphasized.”
 - id: "3.15"
   src: figures/Watson/fig-15-watson_et_al.jpg
