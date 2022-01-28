@@ -148,6 +148,24 @@ The purpose of the present study was to begin remedying the oblivion into which 
 
 ***
 
+## Appendix. Paintings Studied
+
+| Paintings (in estimated chronological order) | Signature | Exhibited | Other Information | Established or speculative (*) date |
+| --- | --- | --- | --- | --- |
+| Annie Walke, *Reverend Bernard Walke and His Mother*, undated. Oil on canvas, 182 🞨 121 cm. Royal Cornwall Museum, Truro | Anne Walke (capital "A") <br> {{< q-figure id="6.31" >}} ![image info](../static/img/figures/Pellini/Appendix-images/Appendix_fig1.jpg) | 1915 (Grosvenor Galleries), 1937 (Porthmeor Gallery) | Also known as *Mother and Son*; created between 1911 (when the couple married) and 1915 (its first exhibition). | 1911-15 |
+| Annie Walke, *St Joan*, undated. Oil on canvas, dimensions unknown.. St Hilary Church, Cornwall. | AW (monogram) <br> {{< q-figure id="6.32" >}}|  | Companion piece to *St Francis* by Roger Fry, dated 1920  | ca. 1920* |
+| Annie Walke, *Dedication*, undated. Oil on panel, 41.5 🞨65.5 cm. St Hilary Church, Cornwall (**fig. 20**) | No signature |  | Choir stall panels by other contributing artists were created ca. 1916–ca. mid-1920s. | 1920s?* |
+| Annie Walke, *Christ Blessing Cornish Industry*, 1923. Oil on panel, side panels: 75 cm 🞨 24 cm, central panel: 75 cm 🞨 95 cm. Truro Cathedral, Cornwall (**fig. 18**) | ANN Walke <br> {{< q-figure id="6.33" >}}|  | Commissioned by Bishop Frere in 1923; mentioned in *Western Morning News* (Plymouth), 29 December 1925 and 3 February 1926  | 1923 |
+| Annie Walke, *Portrait of a Gentleman in a Spanish Cloak*, undated. Oil on canvas, 127 🞨 101.5 cm. Private collection  | Ann Walke (capital “A”) <br> <br> [no clear photograph is available] | 1937 (Bath’s Victoria Art Gallery) | Also known as *Portrait of Bernard Walke standing three-quarter length and Portrait of Bernard Walke in Academic Robes*. Painted in St Hilary, 1913–36. Bernard Walke visited Spain in 1923, possibly acquiring a robe there. | 1923*-27 |
+| Annie Walke, *Christ Mocked*, undated. Oil on canvas, 91.5 🞨 79.2 cm. Royal Cornwall Museum, Truro | ANN WALKE <br> {{< q-figure id="6.34" >}}| 1924 (Goupil Gallery, London), 1928 (Royal Institute Galleries), 1936 (Porthmeor Gallery, Birmingham, Cheltenham), 1937 (Bath’s Victoria Art Gallery), 1947 (Cardiff), 1949 (Swindon), 2003 (Penlee House) | Incorrectly dated ca. 1935 on ArtUK website  | Before 1924 |
+| Annie Walke, *Virgin and Child*, undated. Oil on canvas, dimensions unknown.. St Hilary Church, Cornwall. | AW (monogram) <br> {{< q-figure id="6.35" >}}| | Also known as *Madonna with Red Shoes*. Formerly hung in the School of St Clare, came to St Hilary possibly in the 1960s(?)  | 1920s* |
+| Annie Walke, St Clare, undated. Oil on canvas, 151 🞨 90.5 cm. Former School of St Clare, Penzance, Cornwall (**fig. 15**) | AW (monogram) <br> {{< q-figure id="6.36" >}}| | Penzance Girls’ School was renamed the School of St Clare in 1928. <br> The chapel in which the painting hung was built in 1918. | ca. 1928* |
+| Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 🞨 116 cm. Private collection (**fig. 1**) | ANN WALKE <br> {{< q-figure id="6.37" >}}| 1936 (Porthmeor Gallery) | Painted in St Hilary, 1913–36. | 1913-36 |
+| Annie Walke, *St Christopher*, undated. Oil on canvas, dimensions unknown. St Mary’s Church, Bourne Street, London (**fig. 2**). | Ann Walke (capital “A”) <br> {{< q-figure id="6.38" >}}| | Mentioned in a letter from Annie Walke to Mrs Rice, post-1936 (based on Walke’s address in the letter). The model for *St Christopher* was identified as Colin Summerfield on the cover of *Hills*, 2004. | ca. 1936?* |
+| Annie Walke, *Preaching from the Hill*, undated. Oil on hardboard, 81.5 🞨 53.5 cm. Royal Cornwall Museum, Truro, Cornwall | Ann Walke (capital “A”) <br> {{< q-figure id="6.39" >}}| 1957 (St Austell) | Also known as *Angel Appearing to Shepherds* and likely the same as *Angel of the Ascension*. Eric Gill’s print published in *The Game* in 1918 was a possible source of inspiration.  | 1918*-57 |
+
+***
+
 ## Authors’ Bios
 
 **Maria Vittoria Pellini** holds a B.A. in Art History and Cultural Studies from Foscari
@@ -166,125 +184,128 @@ structural conservation of paintings.
 <br>
 
 ***
-***
 
 ## BIBLIOGRAPHY
 
+<br>
+
 ## Primary Sources
 
-> “104 Paintings in Exhibition at Wadebridge.” *Cornish Guardian*. 29 August, 1957: 8.
->
-> “Art Exhibitions.” *The Times*. 13 February, 1928: 17. Available at *The Times* Digital Archive. (Accessed:14 Dec. 2018).
->
-> “Art Exhibitions.” *The Times*. 31 October, 1924: 15. Available at *The Times* Digital Archive. (Accessed: 14 Dec. 2018).
->
-> “Art Exhibitions.” *The Times*. 6 October, 1924: 17. Available at *The Times* Digital Archive. (Accessed:14 Dec. 2018).
->
-> “Art School Notes.” In *Studio International* 187, (January 1909): 77, https://digi.ub.uni-heidelberg.de/diglit/studio1909/0099 (Accessed: 30 Aug 2021).
->
-> “Chapel for private devotion. Dedication at Truro Cathedral,” *Western Morning News* (29 December 1925): 8.
->
-> “Flower Paintings.” *Westminster Gazette*. 12 March, 1923: 12.
->
-> “Outstanding St. Ives Exhibition. Works By Five R.A.’s.” *Cornishman*. 5 March 1936: 10, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000331/19360305/102/0010 (Accessed: 14 Dec. 2018).
->
-> “St. Austell will soon have an Arts Centre. Society acquisition made known at exhibition by newly-formed group.” *Cornish Guardian*. 13 September, 1956: 8.
->
-> “St. Ives Artists’ Spring Show.” *Cornishman*. 15 April, 1937: 3, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000331/19370415/020/0003 (Accessed: 14 Dec. 2018).
->
-> “The International Society. The Spring Exhibition of the International Society (Grosvenor Galleries).” *Westminster Gazette*. 19 May, 1915: 3-4, https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/19150519/003/0003 (Accessed: 14 Dec. 2018).
->
-> “The International.” *Times*. 11 May, 1915: 11. Available at the Times Digital Archive. (Accessed: 14 Dec. 2018).
->
-> “The Vote Women at home and abroad. Women Artists,” *The Vote* (27 April 1923): 3.
->
-> “St Ives Society of Artists Spring Exhibition.” *St Ives Times*. 3 March, 1936.
->
-> “Works by Cornish Artists. Exhibition at Bath Art Gallery” *Bath Chronicle and Weekly Gazette*. 12 June, 1937: 10.
->
-> *A Selection of Poems by the Artist Annie Walke (1877–1965)*, edited by Philip C. Hills, Camborne, Cornwall: Philip Hills, 2004.
->
-> Kennedy North, S. “The Art World Modern. Modern paintings equal to past masters. Mrs Fearon Walke: brilliance that is unrecognised.” *Pall Mall Gazette*. 16 March, 1923: 10.
->
-> Knight, Laura. *10 am 2 Queens Road* (Drawing of Annie Walke), n.d., ink on paper, London, Tate Archives, in. nr. 895.4
->
-> Knight, Laura. *Good Works* (Drawing of Bernard Walke), n.d., ink on paper, London, Tate Archives, in. nr. 859.5.
->
-> Letter from Gladys Hynes to Hugh Hynes, 12 June c. 1905, inv. nr. 859.1, Tate Archives, London, England, UK.
->
-> *Studio* 8, no. 42, September, 1896: 242-244.
->
-> *The Game* 2, no. 2, 9 May, 1918.
->
-> *The Year’s Art 1911: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1909, together with information respecting the events of the year 1911*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1911.
->
-> *The Year’s Art 1913: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1912, together with information respecting the events of the year 1913*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1913.
->
-> *The Year’s Art 1916: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1915, together with information respecting the events of the year 1916*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1916.
->
-> *The Year’s Art 1922: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1921, together with information respecting the events of the year 1922*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1922.
->
-> Walke, Annie. *A Boy Returns: and other poems*. Haywards Heath, Sussex: Breakthru Publications 1964.
->
-> Walke, Bernard. *Twenty Years at St. Hilary.* Saint Agnes: Truran, 1935.
+104 Paintings in Exhibition at Wadebridge. *Cornish Guardian*. 29 August, 1957: 8.
 
-### Secondary Sources
+Art Exhibitions. *The Times*. 13 February, 1928: 17. Available at *The Times* Digital Archive. (Accessed:14 Dec. 2018).
 
-> “Annie Walke.” In *Cornwall Artist Index* (n.d.), https://cornwallartists.org/cornwall-artists/annie-walke (Accessed: 29 Dec 2018).
->
-> *“*James Lanham & Co.*”* In *Cornwall Artist Index* (n.d.), https://cornwallartists.org/cornwall-artists/james-lanham-co (Accessed: 29 Dec 2018).
->
-> “St Hilary, St Hilary.” In *Cornwall Historic Churches Trust Website*. n.d., https://www.chct.info/histories/st-hilary-st-hilary/ (Accessed: 29 Dec 2018).
->
-> *100 years in Newlyn: Diary of a gallery*, edited by Melissa Hardie. Penzance: The Patten Press, 1995.
->
-> Allchin, Donald. *Bernard Walke: A Good Man Who Could Never be Dull*. Abergavenny: Three Peaks Press, 2000.
->
-> Cross, Tom. *The Shining Sands: Artists in Newlyn and St Ives 1880 -1930*. Devon: Westcountry Books, 1994.
->
-> Fox, Caroline and Francis Greenacre. *Painting in Newlyn 1880-1930*. (Exhibition Catalogue: London 11 July-1 September 1985, London: Barbican Art Gallery), London: Barbican Art Gallery, 1985.
->
-> Garrett, Christopher. “The Artist Annie Walke (nee Fearon) – To Polruan – Part 1.” *Lanteglos Parish News*, (October-November 2014): 18.
->
-> Garrett, Christopher. “The Artist Annie Walke (nee Fearon) – To Polruan – Part 2.” *Lanteglos Parish News*, (December 2014 – January 2015): 18.
->
-> Hackney, Stephen. *On Canvas: Preserving the Structure of Paintings*. Los Angeles: The Getty Conservation Institute, 2020.
->
-> Hardie, Melissa. *Artists in Newlyn and West Cornwall, 1880-1940: A Dictionary and Source Book.* Bristol: Art Dictionaries Ltd, 2009.
->
-> Hedley, Gerry. “The Practicalities of the Interaction of Moisture with Oil Paintings on Canvas”. In *Measured Opinions*. London: United Kingdom Institute of Conservators, 1993: 112-122.
->
-> Hills, Philip C. *A Cornish Pageant*. Camborne, Cornwall: Philip Hills, 1999.
->
-> Hills, Philip C. *Bring Back the Donkeys: A Tribute to Father Bernard Walke and the Artist Annie Walke*. *Covering the Years 1870-1965* (Exhibition Booklet: Jesus Chapel, Truro Cathedral, 18 Dec 1997-2 Jan 1998), Truro: Philip Hills, 1997.
->
-> Holroyd, Michael. “John, Augustus Edwin (1878-1961).” In *Oxford Dictionary of National Biography*, 2006, https://doi.org/10.1093/ref:odnb/34196 (Accessed: 17 May 2019)
->
-> Knight, Laura. *Oil Paint and Grease Paint: Autobiography of Laura Knight.* London: Ivor Nicholson & Watson Limited, 1936.
->
-> Knight, Laura. *Oil Paint and Grease Paint: Autobiography of Laura Knight*. London: Ivor Nicholson & Watson Limited, 1936.
->
-> Matless, David. “A geography of ghosts: the spectral landscapes of Mary Butts.” *Cultural Geographies* 15, no. 3 (Jul 2008): 335-357, https://journals.sagepub.com/doi/10.1177/1474474008091331.
->
-> Pellini, Maria Vittoria and Anna Vesaluoma. “Threads coming together. A study of Sorrowful Women by Annie Walke.” In *The Courtauld Institute of Art Website*. https://courtauld.ac.uk/wp-content/uploads/2021/04/Sorrowful-Women-by-Annie-Walke.pdf, 2019.
->
-> Rachel Monie “God, Beauty and Imagination Assignment”. Unpublished essay (2018).
->
-> Simon, Jacob. “British Art Suppliers, 1650-1950 – L.” In *National Portrait Gallery Website*. 2018, https://www.npg.org.uk/research/programmes/directory-of-suppliers/l (Accessed: 29 Dec 2018).
->
-> Simon, Jacob. “British Art Suppliers, 1650-1950 – R.” In *National Portrait Gallery Website*. 2018, https://www.npg.org.uk/research/programmes/directory-of-suppliers/r.php (Accessed: 29 Dec 2018).
->
-> Simon, Jacob. “Charles Roberson & Co.” In *British canvas, stretcher and panel suppliers’ marks* VIII, 2017, https://www.npg.org.uk/assets/files/pdf/research/artists_materials_8\_Roberson.pdf (Accessed: 29 Dec 2018).
->
-> Taor, Sally. “The painting materials and techniques of William Orpen RA 1878-1931.” Third Year Project MA Conservation and Technology: The Courtauld Institute of Art, 2006, unpublished.
->
-> Tovey, David. *Creating a Splash: The St Ives Society of Artists. The first 25 years (1927-1952).* (Exhibition Catalogue: 21 June 2003-30 August 2003, Penzance: Penlee House Gallery and Museum; 15 May 2004-10 July 2004, Newport: Newport Museum and Art Gallery) Tewkesbury: Wilson Books, 2003.
->
-> Tovey, David. *St Ives (1860-1930): The Artists and the Community. A Social History*. Tewkesbury: Wilson Books, 2009.
->
-> Whybrow, Marion and David Brown. *St. Ives,1883-1993: Portrait of an Art Colony.* Woodbridge: Antique Collectors’ Club, 1994.
->
-> Woodcock, Sally and Judith Churchman. *Index of account holders in the Roberson Archive 1820-1939.* Cambridge: Hamilton Kerr Institute, University of Cambridge, 1997.
+Art Exhibitions. *The Times*. 31 October, 1924: 15. Available at *The Times* Digital Archive. (Accessed: 14 Dec. 2018).
+
+Art Exhibitions. *The Times*. 6 October, 1924: 17. Available at *The Times* Digital Archive. (Accessed:14 Dec. 2018).
+
+Art School Notes” In *Studio International* 187, (January 1909): 77, https://digi.ub.uni-heidelberg.de/diglit/studio1909/0099 (Accessed: 30 Aug 2021).
+
+Chapel for private devotion. Dedication at Truro Cathedral, *Western Morning News* (29 December 1925): 8.
+
+Flower Paintings. *Westminster Gazette*. 12 March, 1923: 12.
+
+Outstanding St. Ives Exhibition. Works By Five R.A.’s. *Cornishman*. 5 March 1936: 10, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000331/19360305/102/0010 (Accessed: 14 Dec. 2018).
+
+St. Austell will soon have an Arts Centre. Society acquisition made known at exhibition by newly-formed group. *Cornish Guardian*. 13 September, 1956: 8.
+
+St. Ives Artists’ Spring Show. *Cornishman*. 15 April, 1937: 3, https://www.britishnewspaperarchive.co.uk/viewer/bl/0000331/19370415/020/0003 (Accessed: 14 Dec. 2018).
+
+The International Society. The Spring Exhibition of the International Society (Grosvenor Galleries). *Westminster Gazette*. 19 May, 1915: 3-4, https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/19150519/003/0003 (Accessed: 14 Dec. 2018).
+
+The International. *Times*. 11 May, 1915: 11. Available at the Times Digital Archive. (Accessed: 14 Dec. 2018).
+
+The Vote Women at home and abroad. Women Artists, *The Vote* (27 April 1923): 3.
+
+St Ives Society of Artists Spring Exhibition. *St Ives Times*. 3 March, 1936.
+
+Works by Cornish Artists. Exhibition at Bath Art Gallery, *Bath Chronicle and Weekly Gazette*. 12 June, 1937: 10.
+
+*A Selection of Poems by the Artist Annie Walke (1877–1965)*, edited by Philip C. Hills, Camborne, Cornwall: Philip Hills, 2004.
+
+Kennedy North, S. “The Art World Modern. Modern paintings equal to past masters. Mrs Fearon Walke: brilliance that is unrecognised.” *Pall Mall Gazette*. 16 March, 1923: 10.
+
+Knight, Laura. *10 am 2 Queens Road* (Drawing of Annie Walke), n.d., ink on paper, London, Tate Archives, in. nr. 895.4
+
+Knight, Laura. *Good Works* (Drawing of Bernard Walke), n.d., ink on paper, London, Tate Archives, in. nr. 859.5.
+
+Letter from Gladys Hynes to Hugh Hynes, 12 June c. 1905, inv. nr. 859.1, Tate Archives, London, England, UK.
+
+*Studio* 8, no. 42, September, 1896: 242-244.
+
+*The Game* 2, no. 2, 9 May, 1918.
+
+*The Year’s Art 1911: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1909, together with information respecting the events of the year 1911*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1911.
+
+*The Year’s Art 1913: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1912, together with information respecting the events of the year 1913*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1913.
+
+*The Year’s Art 1916: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1915, together with information respecting the events of the year 1916*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1916.
+
+*The Year’s Art 1922: A Concise Epitome of all Matters Relating to the Arts of Painting, Sculpture and Architecture, and to the Schools of Design which have occurred during the year 1921, together with information respecting the events of the year 1922*. edited by Albert Charles Robinson Carter. London, England: Hutchinson & Co., 1922.
+
+Walke, Annie. *A Boy Returns: and other poems*. Haywards Heath, Sussex: Breakthru Publications 1964.
+
+Walke, Bernard. *Twenty Years at St. Hilary.* Saint Agnes: Truran, 1935.
+
+<br>
+
+## Secondary Sources
+
+ “Annie Walke.” In *Cornwall Artist Index* (n.d.), https://cornwallartists.org/cornwall-artists/annie-walke (Accessed: 29 Dec 2018).
+
+*“*James Lanham & Co.*”* In *Cornwall Artist Index* (n.d.), https://cornwallartists.org/cornwall-artists/james-lanham-co (Accessed: 29 Dec 2018).
+
+“St Hilary, St Hilary.” In *Cornwall Historic Churches Trust Website*. n.d., https://www.chct.info/histories/st-hilary-st-hilary/ (Accessed: 29 Dec 2018).
+
+*100 years in Newlyn: Diary of a gallery*, edited by Melissa Hardie. Penzance: The Patten Press, 1995.
+
+Allchin, Donald. *Bernard Walke: A Good Man Who Could Never be Dull*. Abergavenny: Three Peaks Press, 2000.
+
+Cross, Tom. *The Shining Sands: Artists in Newlyn and St Ives 1880 -1930*. Devon: Westcountry Books, 1994.
+
+Fox, Caroline and Francis Greenacre. *Painting in Newlyn 1880-1930*. (Exhibition Catalogue: London 11 July-1 September 1985, London: Barbican Art Gallery), London: Barbican Art Gallery, 1985.
+
+Garrett, Christopher. “The Artist Annie Walke (nee Fearon) – To Polruan – Part 1.” *Lanteglos Parish News*, (October-November 2014): 18.
+
+Garrett, Christopher. “The Artist Annie Walke (nee Fearon) – To Polruan – Part 2.” *Lanteglos Parish News*, (December 2014 – January 2015): 18.
+
+Hackney, Stephen. *On Canvas: Preserving the Structure of Paintings*. Los Angeles: The Getty Conservation Institute, 2020.
+
+Hardie, Melissa. *Artists in Newlyn and West Cornwall, 1880-1940: A Dictionary and Source Book.* Bristol: Art Dictionaries Ltd, 2009.
+
+Hedley, Gerry. “The Practicalities of the Interaction of Moisture with Oil Paintings on Canvas”. In *Measured Opinions*. London: United Kingdom Institute of Conservators, 1993: 112-122.
+
+Hills, Philip C. *A Cornish Pageant*. Camborne, Cornwall: Philip Hills, 1999.
+
+ Hills, Philip C. *Bring Back the Donkeys: A Tribute to Father Bernard Walke and the Artist Annie Walke*. *Covering the Years 1870-1965* (Exhibition Booklet: Jesus Chapel, Truro Cathedral, 18 Dec 1997-2 Jan 1998), Truro: Philip Hills, 1997.
+
+Holroyd, Michael. “John, Augustus Edwin (1878-1961).” In *Oxford Dictionary of National Biography*, 2006, https://doi.org/10.1093/ref:odnb/34196 (Accessed: 17 May 2019)
+
+Knight, Laura. *Oil Paint and Grease Paint: Autobiography of Laura Knight.* London: Ivor Nicholson & Watson Limited, 1936.
+
+Knight, Laura. *Oil Paint and Grease Paint: Autobiography of Laura Knight*. London: Ivor Nicholson & Watson Limited, 1936.
+
+Matless, David. “A geography of ghosts: the spectral landscapes of Mary Butts.” *Cultural Geographies* 15, no. 3 (Jul 2008): 335-357, https://journals.sagepub.com/doi/10.1177/1474474008091331.
+
+Pellini, Maria Vittoria and Anna Vesaluoma. “Threads coming together. A study of Sorrowful Women by Annie Walke.” In *The Courtauld Institute of Art Website*. https://courtauld.ac.uk/wp-content/uploads/2021/04/Sorrowful-Women-by-Annie-Walke.pdf, 2019.
+
+Rachel Monie “God, Beauty and Imagination Assignment”. Unpublished essay (2018).
+
+Simon, Jacob. “British Art Suppliers, 1650-1950 – L.” In *National Portrait Gallery Website*. 2018, https://www.npg.org.uk/research/programmes/directory-of-suppliers/l (Accessed: 29 Dec 2018).
+
+Simon, Jacob. “British Art Suppliers, 1650-1950 – R.” In *National Portrait Gallery Website*. 2018, https://www.npg.org.uk/research/programmes/directory-of-suppliers/r.php (Accessed: 29 Dec 2018).
+
+Simon, Jacob. “Charles Roberson & Co.” In *British canvas, stretcher and panel suppliers’ marks* VIII, 2017, https://www.npg.org.uk/assets/files/pdf/research/artists_materials_8\_Roberson.pdf (Accessed: 29 Dec 2018).
+
+Taor, Sally. “The painting materials and techniques of William Orpen RA 1878-1931.” Third Year Project MA Conservation and Technology: The Courtauld Institute of Art, 2006, unpublished.
+
+Tovey, David. *Creating a Splash: The St Ives Society of Artists. The first 25 years (1927-1952).* (Exhibition Catalogue: 21 June 2003-30 August 2003, Penzance: Penlee House Gallery and Museum; 15 May 2004-10 July 2004, Newport: Newport Museum and Art Gallery) Tewkesbury: Wilson Books, 2003.
+
+Tovey, David. *St Ives (1860-1930): The Artists and the Community. A Social History*. Tewkesbury: Wilson Books, 2009.
+
+Whybrow, Marion and David Brown. *St. Ives,1883-1993: Portrait of an Art Colony.* Woodbridge: Antique Collectors’ Club, 1994.
+
+Woodcock, Sally and Judith Churchman. *Index of account holders in the Roberson Archive 1820-1939.* Cambridge: Hamilton Kerr Institute, University of Cambridge, 1997.
 
 ***
 
