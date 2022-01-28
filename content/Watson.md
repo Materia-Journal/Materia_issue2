@@ -9,7 +9,7 @@ peer_review: "true"
 contributor_as_it_appears: Meredith Shuba Watson, Valerie Cassel Oliver, and Carol Woods Sawyer
 contributor:
 
-abstract: Betty Blayton (1937-2016) was an African American artist predominantly recognized as an activist and educator in Harlem beginning in the 1960s. Co-founder of both the Children’s Art Carnival and the Studio Museum, she was fundamental in the development of art-based curriculum programs that provided disadvantaged youth in Harlem with access to the arts, as well as spaces where Black art could be exhibited, preserved, and interpreted. However, Blayton was also a prolific and accomplished painter, printmaker, and sculptor. Her contributions to abstract art have been arguably under-represented in art historical and technical literature. The Virginia Museum of Fine Arts acquired her 1969 abstract oil and paper on canvas, *Consume \#2,* (diam. 59 in) in 2018. The technical study of this work, prompted by its treatment for display, included visual and microscopic examination, scanning Macro X-ray Fluorescence (MA-XRF), Fourier Transform Infrared spectroscopy (FTIR), and Reflectance Transformation Imaging (RTI). This study, complimented by conversations with her family, friends, and her archive and estate, illuminated details of her materials, methods, and artistic process – shedding new light on her art practice as both innovative and conceptually astute. Like so many under-recognized artists of her time, Blayton’s imprint is yet to be fully embraced. This study is but one step toward acknowledging her work as integral to the larger narrative of abstraction during the 1970s and beyond.
+abstract: Betty Blayton (1937-2016) was an African American artist predominantly recognized as an activist and educator in Harlem beginning in the 1960s. Co-founder of both the Children’s Art Carnival and the Studio Museum, she was fundamental in the development of art-based curriculum programs that provided disadvantaged youth in Harlem with access to the arts, as well as spaces where Black art could be exhibited, preserved, and interpreted. However, Blayton was also a prolific and accomplished painter, printmaker, and sculptor. Her contributions to abstract art have been arguably under-represented in art historical and technical literature. The Virginia Museum of Fine Arts acquired her 1969 abstract oil and paper on canvas, *Consume \#2,* (diam. 59 in) in 2018. The technical study of this work, prompted by its treatment for display, included visual and microscopic examination, scanning Macro X-ray Fluorescence (MA-XRF), Fourier Transform Infrared spectroscopy (FTIR), and Reflectance Transformation Imaging (RTI). This study, complimented by conversations with her family, friends, archives as well as her estate, illuminated details of her materials, methods, and artistic process – shedding new light on her art practice as both innovative and conceptually astute. Like so many under-recognized artists of her time, Blayton’s imprint is yet to be fully embraced. This study is but one step toward acknowledging her work as integral to the larger narrative of abstraction during the 1970s and beyond.
 
 ---
 
@@ -21,9 +21,9 @@ Renewed interest in underrepresented artists from previous decades has brought n
 
 In an artist’s statement, Blayton wrote: “The intent of my work is two-fold: The first is personal because the act of creating art works allows me opportunities for meditation and self-reflective thoughts related to life’s mysteries and the meaning of being and becoming. The second is hopefully to provide my viewers with opportunities to also engage in meditation and self-reflective thought. I am deeply interested in metaphysical principles, all aspects of religion, mythology, and the science of the mind.”[^4] Following her death, a retrospective was held at the Elizabeth Dee Gallery in 2017.[^5] The New Yorker reviewed the exhibition, writing, “These serene, transporting abstractions reveal the spiritual and introspective side of a life devoted to social injustice.”[^6] Born into a segregated society, the artist worked toward inclusion through art and education, all the while participating in and contributing to the development of abstract art. In one of the first technical studies of Blayton’s paintings, this project explores the materials and techniques of her self-described “spiritual abstractions.”
 
-## Early life and Education
+## Early Life and Education
 
-Betty Blayton[^7] was born in Virginia in 1937 (**Fig. 2**). Her father, James Blaine Blayton, Sr. attended Howard University in Washington, D.C. as an undergraduate and medical student, before settling in Williamsburg, VA. The first African American doctor in the city, he established a racially inclusive practice and built a 14-bed acute care hospital in Williamsburg. (Until this point African Americans could only be treated in the basement of the city hospital, downstairs next to the boiler).[^8] Alleyne Houser Blayton, Betty’s mother, was born in Lincolnton, NC in 1910. She began her undergraduate studies at the Hampton Institute (now University) in Newport News and finished a two-year degree in business science at Saint Paul’s college in Lawrenceville, VA. The two married in 1935 and had four children: Barbara (1936), Betty (1937) James, Jr. (“Jimmy,”1943), and Oscar (1945). Following the birth of their children, Alleyne completed her bachelor’s degree and opened a nursery school. She also attended New York University during the summers where she earned her Master’s Degree in counseling and worked for several years as the director of guidance and counseling in the York County Black Public School System. Both parents actively strove to improve living conditions for African Americans in Virginia, and were adamant that their children would grow up knowing empathy and serving their community. Oscar, their youngest son wrote: “While my father worked quietly, almost under the radar to help African Americans, our mother was constantly "storming the gates.’”[^9] All four children attended the local segregated Black public school through grade school, and high school at an all-Black private boarding school in North Carolina, the Palmer Memorial Institute (though both boys also studied at boarding schools in New England as well).[^10]
+Betty Blayton[^7] was born in Virginia in 1937 (**Fig. 2**). Her father, James Blaine Blayton, Sr., attended Howard University in Washington, D.C. as an undergraduate and medical student, before settling in Williamsburg, VA. The first African American doctor in the city, he established a racially inclusive practice and built a 14-bed acute care hospital in Williamsburg. (Until this point African Americans could only be treated in the basement of the city hospital, downstairs next to the boiler).[^8] Alleyne Houser Blayton, Betty’s mother, was born in Lincolnton, NC in 1910. She began her undergraduate studies at the Hampton Institute (now University) in Newport News and finished a two-year degree in business science at Saint Paul’s college in Lawrenceville, VA. The two married in 1935 and had four children: Barbara (1936), Betty (1937), James, Jr. (“Jimmy,”1943), and Oscar (1945). Following the birth of their children, Alleyne completed her bachelor’s degree and opened a nursery school. She also attended New York University during the summers where she earned her Master’s Degree in counseling and worked for several years as the director of guidance and counseling in the York County Black Public School System. Both parents actively strove to improve living conditions for African Americans in Virginia, and were adamant that their children would grow up knowing empathy and serving their community. Oscar, their youngest son, wrote: “While my father worked quietly, almost under the radar to help African Americans, our mother was constantly "storming the gates.’”[^9] All four children attended the local segregated Black public school through grade school, and high school at an all-Black private boarding school in North Carolina, the Palmer Memorial Institute (though both boys also studied at boarding schools in New England as well).[^10]
 
 {{< q-figure id="3.2" class="is-pulled-right" >}}
 
@@ -134,7 +134,7 @@ FTIR is an analytical technique using infrared light to characterize the chemica
 
 ## Acknowledgments
 
-This research was based within The Susan and David Goode Center for Advanced Study in Art Conservation at the Virginia Museum of Fine Arts, Richmond, VA. The authors would like to thank the Blayton family; Oscar, Barbara and Omar for their generosity of time, resources, introductions and kindness, without which this project would not have been possible. We extend many thanks to the Art Handling and Conservation departments at the VMFA and are particularly indebted to Sam Sheesley, Senior Conservator and Head of Paper Conservation, and Ainslie Harrison, Associate Conservator of Sculpture and Decorative Arts, for their assistance, expertise, and enthusiasm. Thank you also to Travis Fullerton, Chief Collection Photographer and Manager of Imaging Resources, and Sydney Collins, former Conservation Photographer, for support in photography and RTI, and to Nick Barbi of nSynergies, Inc. for assistance in the CRONO analysis and interpretation of the data. Finally the authors are deeply grateful to Stephen Bonadies, Senior Deputy Director of Conservation and Collections, for securing financial support for this research and to the Institute of Museum and Library Services for funding the project.
+This research was based within The Susan and David Goode Center for Advanced Study in Art Conservation at the Virginia Museum of Fine Arts, Richmond, VA. The authors would like to thank the Blayton family—Oscar, Barbara, and Omar—for their generosity of time, resources, introductions and kindness, without which this project would not have been possible. We extend many thanks to the Art Handling, Curatorial, and Conservation departments at the VMFA and are particularly indebted to Michael Taylor, Chief Curator and Deputy Director for Art and Education, Sam Sheesley, Senior Conservator and Head of Paper Conservation, and Ainslie Harrison, Conservator and Head of Sculpture and Decorative Arts, for their assistance, expertise, and enthusiasm. Thank you also to Travis Fullerton, Chief Collection Photographer and Manager of Imaging Resources, and Sydney Collins, former Conservation Photographer, for support in photography and RTI, and to Nick Barbi of nSynergies, Inc. for assistance in the CRONO analysis and interpretation of the data. Finally the authors are deeply grateful to Stephen Bonadies, Senior Deputy Director of Conservation and Collections, for securing financial support for this research and to the Institute of Museum and Library Services for funding the project.
 
 ***
 
@@ -152,13 +152,13 @@ This research was based within The Susan and David Goode Center for Advanced Stu
 
 “Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. <a href="https://www.newyorker.com/goings-on-about-town/art/betty-blayton" target="_blank">https://www.newyorker.com/goings-on-about-town/art/betty-blayton</a>
 
-“Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. <a href="http://www.elizabethdee.com/exhibitions/betty-blayton" target="_blank">http://www.elizabethdee.com/exhibitions/betty-blayton</a>
+“Betty Blayton” Exhibitions, Elizabeth Dee Gallery. Accessed 24 May 2019. <a href="http://www.elizabethdee.com/exhibitions/betty-blayton" target="_blank">http://www.elizabethdee.com/exhibitions/betty-blayton</a>
 
-Blayton, Betty. Artist statement, 2006. Box 2, Folder 8. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution
+Blayton, Betty. Artist statement, 2006. Box 2, Folder 8. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution.
 
-Corbeil, Marie-Claude, Jean-Pierre Charland, Elizabeth A. Moffatt. “The characterization of cobalt violet pigments,” *Studies in Conservation* 40 Number 4 (2002), 244.Eminhiser-Harris, Karen “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017) <a href="https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/" target="_blank">https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/</a>
+Corbeil, Marie-Claude, Jean-Pierre Charland, Elizabeth A. Moffatt. “The characterization of cobalt violet pigments,” *Studies in Conservation* 40 Number 4 (2002), 244. Eminhiser-Harris, Karen “Women of Color Find Their Rightful Place in the History of American Abstraction,” *Hyperallergic* (August 22, 2017). <a href="https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/" target="_blank">https://hyperallergic.com/396111/women-of-color-find-their-rightful-place-in-te-history-of-american-abstraction/</a>
 
-*FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration, <a href="https://archive.org/details/gov.archives.arc.50813" target="_blank">https://archive.org/details/gov.archives.arc.50813</a>
+*FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration. <a href="https://archive.org/details/gov.archives.arc.50813" target="_blank">https://archive.org/details/gov.archives.arc.50813</a>
 
 Hatch, James V. and Judy Blume eds. “Interview of Betty Blayton-Taylor by Halima Taha, November 9, 1997” *Artist and Influence* Vol.17:1-199 New York, NY: Hatch-Billops Collection Inc. (1998).
 
@@ -166,11 +166,11 @@ Hughes-Hallet, Molly, Christina Young and Paul Messier “A Review of RTI and an
 
 Kambon, Mariamma “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). <a href="https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/" target="_blank">https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/</a>
 
-Lunning, Elizabeth and Roy Perkinson, *The Print Council of America Paper Sample Book* (The Print Council of America, 1996)
+Lunning, Elizabeth and Roy Perkinson, *The Print Council of America Paper Sample Book* (The Print Council of America, 1996).
 
-Smith, Melissa. “Betty Blayton Cofounded the Studio Museum and Taught to Hundreds. Now Her Own Work Is Getting a Blue-Chip Reevaluation.” *ArtForum* (9 Sept. 2021), accessed 9 Sept. 2021. <a href="https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575" target="_blank">https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575</a>
+Smith, Melissa. “Betty Blayton Cofounded the Studio Museum and Taught to Hundreds. Now Her Own Work Is Getting a Blue-Chip Reevaluation.” *ArtForum* (9 Sept., 2021). Accessed 9 Sept., 2021. <a href="https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575" target="_blank">https://news.artnet.com/art-world/betty-blayton-art-and-educator-2006575</a>
 
-Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist” *Hyperallergic* (23 January, 2017) <a href="https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence" target="_blank">https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence</a>
+Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist” *Hyperallergic* (23 January, 2017). <a href="https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence" target="_blank">https://hyperallergic.com/343882/betty-blayton-taylor-reminiscence</a>
 
 Wyma, Chloe, “Betty Blayton; Elizabeth Dee” *ArtForum* (October 2017). <a href="https://www.artforum.com/print/reviews/201708/betty-blayton-71261" target="_blank">https://www.artforum.com/print/reviews/201708/betty-blayton-71261</a>
 
@@ -188,9 +188,9 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^4]: Blayton, Artist statement, 2006. Box 2, Folder 8. Betty Blayton-Taylor papers, 1929-2016, bulk 1970s-2000s. Archives of American Art, Smithsonian Institution.
 
-[^5]: *Betty Blayton*. 20 June-20 July 2017, Elizabeth Dee Gallery, New York, NY. In conjunction with *Uptown*,” 20 June – 20 July 2017, The Wallach Art Gallery, Columbia University, New York, NY. Souleo, curator. “Betty Blayton” Exhibitions, Elizabeth Dee Gallery, accessed 24 May 2019. [www.elizabethdee.com/exhibitions/betty-blayton](http://www.elizabethdee.com/exhibitions/betty-blayton)
+[^5]: *Betty Blayton*. 20 June-20 July 2017, Elizabeth Dee Gallery, New York, NY. In conjunction with *Uptown*,” 20 June – 20 July 2017, The Wallach Art Gallery, Columbia University, New York, NY. Souleo, curator. “Betty Blayton” Exhibitions. Elizabeth Dee Gallery. Accessed 24 May, 2019. [www.elizabethdee.com/exhibitions/betty-blayton](http://www.elizabethdee.com/exhibitions/betty-blayton)
 
-[^6]: “Art; Betty Blayton,” Goings on About Town, The New Yorker, accessed 24 May 2019. [https://www.newyorker.com/goings-on-about-town/art/betty-blayton](https://www.newyorker.com/goings-on-about-town/art/betty-blayton)
+[^6]: “Art; Betty Blayton,” Goings on About Town, The New Yorker. Accessed 24, May 2019. [https://www.newyorker.com/goings-on-about-town/art/betty-blayton](https://www.newyorker.com/goings-on-about-town/art/betty-blayton)
 
 [^7]: Sometimes written as Betty Blayton-Taylor, her married name.
 
@@ -214,11 +214,9 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^17]: In 1964 HARYOU merged with the Associated Community Teams (ACT) becoming HARYOU-ACT.
 
-[^18]: A documentary introducing Charles White, Romare Bearden, Richard Hunt, Barbara Chase-Riboud, and Betty Blayton.
+[^18]: A documentary introducing Charles White, Romare Bearden, Richard Hunt, Barbara Chase-Riboud, and Betty Blayton. *FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration. [https://archive.org/details/gov.archives.arc.50813](https://archive.org/details/gov.archives.arc.50813)
 
-    *FIVE Artists*. Directed and produced by Vicki Kodama, 1971. The National Archives and Records Administration. [https://archive.org/details/gov.archives.arc.50813](https://archive.org/details/gov.archives.arc.50813)
-
-[^19]: Betty Blayton., *FIVE Artists*. Directed and produced by Vicki Kodama, 1971.
+[^19]: Betty Blayton, *FIVE Artists*. Directed and produced by Vicki Kodama, 1971.
 
 [^20]: Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist,” *Hyperallergic*.
 
@@ -230,15 +228,15 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^24]: Mariamma Kambon, “Journey of a soul; the life and work of Betty Blayton Taylor” *Luzedetusinrisa* (6 Feb 2017). [https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/](https://mariammakambon.wordpress.com/2017/02/06/journey-of-a-soul-the-life-and-work-of-betty-blayton-taylor/).
 
-[^25]: “Creating Community: Cinque Gallery Artists,” 3 May-3 July, 2021, The Art Students League of New York.
+[^25]: “Creating Community: Cinque Gallery Artists,” 3 May - 3 July, 2021, The Art Students League of New York.
 
 [^26]: John Yau, “Another Chapter of Black Art History” *Hyperallergic* (5 June, 2021). Accessed 8 September, 2021. [https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/](https://hyperallergic.com/650425/cinque-gallery-another-chapter-of-black-art-history/)
 
-[^27]: Oscar Blayton, personal email to author, 3 November 2021.
+[^27]: Oscar Blayton, personal email to author, 3 November, 2021.
 
 [^28]: Souleo, “Remembrances of Betty Blayton-Taylor, Studio Museum Co-Founder and Harlem Arts Activist” *Hyperallergic*.
 
-[^29]: Most of her artwork was then moved to storage, and the Betty Blayton-Taylore Lifetime Trust is now managed by her brother Oscar H. Blayton (Williamsburg) and nephew Omar Blayton (Boston).
+[^29]: Most of her artwork was then moved to storage, and the Betty Blayton-Taylor Lifetime Trust is now managed by her brother Oscar H. Blayton (Williamsburg) and nephew Omar Blayton (Boston).
 
 [^30]: ^26^Wyma, “Betty Blayton; Elizabeth Dee” *ArtForum*.
 
@@ -278,7 +276,7 @@ Yau, John “Another Chapter of Black Art History” *Hyperallergic* (5 June, 20
 
 [^48]: “Betty Blayton, In Search of Grace” 8 Sept – 16 Oct, 2021, Mnuchin Gallery, New York. Curated by Sukanya Rajaratnam.
 
-[^49]: “Reflectance Transformation Imaging”Cultural Heritage Imaging (CHI), accessed December 2019. [culturalheritageimaging.org/Technologies/RTI/](culturalheritageimaging.org/Technologies/RTI/).
+[^49]: “Reflectance Transformation Imaging”Cultural Heritage Imaging (CHI). Accessed December 2019. [culturalheritageimaging.org/Technologies/RTI/](culturalheritageimaging.org/Technologies/RTI/).
 
 [^50]: (Hasselblad H6D Medium Format DSLR Camera, Broncolor Siros 800s RFS21 strobe light).
 
