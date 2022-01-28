@@ -130,43 +130,44 @@ Thanks first and foremost to the entire Materia team and the two anonymous revie
 
 ## Bibliography
 
-Gary Tinterow, Geneviève Lacambre, and Deborah L. Roldán. *Manet/ Velázquez: The French Taste for Spanish Painting*. New York: Metropolitan Museum of Art, 2003.
-
-Nancy Locke, *Manet and the Family Romance*. Princeton: Princeton University Press, 2001.
-
-Hector L’Estraz, “Promenade au Salon,” *L’Intransigeant* (May 2, 1881).
-
-Emily A. Beeny, “*Manet, Cat. 8, Sketches from The Gypsies, The Spanish Ballet, and Lola de Valence for L’Autographe au Salon de 1865: Curatorial Entry*,” in *Manet Paintings and Works on Paper at the Art Institute of Chicago* https://publications.artic.edu/manet/reader/manetart/section/140020 (Art Institute of Chicago, 2017).
-
-Antoinette Owen, “*Manet, Cat. 8, Sketches from The Gypsies, The Spanish Ballet, and Lola de Valence for L’Autographe au Salon de 1865: Technical Report*,” in *Manet Paintings and Works on Paper at the Art Institute of Chicago* https://publications.artic.edu/manet/reader/manetart/section/140020 (Art Institute of Chicago, 2017).
-
-Anne Coffin Hanson, “Édouard Manet, ‘Les Gitanos’, and the Cut Canvas,” *The Burlington Magazine* 112, no. 804 (March 1970): XX-XX.
-
-Charles Baudelaire, *Oeuvres complètes*. Edited by Claude Pichois. New ed. Vol. I. Paris: Gallimard, 1975.
-
-Françoise Cachin, Charles S. Moffett, and Juliet Wilson-Bareau. *Manet, 1832–1883*. New York: Metropolitan Museum of Art, 1983.
-
-Juliet Wilson-Bareau. *Édouard Manet: Das Graphische Werk: Meisterwerke aus Der Bibliothèque Nationale und Weiterer Sammlungen*. Ingelheim am Rhein: C. H. Boehringer, 1977.
-
-Juliet Wilson-Bareau. *Manet: dessins, aquarelles, eaux-fortes, lithographies, correspondance*. Paris: Hugette Berès, 1978.
-
-Juliet Wilson-Bareau, “Manet’s One and Only Jeanne...and Guérard’s Later Plate,” *Art in Print* 8, 6 (April 2019).
-
 Allan, Scott, Emily A. Beeny, and Gloria Groom. *Manet and Modern Beauty: The Artist’s Last Years*. Getty Publications, 2019.
-
-*Catalogue des estampes anciennes et modernes...composant la collection Edgar Degas...* Paris: Hôtel Druout, 1918.
-
- Petit, Galerie Georges. *Catalogue des tableaux modernes, pastels, aquarelles, dessins ... gravures, tableaux anciens ... composant la collection de M. Max*, Paris, 1917.
-
-Wolohojian, Stephan, ed. *A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University*. New York: The Metropolitan Museum of Art, 2003.
-
-Harris, Jean C. *Édouard Manet: The Graphic Works, A Catalogue Raisonné*. San Francisco: Alan Wofsy Fine Arts, 1990.
 
 Astruc, Zacharie. *Les Alhambras*. Paris, 1908.
 
+Baudelaire, Charles. *Oeuvres complètes*. Edited by Claude Pichois. New ed. Vol. I. Paris: Gallimard, 1975.
+
+Beeny, Emily A. “*Manet, Cat. 8, Sketches from The Gypsies, The Spanish Ballet, and Lola de Valence for L’Autographe au Salon de 1865: Curatorial Entry*,” in *Manet Paintings and Works on Paper at the Art Institute of Chicago* https://publications.artic.edu/manet/reader/manetart/section/140020 (Art Institute of Chicago, 2017).
+
+Cachin, Françoise, Charles S. Moffett, and Juliet Wilson-Bareau. *Manet, 1832–1883*. New York: Metropolitan Museum of Art, 1983.
+
+*Catalogue des estampes anciennes et modernes...composant la collection Edgar Degas...* Paris: Hôtel Druout, 1918.
+
+Hanson, Anne Coffin. “Édouard Manet, ‘Les Gitanos’, and the Cut Canvas,” *The Burlington Magazine* 112, no. 804 (March 1970): XX-XX.
+
+Harris, Jean C. *Édouard Manet: The Graphic Works, A Catalogue Raisonné*. San Francisco: Alan Wofsy Fine Arts, 1990.
+
+L’Estraz, Hector. “Promenade au Salon,” *L’Intransigeant* (May 2, 1881).
+
+Locke, Nancy. *Manet and the Family Romance*. Princeton: Princeton University Press, 2001.
+
+Lussier, Stephanie M., Gregory D. Smith, Stephanie M. Lussier & Gregory D. Smith (2007) A review of the phenomenon of lead white darkening and its conversion treatment, Studies in Conservation, 52:sup1, 41-53, DOI: 10.1179/sic.2007.52.Supplement-1.41.
+
+Owen, Antoinette. “*Manet, Cat. 8, Sketches from The Gypsies, The Spanish Ballet, and Lola de Valence for L’Autographe au Salon de 1865: Technical Report*,” in *Manet Paintings and Works on Paper at the Art Institute of Chicago* https://publications.artic.edu/manet/reader/manetart/section/140020 (Art Institute of Chicago, 2017).
+
+Petit, Galerie Georges. *Catalogue des tableaux modernes, pastels, aquarelles, dessins ... gravures, tableaux anciens ... composant la collection de M. Max*, Paris, 1917.
+
 Tabarant, Adolphe. *Manet et Ses Oeuvres*. Paris: Gallimard, 1947.
 
-Stephanie M. Lussier, Gregory D. Smith, Stephanie M. Lussier & Gregory D. Smith (2007) A review of the phenomenon of lead white darkening and its conversion treatment, Studies in Conservation, 52:sup1, 41-53, DOI: 10.1179/sic.2007.52.Supplement-1.41.
+Tinterow, Gary. Geneviève Lacambre, and Deborah L. Roldán. *Manet/ Velázquez: The French Taste for Spanish Painting*. New York: Metropolitan Museum of Art, 2003.
+
+Wilson-Bareau, Juliet. *Édouard Manet: Das Graphische Werk: Meisterwerke aus Der Bibliothèque Nationale und Weiterer Sammlungen*. Ingelheim am Rhein: C. H. Boehringer, 1977.
+
+Wilson-Bareau, Juliet. *Manet: dessins, aquarelles, eaux-fortes, lithographies, correspondance*. Paris: Hugette Berès, 1978.
+
+Wilson-Bareau, Juliet. “Manet’s One and Only Jeanne...and Guérard’s Later Plate,” *Art in Print* 8, 6 (April 2019).
+
+Wolohojian, Stephan, ed. *A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University*. New York: The Metropolitan Museum of Art, 2003.
+
 
 ***
 ## Notes
