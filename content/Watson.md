@@ -1,6 +1,6 @@
 ---
 label:
-title: " “Spiritual Abstraction”: The Art and Work of Betty Blayton"
+title: "“Spiritual Abstraction”: The Art and Work of Betty Blayton"
 subtitle:
 weight: 32
 type: essay
@@ -12,8 +12,9 @@ contributor:
 abstract: Betty Blayton (1937-2016) was an African American artist predominantly recognized as an activist and educator in Harlem beginning in the 1960s. Co-founder of both the Children’s Art Carnival and the Studio Museum, she was fundamental in the development of art-based curriculum programs that provided disadvantaged youth in Harlem with access to the arts, as well as spaces where Black art could be exhibited, preserved, and interpreted. However, Blayton was also a prolific and accomplished painter, printmaker, and sculptor. Her contributions to abstract art have been arguably under-represented in art historical and technical literature. The Virginia Museum of Fine Arts acquired her 1969 abstract oil and paper on canvas, *Consume \#2,* (diam. 59 in) in 2018. The technical study of this work, prompted by its treatment for display, included visual and microscopic examination, scanning Macro X-ray Fluorescence (MA-XRF), Fourier Transform Infrared spectroscopy (FTIR), and Reflectance Transformation Imaging (RTI). This study, complimented by conversations with her family, friends, archives as well as her estate, illuminated details of her materials, methods, and artistic process – shedding new light on her art practice as both innovative and conceptually astute. Like so many under-recognized artists of her time, Blayton’s imprint is yet to be fully embraced. This study is but one step toward acknowledging her work as integral to the larger narrative of abstraction during the 1970s and beyond.
 
 ---
+## " “Spiritual Abstraction”<sup>1</sup>: The Art and Work of Betty Blayton"
 
-## Introduction
+### Introduction
 
 Renewed interest in underrepresented artists from previous decades has brought new found attention to Betty Blayton. As an African American woman working in abstraction beginning in the late 1960s, Blayton was both a pioneer in the field and an advocate for new generations of artists. In 2018, the Virginia Museum of Fine Arts in Richmond, VA acquired Betty Blayton’s painting *Consume \#2* (**Fig. 1**) a 1969 round abstract oil and paper on canvas. The painting had recently been featured in “*Magnetic Fields; Expanding American Abstraction 1960 to Today*,”[^2] an exhibition which, in part, sought to contribute to the “intense curatorial corrective” seeking to expand the canon of abstract art to be inclusive of African American women.[^3] This iconic painting, one of Blayton’s earliest and largest abstract tondos, is the subject of an ongoing collaborative study in the conservation and curatorial departments at the VMFA. Interviews with the artist's family and friends supported and enriched the technical study of the painting. Opportunities for research also included the study of other paintings in the Betty Blayton Estate and the Blayton-Taylor papers at the Smithsonian Archives of American Art. Technical examination utilized primarily non-destructive imaging and analytical techniques including scanning Macro X-ray Fluorescence (MA-XRF), Reflectance Transformation Imaging (RTI), as well as Fourier Transform Infrared spectroscopy (FTIR) along with visual and microscopic examination.
 
