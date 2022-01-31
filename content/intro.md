@@ -16,9 +16,7 @@ This issue also features some fresh approaches to the works of more fully studie
 
 Kathryn Kremnitzer offers a new take on Édouard Manet’s watercolor practice, which to date has been a relatively understudied yet important part of Manet’s working process. Lastly, Rowan Frame presents research with a slightly different focus, in an article structured around the historical perception of a notorious nineteenth-century material: bitumen. Frame’s article provides a historiographic overview of conflicting narratives surrounding bitumen and how it has become linked to certain degradation phenomena in paintings, some of which may in turn have inspired twentieth-century artists to exploit these effects.
 
-In addition to our excellent contributing authors, we wish to extend our thanks to several new *Materia* team members, editors LaStarsha McGarity and Anouk Jonker, and copy editor Katrina Posner. We would also once again like to thank our dedicated copy editor Mary Cason, who has been with us from the very beginning.
-
-Finally, we would like to point all readers to *Materia*’s current **call for abstracts**, with a request for articles following the theme of *“Across Media"*. For this upcoming issue, authors are encouraged to submit research focusing on artworks in a variety of media, be it textiles, sculpture, wall paintings, ceramics, plastics, time-based media, lacquerware, metalwork, jewelry, and glassware, as well as books, prints, and other paper-based objects. For abstract submissions and further queries, please contact [info\@materiajournal.com](mailto:info@materiajournal.com).
+Finally, in addition to our excellent contributing authors, we wish to extend our thanks to several new *Materia* team members, editors LaStarsha McGarity and Anouk Jonker, and copy editor Katrina Posner. We would also once again like to thank our dedicated copy editor Mary Cason, who has been with us from the very beginning.
 
 
 Happy reading!
