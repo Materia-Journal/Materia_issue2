@@ -84,7 +84,7 @@ Most of Annie Walke’s known works focus on the portrayal of people. Her painti
 
 In *Sorrowful Women* and *St Clare* (**Fig. 14**), women are portrayed with similar soft and round facial characteristics, with the brush marks following the shape of the features. The modelling of the face of the central woman in *Sorrowful Woman* is done by first painting the darkest areas and shadows with iron earth pigments, and then building up the lighter areas and highlights with paint containing lead white; the darkest outlines are sometimes reinforced as the final touch. This buildup of paint is evidenced by the X-radiograph (**Figs. 15a, 15b**).
 
-Conversely, *St Joan* and *Reverend Bernard Walke and His Mother* are painted in a stylised and flat manner with crisp, dark outlines and a lack of modelling of light and shade (**Fig. 16**). *Reverend Bernard Walke and His Mother*, signed “Ann Walke,” is presumed to have been painted between 1911, when the couple married, and 1915, when the work was exhibited at the Grosvenor Galleries.[^48] *St Joan*, commissioned for St Hilary Church, appears to be a companion piece to the 1920 painting <a href="https://i2.wp.com/chct.info/wp-content/uploads/2015/03/CPF9487a.jpg)" target="_blank">*St Francis*</a> by Roger Fry hanging in the same church, and thus we believe it to have been painted around the same time.
+Conversely, <a href="https://i2.wp.com/chct.info/wp-content/uploads/2015/03/CPF9487a.jpg)" target="_blank">*St Joan*</a> and *Reverend Bernard Walke and His Mother* are painted in a stylised and flat manner with crisp, dark outlines and a lack of modelling of light and shade (**Fig. 16**). *Reverend Bernard Walke and His Mother*, signed “Ann Walke,” is presumed to have been painted between 1911, when the couple married, and 1915, when the work was exhibited at the Grosvenor Galleries.[^48] *St Joan*, commissioned for St Hilary Church, appears to be a companion piece to the 1920 painting *St Francis* by Roger Fry hanging in the same church, and thus we believe it to have been painted around the same time.
 
 {{< q-figure-group id="6.15a, 6.15b" grid="2" >}}
 {{< q-figure id="6.16" class="is-pulled-right" >}}
@@ -152,23 +152,39 @@ The purpose of the present study was to begin remedying the oblivion into which 
 
 | Paintings (in estimated chronological order) | Signature | Exhibited | Other Information | Established or speculative (*) date |
 | --- | --- | --- | --- | --- |
-| Annie Walke, *Reverend Bernard Walke and His Mother*, undated. Oil on canvas, 182 🞨 121 cm. Royal Cornwall Museum, Truro | Anne Walke (capital "A") <br> {{< q-figure id="6.31" >}} ![image info](../static/img/figures/Pellini/Appendix-images/Appendix_fig1.jpg) | 1915 (Grosvenor Galleries), 1937 (Porthmeor Gallery) | Also known as *Mother and Son*; created between 1911 (when the couple married) and 1915 (its first exhibition). | 1911-15 |
+| Annie Walke, *Reverend Bernard Walke and His Mother*, undated. Oil on canvas, 182 x 121 cm. Royal Cornwall Museum, Truro | Anne Walke (capital "A") <br> {{< q-figure id="6.31" >}} ![image info](../static/img/figures/Pellini/Appendix-images/Appendix_fig1.jpg) | 1915 (Grosvenor Galleries), 1937 (Porthmeor Gallery) | Also known as *Mother and Son*; created between 1911 (when the couple married) and 1915 (its first exhibition). | 1911-15 |
 | Annie Walke, *St Joan*, undated. Oil on canvas, dimensions unknown.. St Hilary Church, Cornwall. | AW (monogram) <br> {{< q-figure id="6.32" >}}|  | Companion piece to *St Francis* by Roger Fry, dated 1920  | ca. 1920* |
-| Annie Walke, *Dedication*, undated. Oil on panel, 41.5 🞨65.5 cm. St Hilary Church, Cornwall (**fig. 20**) | No signature |  | Choir stall panels by other contributing artists were created ca. 1916–ca. mid-1920s. | 1920s?* |
-| Annie Walke, *Christ Blessing Cornish Industry*, 1923. Oil on panel, side panels: 75 cm 🞨 24 cm, central panel: 75 cm 🞨 95 cm. Truro Cathedral, Cornwall (**fig. 18**) | ANN Walke <br> {{< q-figure id="6.33" >}}|  | Commissioned by Bishop Frere in 1923; mentioned in *Western Morning News* (Plymouth), 29 December 1925 and 3 February 1926  | 1923 |
-| Annie Walke, *Portrait of a Gentleman in a Spanish Cloak*, undated. Oil on canvas, 127 🞨 101.5 cm. Private collection  | Ann Walke (capital “A”) <br> <br> [no clear photograph is available] | 1937 (Bath’s Victoria Art Gallery) | Also known as *Portrait of Bernard Walke standing three-quarter length and Portrait of Bernard Walke in Academic Robes*. Painted in St Hilary, 1913–36. Bernard Walke visited Spain in 1923, possibly acquiring a robe there. | 1923*-27 |
-| Annie Walke, *Christ Mocked*, undated. Oil on canvas, 91.5 🞨 79.2 cm. Royal Cornwall Museum, Truro | ANN WALKE <br> {{< q-figure id="6.34" >}}| 1924 (Goupil Gallery, London), 1928 (Royal Institute Galleries), 1936 (Porthmeor Gallery, Birmingham, Cheltenham), 1937 (Bath’s Victoria Art Gallery), 1947 (Cardiff), 1949 (Swindon), 2003 (Penlee House) | Incorrectly dated ca. 1935 on ArtUK website  | Before 1924 |
+| Annie Walke, *Dedication*, undated. Oil on panel, 41.5 x 65.5 cm. St Hilary Church, Cornwall (**Fig. 20**) | No signature |  | Choir stall panels by other contributing artists were created ca. 1916–ca. mid-1920s. | 1920s?* |
+| Annie Walke, *Christ Blessing Cornish Industry*, 1923. Oil on panel, side panels: 75 cm x 24 cm, central panel: 75 cm x 95 cm. Truro Cathedral, Cornwall (**Fig. 18**) | ANN Walke <br> {{< q-figure id="6.33" >}}|  | Commissioned by Bishop Frere in 1923; mentioned in *Western Morning News* (Plymouth), 29 December 1925 and 3 February 1926  | 1923 |
+| Annie Walke, *Portrait of a Gentleman in a Spanish Cloak*, undated. Oil on canvas, 127 x 101.5 cm. Private collection  | Ann Walke (capital “A”) <br> <br> [no clear photograph is available] | 1937 (Bath’s Victoria Art Gallery) | Also known as *Portrait of Bernard Walke standing three-quarter length and Portrait of Bernard Walke in Academic Robes*. Painted in St Hilary, 1913–36. Bernard Walke visited Spain in 1923, possibly acquiring a robe there. | 1923*-27 |
+| Annie Walke, *Christ Mocked*, undated. Oil on canvas, 91.5 x 79.2 cm. Royal Cornwall Museum, Truro | ANN WALKE <br> {{< q-figure id="6.34" >}}| 1924 (Goupil Gallery, London), 1928 (Royal Institute Galleries), 1936 (Porthmeor Gallery, Birmingham, Cheltenham), 1937 (Bath’s Victoria Art Gallery), 1947 (Cardiff), 1949 (Swindon), 2003 (Penlee House) | Incorrectly dated ca. 1935 on ArtUK website  | Before 1924 |
 | Annie Walke, *Virgin and Child*, undated. Oil on canvas, dimensions unknown.. St Hilary Church, Cornwall. | AW (monogram) <br> {{< q-figure id="6.35" >}}| | Also known as *Madonna with Red Shoes*. Formerly hung in the School of St Clare, came to St Hilary possibly in the 1960s(?)  | 1920s* |
-| Annie Walke, St Clare, undated. Oil on canvas, 151 🞨 90.5 cm. Former School of St Clare, Penzance, Cornwall (**fig. 15**) | AW (monogram) <br> {{< q-figure id="6.36" >}}| | Penzance Girls’ School was renamed the School of St Clare in 1928. <br> The chapel in which the painting hung was built in 1918. | ca. 1928* |
-| Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 🞨 116 cm. Private collection (**fig. 1**) | ANN WALKE <br> {{< q-figure id="6.37" >}}| 1936 (Porthmeor Gallery) | Painted in St Hilary, 1913–36. | 1913-36 |
-| Annie Walke, *St Christopher*, undated. Oil on canvas, dimensions unknown. St Mary’s Church, Bourne Street, London (**fig. 2**). | Ann Walke (capital “A”) <br> {{< q-figure id="6.38" >}}| | Mentioned in a letter from Annie Walke to Mrs Rice, post-1936 (based on Walke’s address in the letter). The model for *St Christopher* was identified as Colin Summerfield on the cover of *Hills*, 2004. | ca. 1936?* |
-| Annie Walke, *Preaching from the Hill*, undated. Oil on hardboard, 81.5 🞨 53.5 cm. Royal Cornwall Museum, Truro, Cornwall | Ann Walke (capital “A”) <br> {{< q-figure id="6.39" >}}| 1957 (St Austell) | Also known as *Angel Appearing to Shepherds* and likely the same as *Angel of the Ascension*. Eric Gill’s print published in *The Game* in 1918 was a possible source of inspiration.  | 1918*-57 |
+| Annie Walke, St Clare, undated. Oil on canvas, 151 x 90.5 cm. Former School of St Clare, Penzance, Cornwall (**Fig. 15**) | AW (monogram) <br> {{< q-figure id="6.36" >}}| | Penzance Girls’ School was renamed the School of St Clare in 1928. <br> The chapel in which the painting hung was built in 1918. | ca. 1928* |
+| Annie Walke, *Sorrowful Women*, undated. Oil on canvas, 134.5 x 116 cm. Private collection (**Fig. 1**) | ANN WALKE <br> {{< q-figure id="6.37" >}}| 1936 (Porthmeor Gallery) | Painted in St Hilary, 1913–36. | 1913-36 |
+| Annie Walke, *St Christopher*, undated. Oil on canvas, dimensions unknown. St Mary’s Church, Bourne Street, London (**Fig. 2**). | Ann Walke (capital “A”) <br> {{< q-figure id="6.38" >}}| | Mentioned in a letter from Annie Walke to Mrs Rice, post-1936 (based on Walke’s address in the letter). The model for *St Christopher* was identified as Colin Summerfield on the cover of *Hills*, 2004. | ca. 1936?* |
+| Annie Walke, *Preaching from the Hill*, undated. Oil on hardboard, 81.5 x 53.5 cm. Royal Cornwall Museum, Truro, Cornwall | Ann Walke (capital “A”) <br> {{< q-figure id="6.39" >}}| 1957 (St Austell) | Also known as *Angel Appearing to Shepherds* and likely the same as *Angel of the Ascension*. Eric Gill’s print published in *The Game* in 1918 was a possible source of inspiration.  | 1918*-57 |
 
 ***
+##Acknowledgments
+
+The research on Annie Walke begun as part of the “Painting Pairs” initiative at The Courtauld Institute of
+Art. We would like to thank all the people at The Courtauld who made the research collaboration possible,
+especially Dr Pia Gottschaller, Prof Aviva Burnstock, Dr Karen Serres, and Silvia Amato. We would like to
+extend our thanks to the owner of Sorrowful Women, who generously allowed us to study the painting.
+Conservation treatment of Sorrowful Women at The Courtauld was also supervised Maureen Cross, Pippa
+Balch and Clare Richardson. We are thankful for the help and support of numerous individuals, including
+Alison Smith, private conservator; Michael Harris, Royal Cornwall Museum; Owen and Carrie Baker, St
+Hilary; Reverend Rachel Monie, Colin Reid and Charles Butchart, Truro Cathedral; Katie Herbert, Penlee
+House; Helen Hoyle, Cornwall Artist Index; Pam Lomax and Newlyn Archives staff; Nicola Hemsley,
+Polwithen House; Dr Ben Blackburn and Bill Luckhurst, King’s College London; Kathy and staff, St Mary’s,
+Bourne Street, London; Darragh and Tate Archive Staff, Tate Britain. Our profound gratitude goes to Hugh
+and Jane Bedford, for their warmth and hospitality during our trip to Cornwall, and constant enthusiasm
+towards our research. Without them much of our work would not have been possible.
+
 
 ## Authors’ Bios
 
-**Maria Vittoria Pellini** holds a B.A. in Art History and Cultural Studies from Foscari
+**Maria Vittoria Pellini** holds a B.A. in Art History and Cultural Studies from Ca’ Foscari
 University (Venice) and an M.A. in Art History from The Courtauld Institute of Art
 (London), where she specialised in Italian Renaissance. She is currently based in Italy, where
 she completed a specialized Master in Arts Management and Administration at SDA Bocconi
