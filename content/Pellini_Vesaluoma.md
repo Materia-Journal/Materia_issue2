@@ -165,7 +165,7 @@ The purpose of the present study was to begin remedying the oblivion into which 
 | Annie Walke, *Preaching from the Hill*, undated. Oil on hardboard, 81.5 x 53.5 cm. Royal Cornwall Museum, Truro, Cornwall | Ann Walke (capital “A”) <br> {{< q-figure id="6.39" >}}| 1957 (St Austell) | Also known as *Angel Appearing to Shepherds* and likely the same as *Angel of the Ascension*. Eric Gill’s print published in *The Game* in 1918 was a possible source of inspiration.  | 1918*-57 |
 
 ***
-##Acknowledgments
+## Acknowledgments
 
 The research on Annie Walke begun as part of the “Painting Pairs” initiative at The Courtauld Institute of
 Art. We would like to thank all the people at The Courtauld who made the research collaboration possible,
