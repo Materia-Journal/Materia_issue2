@@ -14,7 +14,7 @@ abstract: This paper presents the treatment and technical analysis of a child’
 
 ## Introduction
 
-During the 2020–21 academic year, a child’s hooded overcoat from the Dolgan (*tiajono*)[^1] peoples of Siberia served as a student treatment project at the Winterthur/University of Delaware Program in Art Conservation. The coat consists of animal skin, with fur intact, and fulled[^2] wool with beadwork (**Fig. 1**). It measures 96.5 cm across with arms outstretched and 73.7 cm from the top of the hood to the bottom of the coat body. It arrived on loan from the University of Pennsylvania Museum of Archaeology and Anthropology in poor condition, due in large part to a past moth infestation. In tandem with the extensive treatment, technical analysis was conducted at the Scientific Research and Analysis Laboratory (SRAL) at the Winterthur Museum, Garden & Library. Analysis included polarized light microscopy (PLM), X-ray fluorescence spectroscopy (XRF), pH testing, collagen shrinkage temperature testing, Fourier transform infrared-spectroscopy (FTIR), and peptide-mass fingerprinting (PMF) using matrix-assisted laser desorption/ionization-time of flight (MALDI-TOF) mass spectrometry. Each analysis provided valuable information regarding the coat’s original context and current condition.
+During the 2020–21 academic year, a child’s hooded overcoat from the Dolgan (*tiajono*)[^1] peoples of Siberia served as a student treatment project at the Winterthur/University of Delaware Program in Art Conservation. The coat consists of animal skin, with fur intact, and fulled[^2] wool with beadwork (**Fig. 1**). It measures 96.5 cm across with arms outstretched and 73.7 cm from the top of the hood to the bottom of the coat body. It arrived on loan from the University of Pennsylvania Museum of Archaeology and Anthropology in poor condition, due in large part to a past moth infestation. In tandem with the extensive treatment, technical analysis was conducted at the Scientific Research and Analysis Laboratory (SRAL) at the Winterthur Museum, Garden & Library. Analysis included polarized light microscopy (PLM), x-ray fluorescence spectroscopy (XRF), pH testing, collagen shrinkage temperature testing, Fourier-transform infrared spectroscopy (FTIR), and peptide-mass fingerprinting (PMF) using matrix-assisted laser desorption/ionization-time of flight (MALDI-TOF) mass spectrometry. Each analysis provided valuable information regarding the coat’s original context and current condition.
 
 {{< q-figure-group id="1.1, 1.122" grid="2" >}}
 
@@ -86,7 +86,7 @@ The asymmetrical piecing of the hood suggests that the maker utilized scraps or 
 
 {{< q-figure id="1.8" class="is-pulled-left" >}}
 
-The Ushkov Company was established by Kapiton Yakovlevick Ushkov in Tartarstan, a region of Russia with a rich history of chemical production. The Ushkov Company produced a variety of chemicals in the Russian Empire but was established for the manufacture of potassium bichromate, a common textile mordant. During initial examination of the coat using XRF in both the fur and wool components, only elements commonly associated with pesticides were noted. However, upon the discovery of the Ushkov stamp, the results were reexamined, and a small chromium peak, evidence of a potassium bichromate mordant, was detected in areas of wool tested (**Fig. 9**). The limited sources available suggest that the Ushkov Company was founded in 1868 and was renamed the Karpov Chemical Company in 1880. This suggests that the textile was either manufactured or used by the company during those twelve years. However, due to the recycled nature of this component, it can only be stated that the coat was made after 1868. Further research into the company’s history is recommended.
+The Ushkov Company was established by Kapiton Yakovlevick Ushkov in Tartarstan, a region of Russia with a rich history of chemical production. The Ushkov Company produced a variety of chemicals in the Russian Empire but was established for the manufacture of potassium bichromate, a common textile mordant. During initial examination of the coat using XRF in both the fur and wool components, only elements commonly associated with pesticides were noted. However, upon the discovery of the Ushkov stamp, the results were reexamined, and a small chromium x-ray line, possibly due to a potassium bichromate mordant, was detected in areas of wool tested (**Fig. 9**). The limited sources available suggest that the Ushkov Company was founded in 1868 and was renamed the Karpov Chemical Company in 1880. This suggests that the textile was either manufactured or used by the company during those twelve years. However, due to the recycled nature of this component, it can only be stated that the coat was made after 1868. Further research into the company’s history is recommended.
 
 {{< q-figure id="1.9" >}}
 
@@ -147,7 +147,7 @@ This level of scientific analysis is infrequently conducted and available in Eng
 
 ## Acknowledgments
 
-Thanks to the University of Pennsylvania Museum of Archaeology and Anthropology for allowing me to study and treat this wonderful coat. Special thanks to Lynn Grant, Dr. Marie-Claude Boileau, and Dr. William Wierzbowski. This treatment was supervised by Lara Kaplan, with additional consultation from Laura Mina. I am grateful for their supervision and for allowing me to establish minor coursework in organic objects conservation, of which this treatment was a part. Analysis was conducted by Catherine Matsen and Dr. Rosie Grayburn at the Scientific Research and Analysis Laboratory at the Winterthur Museum, Garden & Library. Amy Tjiong and Vera Solovyeva of the American Museum of Natural History consulted on the coat’s context. It is important to note that attempts to contact a representative of the Dolgan peoples were made but unfortunately unsuccessful given the project’s time frame and language differences. I truly believe that when studying and conserving indigenous material culture, collaborating with community stakeholders is best practice. I regret it was not possible in this instance.
+Thanks to the University of Pennsylvania Museum of Archaeology and Anthropology for allowing me to study and treat this wonderful coat. Special thanks to Lynn Grant, Dr. Marie-Claude Boileau, and Dr. William Wierzbowski. This treatment was supervised by Lara Kaplan, with additional consultation from Laura Mina. I am grateful for their supervision and for allowing me to establish minor coursework in organic objects conservation, of which this treatment was a part. Analysis was conducted by Catherine Matsen and Dr. Rosie Grayburn at the Scientific Research and Analysis Laboratory at the Winterthur Museum, Garden & Library. Access to the instrumentation at the Mass Spectrometry Facility at UD was made possible by the Delaware COBRE program, with a grant fron the National Institute of General Medical Sciences - NIGMS (5 P30 GM110758-02) with the National Institutes of Health. Amy Tjiong and Vera Solovyeva of the American Museum of Natural History consulted on the coat’s context. It is important to note that attempts to contact a representative of the Dolgan peoples were made but unfortunately unsuccessful given the project’s time frame and language differences. I truly believe that when studying and conserving indigenous material culture, collaborating with community stakeholders is best practice. I regret it was not possible in this instance.
 
 ## Author Bio
 
@@ -163,6 +163,8 @@ Carrlee, Ellen. “Wolverine Fur.” *Ellen Carrlee Conservation,* 2008.
 
 Czaplicka, Marie Antoinette. *My Siberian Year; by M.a. Czaplicka, with Thirty-Two Illustrations from Photographs*. London: Mills & Boon, 1916.
 
+deYoung Museum. “IPR00001 Glue, animal, Shirish atha, Sam Monowar Jahan.” Ed. Beth Price, Boris Pretzel, and Suzanne Quillen Lomax. *Infrared and Raman Users Group Spectral Database. Infrared and Raman Users Group*, 2007. www.irug.org
+
 “Dolgan.” *Minorityrights.org, 2019*. [https://minorityrights.org/minorities/dolgan/](https://minorityrights.org/minorities/dolgan/).
 
 Ellencarrlee.wordpress.com/2008/12/28/wolverine-fur.
@@ -174,6 +176,8 @@ Forsyth, James. *A History of the Peoples of Siberia : Russia's North Asian Colo
 Hall, Henry U. “The Siberian Expedition.” *The Museum Journal/University of Pennsylvania.* (1917): 27-45.
 
 Klokkernes, Torunn. “Skin Processing Technology in Eurasian Reindeer Cultures : A Comparative Study in Material Science of Sàmi and Evenk Methods : Perspectives on Deterioration and Preservation of Museum Artefacts.” Dissertation, Langelands Museum, Royal Danish Academy of Fine Arts, 2007.
+
+No Author. “100.A43 OLD SHELLAC” The Gettens Collection of Aged Materials of the Artist: FTIR Spectral Library and Catalog.
 
 “100 Years of Research." *Expedition Magazine* 26.1: Penn Museum, 1983. http://www.penn.museum/sites/expedition/?p=4941.
 
@@ -192,7 +196,7 @@ Ziker, John P. *Peoples of the Tundra : Northern Siberians in the Post-Communist
 ### Polarized Light Microscopy (PLM)
 PLM was completed using a 7.2 Color Mosaic microscope from Diagnostics Instruments. Images were taken using Spot RT Software v3.5.
 
-### Peptide Mass Fingerprinting (PMF) using Matrix-assisted Laser Desorption/Ionization-Time of Flight (MALDI-TOF) Mass Spectrometry
+### Peptide Mass Fingerprinting (PMF) using Matrix-assisted Laser Desorption/Ionization-Time of Flight (MALDI-TOF) Mass Spectrometry (conducted at COBRA-funded facility.)
 
 Rubbings were removed from the skins using an abrasive disc and solubilized in 30 µL trifluoroethanol, 30 µL 50 mM ammonium bicarbonate (AMBI) at 60ºC for 45 min with intermittent vortexing/agitation. They were digested with 8 µL trypsin (0.02 ug/µL in 50 mM AMBI) at 37ºC overnight.
 
@@ -206,7 +210,7 @@ These tests were conducted using the hot table method. The system consists of a 
 
 Analysis was performed with a handheld Bruker Tracer III-SD XRF spectrometer using a rhodium tube (40kV high voltage, 9.6μA anode current, 25 μm Ti/305 μm Al filter) for 60 sec live-time irradiation. The spot size is oblong in shape, approximately 1 cm × 0.5 cm. Spectra were interpreted using the PXRF1 software.
 
-### Fourier Transform Infrared Spectroscopy (FTIR)
+### Fourier-Transform Infrared Spectroscopy (FTIR)
 
 Sample material from the body of the coat was acquired with a stainless-steel scalpel and the aid of a stereomicroscope and then placed directly on a diamond cell. The material was rolled flat on the cell with a steel micro-roller to decrease thickness and increase transparency.
 
